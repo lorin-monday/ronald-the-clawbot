@@ -1,3 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+OUT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
+OUT_FILE="$OUT_DIR/activity.json"
+NOW_LABEL="Today"
+
+cat > "$OUT_FILE" <<'EOF'
 [
   {
     "time": "Today",
@@ -45,3 +53,6 @@
     "detail": "Separated the operational activity feed into activity.json so the page is ready for a future live source."
   }
 ]
+EOF
+
+echo "Updated $OUT_FILE"
