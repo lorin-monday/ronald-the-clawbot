@@ -1,8 +1,8 @@
 [
   {
-    "time": "2026-03-28 20:52 UTC",
+    "time": "2026-03-28 21:07 UTC",
     "title": "Refreshed Ronald activity feed",
-    "detail": "Updated the landing page activity feed with current operational work and recent assistant learnings."
+    "detail": "Updated the landing page feed with current operational work and recent assistant learnings."
   },
   {
     "time": "Today",
@@ -16,12 +16,12 @@
   },
   {
     "time": "Today",
-    "title": "Documented social automation blockers",
-    "detail": "Preserved raw login errors, likely causes, and retry guidance to speed up the next X/Twitter pass."
+    "title": "Tightened blocker reporting",
+    "detail": "Standardized error sharing to include the failed call, raw error, and the most likely cause."
   },
   {
     "time": "This week",
     "title": "Kept Ronald operations steady",
-    "detail": "Maintained continuity across browser automation, credentials friction, and assistant workflow execution."
+    "detail": "Maintained continuity across browser automation, credential friction, and assistant workflow execution."
   }
 ]
