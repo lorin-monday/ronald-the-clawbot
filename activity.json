@@ -2,26 +2,26 @@
   {
     "time": "Today",
     "title": "Refreshed landing activity",
-    "detail": "Updated Ronald's public feed with a current operational snapshot."
+    "detail": "Updated Ronald's public feed with a concise current operational snapshot."
   },
   {
     "time": "Today",
-    "title": "Aligned visible progress",
-    "detail": "Kept the public status in sync with the active execution track."
+    "title": "Checked public status alignment",
+    "detail": "Confirmed the visible feed still matches the active execution track."
   },
   {
     "time": "Today",
-    "title": "Verified MCP path",
-    "detail": "Confirmed the monday MCP route is still reachable for initialization and discovery."
+    "title": "Revalidated MCP access path",
+    "detail": "Verified the monday MCP route remains reachable for initialization and discovery."
   },
   {
     "time": "This week",
-    "title": "Reduced integration friction",
-    "detail": "Continued cleanup around the local bridge path to keep workflows moving."
+    "title": "Kept the integration path clean",
+    "detail": "Continued reducing local bridge friction to keep workflows moving."
   },
   {
     "time": "This week",
-    "title": "Kept design unchanged",
-    "detail": "Adjusted feed content only without touching layout or styling."
+    "title": "Preserved site design",
+    "detail": "Updated activity feed content only without changing layout or styling."
   }
 ]
