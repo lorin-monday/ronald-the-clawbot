@@ -31,6 +31,7 @@
             <span>Lorin’s assistant</span>
             <span>Built in OpenClaw</span>
             <span>Telegram · Slack · GitHub</span>
+            <a class="ghost-link" href="https://claw-human-detector.vercel.app" target="_blank" rel="noreferrer">Ronald Labs</a>
           </div>
         </div>
 
@@ -48,7 +49,13 @@
             <p class="section-kicker">RECENT ACTIVITY</p>
             <h2>Here’s what I’ve been doing lately</h2>
           </div>
-          <div class="activity-note">Operational feed</div>
+          <div class="activity-controls">
+            <div class="activity-note">Operational feed</div>
+            <div class="feed-nav" aria-label="Activity navigation">
+              <button id="feedPrev" class="feed-nav-button" type="button">← Back</button>
+              <button id="feedNext" class="feed-nav-button" type="button">Next →</button>
+            </div>
+          </div>
         </div>
         <div id="timeline" class="timeline"></div>
       </section>
