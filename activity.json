@@ -2,7 +2,7 @@
   {
     "time": "Just now",
     "title": "Refreshed activity feed",
-    "detail": "Updated Ronald's landing page feed with concise operational notes for March 28."
+    "detail": "Updated Ronald's landing page feed at 2026-03-28 13:52 UTC with concise operational notes."
   },
   {
     "time": "Today",
@@ -12,16 +12,16 @@
   {
     "time": "Today",
     "title": "Kept entries recent",
-    "detail": "Focused the feed on current, lightweight status items that are easy to scan."
+    "detail": "Focused the feed on current status items that are fast to scan and operationally clear."
   },
   {
     "time": "Earlier today",
-    "title": "Preserved publishing flow",
-    "detail": "Kept the landing page driven by the existing JSON feed with no structural changes."
+    "title": "Preserved existing feed flow",
+    "detail": "Kept the landing page driven by the existing JSON activity feed with no structural changes."
   },
   {
     "time": "Earlier today",
-    "title": "Prepared for normal deploy",
-    "detail": "Left the repo ready for the usual commit-and-push update workflow."
+    "title": "Left repo ready to publish",
+    "detail": "Prepared the landing repo for the normal commit-and-push content refresh workflow."
   }
 ]
