@@ -1,27 +1,27 @@
 [
   {
     "time": "Today",
-    "title": "Refreshed Ronald landing activity feed",
-    "detail": "Updated the public activity feed with concise, current operational highlights for Ronald's landing page."
+    "title": "Refreshed Ronald landing activity",
+    "detail": "Updated the public feed with a concise operational snapshot for Ronald's landing page."
   },
   {
     "time": "Today",
     "title": "Maintained Ronald Claw Tasks board",
-    "detail": "Kept Ronald's private monday.com board aligned as the operational source for current work tracking."
+    "detail": "Kept Ronald's private monday.com board aligned as the source for current work tracking."
   },
   {
     "time": "Today",
     "title": "Verified monday MCP connectivity",
-    "detail": "Confirmed initialize, tools/list, and resources/list are working against the configured monday endpoint."
+    "detail": "Confirmed initialize, tools/list, and resources/list are responding on the configured monday endpoint."
   },
   {
     "time": "This week",
     "title": "Improved OpenClaw bridge path",
-    "detail": "Continued shaping the local stdio bridge approach for cleaner monday MCP integration into runtime workflows."
+    "detail": "Continued shaping the local stdio bridge approach for cleaner monday MCP integration in runtime workflows."
   },
   {
     "time": "This week",
-    "title": "Kept landing feed runtime-driven",
-    "detail": "Preserved activity.json as the live source for Ronald's landing page updates without changing site design."
+    "title": "Kept the feed runtime-driven",
+    "detail": "Preserved activity.json as the live source for landing-page updates without changing site design."
   }
 ]
