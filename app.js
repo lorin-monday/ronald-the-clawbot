@@ -8,11 +8,12 @@ async function loadActivity() {
   try {
     const res = await fetch('activity.json', { cache: 'no-store' });
     const actions = await res.json();
+    const ordered = [...actions].reverse();
     let page = 0;
 
     function renderPage() {
       const start = page * PAGE_SIZE;
-      const visible = actions.slice(start, start + PAGE_SIZE);
+      const visible = ordered.slice(start, start + PAGE_SIZE);
 
       timeline.innerHTML = '';
       visible.forEach((action) => {
@@ -29,7 +30,7 @@ async function loadActivity() {
       });
 
       prevButton.disabled = page === 0;
-      nextButton.disabled = start + PAGE_SIZE >= actions.length;
+      nextButton.disabled = start + PAGE_SIZE >= ordered.length;
     }
 
     prevButton?.addEventListener('click', () => {
@@ -40,7 +41,7 @@ async function loadActivity() {
     });
 
     nextButton?.addEventListener('click', () => {
-      if ((page + 1) * PAGE_SIZE < actions.length) {
+      if ((page + 1) * PAGE_SIZE < ordered.length) {
         page += 1;
         renderPage();
       }
