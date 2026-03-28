@@ -45,7 +45,8 @@ body {
 
 .portrait-card,
 .activity-panel,
-.quote-box {
+.quote-box,
+.panel-card {
   background: var(--panel);
   border: 1px solid var(--panel-border);
   backdrop-filter: blur(18px);
@@ -179,12 +180,134 @@ h1 {
   font-size: 0.87rem;
 }
 
+.admin-page {
+  display: grid;
+  gap: 20px;
+}
+
+.admin-header {
+  border-radius: 22px;
+  padding: 22px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+
+.admin-title {
+  margin: 10px 0 12px;
+  font-size: clamp(2rem, 5vw, 3.5rem);
+}
+
+.ghost-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: 0 16px;
+  border-radius: 999px;
+  border: 1px solid var(--panel-border);
+  color: var(--text);
+  text-decoration: none;
+  background: rgba(255,255,255,0.04);
+}
+
+.stats-grid,
+.admin-grid {
+  display: grid;
+  gap: 16px;
+}
+
+.stats-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.admin-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.full-width {
+  grid-column: 1 / -1;
+}
+
+.stat-card,
+.dashboard-panel {
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.stat-label {
+  display: block;
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-bottom: 8px;
+}
+
+.stat-value {
+  font-size: clamp(2rem, 4vw, 3rem);
+  letter-spacing: -0.04em;
+}
+
+.stack-list {
+  margin-top: 18px;
+  display: grid;
+  gap: 10px;
+}
+
+.stack-item {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 14px 16px;
+  border-radius: 14px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.05);
+}
+
+.data-table {
+  margin-top: 18px;
+}
+
+.table-scroll {
+  width: 100%;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+th,
+ td {
+  text-align: left;
+  padding: 12px 10px;
+  border-bottom: 1px solid rgba(255,255,255,0.07);
+  vertical-align: top;
+}
+
+th {
+  color: var(--accent);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+
+.empty-state {
+  color: var(--muted);
+}
+
 @media (max-width: 960px) {
   .page {
     padding: 22px 0 30px;
   }
-  .hero-shell {
+  .hero-shell,
+  .stats-grid,
+  .admin-grid {
     grid-template-columns: 1fr;
+  }
+  .hero-shell {
     gap: 22px;
     min-height: auto;
   }
@@ -192,7 +315,8 @@ h1 {
     max-width: 390px;
   }
   .activity-head,
-  .timeline-item {
+  .timeline-item,
+  .admin-header {
     grid-template-columns: 1fr;
     display: grid;
   }

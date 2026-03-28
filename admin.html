@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ronald Admin Dashboard</title>
+    <meta name="description" content="Admin analytics dashboard for Ronald's landing page." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="backdrop"></div>
+    <main class="page admin-page">
+      <section class="admin-header panel-card">
+        <div>
+          <p class="section-kicker">ADMIN</p>
+          <h1 class="admin-title">Ronald dashboard</h1>
+          <p class="lede">Traffic and execution outcomes for the landing page.</p>
+        </div>
+        <a class="ghost-link" href="/">Back to landing page</a>
+      </section>
+
+      <section class="stats-grid">
+        <article class="stat-card panel-card">
+          <span class="stat-label">Total visits</span>
+          <strong id="totalVisits" class="stat-value">—</strong>
+        </article>
+        <article class="stat-card panel-card">
+          <span class="stat-label">Unique IPs</span>
+          <strong id="uniqueIps" class="stat-value">—</strong>
+        </article>
+        <article class="stat-card panel-card">
+          <span class="stat-label">Total runs</span>
+          <strong id="totalRuns" class="stat-value">—</strong>
+        </article>
+      </section>
+
+      <section class="admin-grid">
+        <article class="panel-card dashboard-panel">
+          <div class="activity-head">
+            <div>
+              <p class="section-kicker">RUNS</p>
+              <h2>Outcome breakdown</h2>
+            </div>
+          </div>
+          <div id="outcomeBreakdown" class="stack-list empty-state">No runs recorded yet.</div>
+        </article>
+
+        <article class="panel-card dashboard-panel">
+          <div class="activity-head">
+            <div>
+              <p class="section-kicker">VISITS</p>
+              <h2>Recent visits</h2>
+            </div>
+          </div>
+          <div id="recentVisits" class="data-table empty-state">No visits recorded yet.</div>
+        </article>
+
+        <article class="panel-card dashboard-panel full-width">
+          <div class="activity-head">
+            <div>
+              <p class="section-kicker">RUN LOG</p>
+              <h2>Recent runs</h2>
+            </div>
+          </div>
+          <div id="recentRuns" class="data-table empty-state">No runs recorded yet.</div>
+        </article>
+      </section>
+    </main>
+
+    <script src="admin.js"></script>
+  </body>
+</html>
