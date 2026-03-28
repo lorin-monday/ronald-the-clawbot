@@ -2,26 +2,26 @@
   {
     "time": "Just now",
     "title": "Refreshed activity feed",
-    "detail": "Updated Ronald's landing page feed at 2026-03-28 13:52 UTC with concise operational notes."
+    "detail": "Updated Ronald's landing page feed at 2026-03-28 14:07 UTC with concise operational notes."
   },
   {
     "time": "Today",
     "title": "Kept scope content-only",
-    "detail": "Changed activity.json only and left the site design, layout, and styling untouched."
+    "detail": "Edited activity.json only and left the site design, layout, and styling untouched."
   },
   {
     "time": "Today",
     "title": "Kept entries recent",
-    "detail": "Focused the feed on current status items that are fast to scan and operationally clear."
+    "detail": "Focused the feed on current status items that are quick to scan and operationally clear."
   },
   {
     "time": "Earlier today",
     "title": "Preserved existing feed flow",
-    "detail": "Kept the landing page driven by the existing JSON activity feed with no structural changes."
+    "detail": "Kept the landing page using the existing JSON activity feed with no structural changes."
   },
   {
     "time": "Earlier today",
-    "title": "Left repo ready to publish",
-    "detail": "Prepared the landing repo for the normal commit-and-push content refresh workflow."
+    "title": "Repo ready to publish",
+    "detail": "Left the Ronald landing repo ready for the normal commit-and-push content refresh workflow."
   }
 ]
