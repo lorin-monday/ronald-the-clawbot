@@ -126,6 +126,20 @@ h1 {
   font-size: 0.83rem;
 }
 
+.inline-link {
+  display: inline-flex;
+  align-items: center;
+  color: var(--text);
+  text-decoration: underline;
+  text-decoration-color: rgba(142,203,255,0.55);
+  text-underline-offset: 4px;
+  font-size: 0.92rem;
+}
+
+.inline-link:hover {
+  color: var(--accent);
+}
+
 .activity-panel {
   border-radius: 22px;
   padding: 20px;

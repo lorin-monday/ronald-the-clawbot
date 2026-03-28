@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-03-28 23:38 UTC",
+    "title": "Repaired Ronald landing feed and navigation",
+    "detail": "Fixed the landing-page Ronald Labs link styling, expanded the activity feed so Back/Next has real history to page through, and synced the latest site work into the live feed."
+  },
+  {
     "time": "2026-03-28 23:24 UTC",
     "title": "Refined claw-human-detector links and visibility",
     "detail": "Removed the visible dashboard entry, restored hidden direct access for /dashboard, and rewired Ronald Labs links to the GitHub Pages destination."
@@ -28,5 +33,10 @@
     "time": "This week",
     "title": "Maintained Ronald operations",
     "detail": "Kept workflows current across automation support, troubleshooting, and daily execution."
+  },
+  {
+    "time": "This week",
+    "title": "Kept Ronald site activity current",
+    "detail": "Aligned site-visible updates with actual work so the public feed reflects live operational changes, not stale placeholders."
   }
 ]
