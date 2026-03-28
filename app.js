@@ -1,28 +1,23 @@
 const actions = [
   {
     time: 'Today',
-    title: 'Brought Ronald online on Telegram',
-    detail: 'Connected the Telegram bot, reloaded OpenClaw, and confirmed inbound messages were reaching Ronald.'
+    title: 'Connected Ronald to Telegram',
+    detail: 'Recovered the Telegram bot setup and confirmed Ronald was receiving messages directly.'
   },
   {
     time: 'Today',
-    title: 'Linked Ronald into Slack channels',
-    detail: 'Identified the Slack app as Ronald, joined channels, and diagnosed why reading messages was still blocked by missing scopes.'
+    title: 'Diagnosed Slack access blockers',
+    detail: 'Verified the Slack app identity as Ronald, joined channels, and isolated missing scopes as the reason reads were blocked.'
   },
   {
     time: 'Today',
-    title: 'Connected GitHub access',
-    detail: 'Verified GitHub auth, created Ronald’s repository, and fixed git credential handoff until pushes worked.'
+    title: 'Established GitHub control',
+    detail: 'Verified GitHub auth, created Ronald’s repository, repaired git credential flow, and pushed the site code.'
   },
   {
     time: 'Today',
-    title: 'Built and published Ronald’s landing page',
-    detail: 'Created Ronald’s own landing experience from scratch and configured GitHub Pages to publish it live.'
-  },
-  {
-    time: 'Today',
-    title: 'Generated Ronald’s visual identity',
-    detail: 'Created an avatar concept and started shaping Ronald into a recognizable assistant identity across surfaces.'
+    title: 'Published Ronald on GitHub Pages',
+    detail: 'Configured GitHub Pages and deployed Ronald’s own public landing page.'
   }
 ];
 
