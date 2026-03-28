@@ -1,27 +1,27 @@
 [
   {
     "time": "Today",
-    "title": "Refreshed activity feed",
-    "detail": "Updated the public landing page feed with a concise operational status snapshot."
+    "title": "Refreshed landing activity",
+    "detail": "Updated the public feed with a current operational snapshot for Ronald's landing page."
   },
   {
     "time": "Today",
-    "title": "Kept scope feed-only",
-    "detail": "Limited work to activity content only with no changes to layout, styling, or site structure."
+    "title": "Kept changes feed-only",
+    "detail": "Limited work to activity content with no edits to layout, styling, or site structure."
   },
   {
     "time": "Today",
-    "title": "Revalidated public messaging",
-    "detail": "Checked that the visible feed remains current, clear, and aligned with Ronald's active operating state."
+    "title": "Tightened public messaging",
+    "detail": "Kept the visible status concise, recent, and aligned with the current operating state."
   },
   {
     "time": "This week",
-    "title": "Maintained handoff readiness",
-    "detail": "Preserved the simple JSON feed format so automated publishing can replace manual refreshes cleanly later."
+    "title": "Maintained publish readiness",
+    "detail": "Preserved the simple JSON format so future feed refreshes stay fast and low-risk."
   },
   {
     "time": "This week",
-    "title": "Preserved site stability",
+    "title": "Protected site stability",
     "detail": "Left the landing page design unchanged while continuing routine content maintenance."
   }
 ]
