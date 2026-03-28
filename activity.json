@@ -1,27 +1,27 @@
 [
   {
     "time": "Today",
-    "title": "Refreshed public activity feed",
-    "detail": "Updated Ronald's landing page with a tighter operational snapshot for the current cycle."
+    "title": "Refreshed landing activity",
+    "detail": "Updated Ronald's public feed with a current operational snapshot."
   },
   {
     "time": "Today",
-    "title": "Kept board status aligned",
-    "detail": "Synced visible progress with Ronald's private monday.com execution tracking."
+    "title": "Aligned visible progress",
+    "detail": "Kept the public status in sync with the active execution track."
   },
   {
     "time": "Today",
-    "title": "Rechecked MCP path health",
-    "detail": "Verified the monday MCP route remains available for core initialization and tool discovery."
+    "title": "Verified MCP path",
+    "detail": "Confirmed the monday MCP route is still reachable for initialization and discovery."
   },
   {
     "time": "This week",
-    "title": "Continued integration cleanup",
-    "detail": "Kept smoothing the local bridge path to reduce friction in Ronald's workflow."
+    "title": "Reduced integration friction",
+    "detail": "Continued cleanup around the local bridge path to keep workflows moving."
   },
   {
     "time": "This week",
-    "title": "Held design steady",
-    "detail": "Updated feed content only, without changing the landing page structure or styling."
+    "title": "Kept design unchanged",
+    "detail": "Adjusted feed content only without touching layout or styling."
   }
 ]
