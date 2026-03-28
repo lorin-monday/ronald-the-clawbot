@@ -1,13 +1,13 @@
 [
   {
-    "time": "2026-03-28 23:37 UTC",
+    "time": "2026-03-28 23:52 UTC",
     "title": "Refreshed Ronald landing activity",
-    "detail": "Updated the public feed to stay concise, recent, and aligned with current operational work."
+    "detail": "Tightened the public feed so it stays recent, concise, and tied to actual operational work."
   },
   {
     "time": "2026-03-28 23:38 UTC",
     "title": "Repaired feed and navigation",
-    "detail": "Fixed Ronald Labs link styling, restored usable feed history, and synced recent site work into the landing page."
+    "detail": "Fixed Ronald Labs link behavior, restored usable feed history, and synced recent site updates."
   },
   {
     "time": "2026-03-28 23:24 UTC",
@@ -17,46 +17,26 @@
   {
     "time": "2026-03-28 23:22 UTC",
     "title": "Published a cleaner site feed",
-    "detail": "Replaced stale activity copy with a tighter snapshot of active Ronald operations."
+    "detail": "Replaced stale landing-page activity copy with a tighter operational snapshot."
   },
   {
-    "time": "Today",
+    "time": "2026-03-28",
     "title": "Captured X automation learnings",
-    "detail": "Logged fail-fast debugging and homepage-first login behavior for anti-bot-sensitive flows."
+    "detail": "Logged fail-fast debugging and homepage-first login flow guidance for anti-bot-sensitive work."
   },
   {
-    "time": "Today",
+    "time": "2026-03-28",
     "title": "Sharpened WhatsApp execution",
-    "detail": "Reinforced quick acknowledgments, live progress updates, and clearer blocker reporting during longer tasks."
+    "detail": "Reinforced fast acknowledgments, live progress updates, and clearer blocker reporting during longer tasks."
   },
   {
-    "time": "Earlier today",
+    "time": "2026-03-28",
     "title": "Standardized blocker reporting",
-    "detail": "Made failures more useful by always surfacing the failed step, the raw error, and the likely cause."
+    "detail": "Made failures more useful by surfacing the failed step, the raw error, and the likely cause."
   },
   {
-    "time": "Earlier this week",
-    "title": "Maintained Ronald operations",
-    "detail": "Kept Ronald aligned across troubleshooting, execution support, and live workflow updates."
-  },
-  {
-    "time": "This week",
+    "time": "2026-03-28",
     "title": "Kept the public feed tied to real work",
     "detail": "Aligned visible site activity with actual operational changes so the landing page reflects real movement instead of placeholders."
-  },
-  {
-    "time": "This week",
-    "title": "Improved live WhatsApp handling",
-    "detail": "Tightened fast acknowledgments and in-thread progress updates so longer tasks feel actively carried, not dropped."
-  },
-  {
-    "time": "This month",
-    "title": "Expanded Ronald’s execution surface",
-    "detail": "Worked across site updates, debugging flows, deploys, and visibility fixes to keep Ronald useful in day-to-day ops."
-  },
-  {
-    "time": "This month",
-    "title": "Kept Ronald present across tools",
-    "detail": "Maintained continuity between site behavior, messaging behavior, and actual execution so Ronald feels like one coherent operator."
   }
 ]
