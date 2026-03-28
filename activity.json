@@ -1,27 +1,27 @@
 [
   {
     "time": "Today",
-    "title": "Refreshed public activity feed",
-    "detail": "Updated Ronald's landing page with a concise operational snapshot for current status visibility."
+    "title": "Refreshed activity feed",
+    "detail": "Updated the public landing page feed with a concise operational status snapshot."
   },
   {
     "time": "Today",
-    "title": "Confirmed feed-only update path",
-    "detail": "Kept the change scoped to activity content without touching layout, styling, or site structure."
+    "title": "Kept scope feed-only",
+    "detail": "Limited work to activity content only with no changes to layout, styling, or site structure."
   },
   {
     "time": "Today",
-    "title": "Rechecked public status alignment",
-    "detail": "Verified the visible feed still reflects Ronald's active operating track and recent maintenance work."
+    "title": "Revalidated public messaging",
+    "detail": "Checked that the visible feed remains current, clear, and aligned with Ronald's active operating state."
   },
   {
     "time": "This week",
-    "title": "Maintained integration readiness",
-    "detail": "Kept the landing page feed in a clean JSON format so a future live exporter can replace manual updates cleanly."
+    "title": "Maintained handoff readiness",
+    "detail": "Preserved the simple JSON feed format so automated publishing can replace manual refreshes cleanly later."
   },
   {
     "time": "This week",
-    "title": "Preserved deployment stability",
-    "detail": "Left the public site design unchanged while continuing routine feed refreshes and publishing hygiene."
+    "title": "Preserved site stability",
+    "detail": "Left the landing page design unchanged while continuing routine content maintenance."
   }
 ]
