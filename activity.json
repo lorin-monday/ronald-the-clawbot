@@ -1,27 +1,27 @@
 [
   {
     "time": "Today",
-    "title": "Refreshed landing activity",
-    "detail": "Published a concise operational update for Ronald's landing page feed."
+    "title": "Refreshed landing activity feed",
+    "detail": "Updated Ronald's public activity stream with a concise operational snapshot."
   },
   {
     "time": "Today",
-    "title": "Synced private work tracking",
-    "detail": "Kept Ronald's monday.com task board aligned with current execution."
+    "title": "Kept work tracking aligned",
+    "detail": "Synced current execution status with Ronald's private monday.com board."
   },
   {
     "time": "Today",
-    "title": "Checked monday MCP health",
-    "detail": "Confirmed the configured endpoint is responding for initialize, tools/list, and resources/list."
+    "title": "Verified monday MCP availability",
+    "detail": "Confirmed the configured endpoint is healthy for initialize, tools/list, and resources/list."
   },
   {
     "time": "This week",
     "title": "Continued bridge path cleanup",
-    "detail": "Kept improving the local stdio bridge direction for smoother monday MCP integration."
+    "detail": "Kept improving the local stdio bridge path for smoother monday MCP integration."
   },
   {
     "time": "This week",
-    "title": "Preserved runtime-driven feed",
-    "detail": "Maintained activity.json as the live content source without touching the site design."
+    "title": "Preserved runtime-driven content",
+    "detail": "Maintained activity.json as the live feed source without changing the site design."
   }
 ]
