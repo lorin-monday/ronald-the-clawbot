@@ -118,6 +118,55 @@ h2 {
   border: 1px solid rgba(255,255,255,0.08);
 }
 
+.hero-panel-future {
+  background:
+    linear-gradient(180deg, rgba(83,179,255,0.12), rgba(255,255,255,0.02)),
+    radial-gradient(circle at top right, rgba(255,107,44,0.16), transparent 40%);
+}
+
+.hero-subtitle {
+  margin: 10px 0 0;
+  font-size: clamp(1.2rem, 2vw, 1.7rem);
+  color: var(--accent2);
+  font-weight: 600;
+}
+
+.system-kicker {
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.system-title {
+  margin-top: 4px;
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: var(--text);
+}
+
+.scan-head {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.info-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.info-card::after {
+  content: "";
+  position: absolute;
+  inset: auto -20% -60% auto;
+  width: 180px;
+  height: 180px;
+  background: radial-gradient(circle, rgba(83,179,255,0.14), transparent 70%);
+  pointer-events: none;
+}
+
 .agent-badge {
   width: 76px;
   height: 76px;
