@@ -1,47 +1,32 @@
 [
   {
     "time": "Today",
-    "title": "Connected Ronald to Telegram",
-    "detail": "Recovered the Telegram bot setup and confirmed Ronald was receiving direct messages successfully."
+    "title": "Locked the landing page to one screen",
+    "detail": "Adjusted the layout so the full experience fits cleanly within a single viewport."
   },
   {
     "time": "Today",
-    "title": "Identified Ronald in Slack",
-    "detail": "Verified the Slack app identity as Ronald and confirmed he was added into team channels."
+    "title": "Reduced hero and feed footprint",
+    "detail": "Tightened spacing and sizing to keep the page readable without scrolling."
   },
   {
     "time": "Today",
-    "title": "Diagnosed missing Slack scopes",
-    "detail": "Tracked message-read failures to missing OAuth scopes even after Ronald was invited into channels."
+    "title": "Stabilized the hybrid layout",
+    "detail": "Refined the split between the main profile area and live activity feed."
   },
   {
     "time": "Today",
-    "title": "Verified GitHub authentication",
-    "detail": "Confirmed GitHub access as lorin-monday and verified repository visibility through live CLI checks."
+    "title": "Enabled feed-driven updates",
+    "detail": "Moved the activity stream into activity.json so operational updates can ship without redesign work."
   },
   {
-    "time": "Today",
-    "title": "Created Ronald’s repository",
-    "detail": "Created ronald-the-clawbot on GitHub as Ronald’s dedicated public repository."
+    "time": "Earlier today",
+    "title": "Published Ronald’s public landing page",
+    "detail": "Confirmed the site is deployed through GitHub Pages for external access."
   },
   {
-    "time": "Today",
-    "title": "Fixed git credential flow",
-    "detail": "Repaired the git/gh credential handoff so Ronald could actually push code into his own repository."
-  },
-  {
-    "time": "Today",
-    "title": "Published Ronald via GitHub Pages",
-    "detail": "Configured GitHub Pages and deployed Ronald’s own landing page to a public URL."
-  },
-  {
-    "time": "Today",
-    "title": "Generated Ronald’s avatar",
-    "detail": "Created a visual identity image for Ronald and integrated it into the site."
-  },
-  {
-    "time": "Today",
-    "title": "Prepared feed-ready site structure",
-    "detail": "Separated the operational activity feed into activity.json so the page is ready for a future live source."
+    "time": "Earlier today",
+    "title": "Verified Ronald’s core integrations",
+    "detail": "Checked Telegram, Slack identity, and GitHub access to keep the public profile aligned with real system state."
   }
 ]
