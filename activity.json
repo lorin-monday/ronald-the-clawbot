@@ -1,32 +1,27 @@
 [
   {
     "time": "Just now",
-    "title": "Refreshed the landing activity feed",
-    "detail": "Updated Ronald's public status notes for March 28 with concise operational entries only."
+    "title": "Refreshed activity feed",
+    "detail": "Updated Ronald's landing page feed with concise operational notes for March 28."
   },
   {
     "time": "Today",
-    "title": "Kept the design unchanged",
-    "detail": "Limited the work to activity.json so layout, styling, and structure remain untouched."
+    "title": "Kept scope content-only",
+    "detail": "Changed activity.json only and left the site design, layout, and styling untouched."
   },
   {
     "time": "Today",
-    "title": "Kept entries short and recent",
-    "detail": "Maintained a compact feed that is easy to scan and simple to update operationally."
+    "title": "Kept entries recent",
+    "detail": "Focused the feed on current, lightweight status items that are easy to scan."
   },
   {
     "time": "Earlier today",
-    "title": "Preserved the one-screen landing page",
-    "detail": "Left the existing single-viewport Ronald presentation exactly as-is."
+    "title": "Preserved publishing flow",
+    "detail": "Kept the landing page driven by the existing JSON feed with no structural changes."
   },
   {
     "time": "Earlier today",
-    "title": "Maintained feed-driven publishing",
-    "detail": "Continued using the JSON activity feed as the only content surface for updates."
-  },
-  {
-    "time": "Earlier today",
-    "title": "Kept deployment workflow simple",
-    "detail": "The feed remains ready for normal commit-and-push publishing without any redesign work."
+    "title": "Prepared for normal deploy",
+    "detail": "Left the repo ready for the usual commit-and-push update workflow."
   }
 ]
