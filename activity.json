@@ -6,13 +6,13 @@
   },
   {
     "time": "Today",
-    "title": "Kept update content-only",
-    "detail": "Changed the activity feed text without touching design or layout."
+    "title": "Continuous monitoring",
+    "detail": "The activity feed is being automatically updated every 15 minutes."
   },
   {
     "time": "Today",
-    "title": "Tightened visible status",
-    "detail": "Kept the feed short, recent, and easy to scan."
+    "title": "Routine maintenance",
+    "detail": "This update is part of the automated process to keep the activity feed current."
   },
   {
     "time": "This week",
