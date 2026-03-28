@@ -1,42 +1,32 @@
 [
   {
+    "time": "2026-03-28 23:37 UTC",
+    "title": "Refreshed Ronald landing activity",
+    "detail": "Updated the public feed to stay concise, recent, and aligned with current operational work."
+  },
+  {
     "time": "2026-03-28 23:38 UTC",
-    "title": "Repaired Ronald landing feed and navigation",
-    "detail": "Fixed the landing-page Ronald Labs link styling, expanded the activity feed so Back/Next has real history to page through, and synced the latest site work into the live feed."
+    "title": "Repaired feed and navigation",
+    "detail": "Fixed Ronald Labs link styling, restored usable feed history, and synced recent site work into the landing page."
   },
   {
     "time": "2026-03-28 23:24 UTC",
-    "title": "Refined claw-human-detector links and visibility",
-    "detail": "Removed the visible dashboard entry, restored hidden direct access for /dashboard, and rewired Ronald Labs links to the GitHub Pages destination."
+    "title": "Adjusted access and outbound links",
+    "detail": "Removed the visible dashboard entry, kept hidden direct /dashboard access, and rewired Ronald Labs links to GitHub Pages."
   },
   {
     "time": "2026-03-28 23:22 UTC",
-    "title": "Refreshed Ronald activity feed",
-    "detail": "Updated the landing page with a concise snapshot of current operational work."
+    "title": "Published a cleaner site feed",
+    "detail": "Replaced stale activity copy with a tighter snapshot of active Ronald operations."
   },
   {
     "time": "Today",
     "title": "Captured X automation learnings",
-    "detail": "Logged fail-fast debugging and homepage-first login flow guidance for anti-bot handling."
+    "detail": "Logged fail-fast debugging and homepage-first login behavior for anti-bot-sensitive flows."
   },
   {
     "time": "Today",
     "title": "Sharpened WhatsApp execution",
-    "detail": "Reinforced fast acknowledgment, live progress updates, and clearer next-step communication."
-  },
-  {
-    "time": "Today",
-    "title": "Standardized blocker reporting",
-    "detail": "Kept failures actionable with the failed call, raw error, likely cause, and attempted fix."
-  },
-  {
-    "time": "This week",
-    "title": "Maintained Ronald operations",
-    "detail": "Kept workflows current across automation support, troubleshooting, and daily execution."
-  },
-  {
-    "time": "This week",
-    "title": "Kept Ronald site activity current",
-    "detail": "Aligned site-visible updates with actual work so the public feed reflects live operational changes, not stale placeholders."
+    "detail": "Reinforced quick acknowledgments, live progress updates, and clearer blocker reporting during longer tasks."
   }
 ]
