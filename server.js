@@ -35,7 +35,7 @@ app.get('/api/health', (_req, res) => {
 });
 
 app.get('/api/admin/stats', (_req, res) => {
-  res.json(getAdminStats());
+  res.status(404).json({ error: 'not found' });
 });
 
 app.post('/api/runs', (req, res) => {
@@ -61,7 +61,7 @@ app.post('/api/runs', (req, res) => {
 });
 
 app.get('/admin', (_req, res) => {
-  res.sendFile(path.join(publicDir, 'admin.html'));
+  res.status(404).send('Not found');
 });
 
 app.use(express.static(publicDir, { extensions: ['html'] }));

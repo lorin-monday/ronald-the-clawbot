@@ -34,6 +34,8 @@ test('landing page visit tracking and run logging work', async () => {
   assert.equal(landingResponse.status, 200);
   const landingHtml = await landingResponse.text();
   assert.match(landingHtml, /I’m Ronald\./);
+  assert.match(landingHtml, /Ronald Labs/);
+  assert.doesNotMatch(landingHtml, /Admin dashboard/);
 
   const runResponse = await fetch(`${baseUrl}/api/runs`, {
     method: 'POST',
@@ -52,24 +54,12 @@ test('landing page visit tracking and run logging work', async () => {
   assert.equal(runBody.ok, true);
 
   const statsResponse = await fetch(`${baseUrl}/api/admin/stats`);
-  assert.equal(statsResponse.status, 200);
-  const stats = await statsResponse.json();
-
-  assert.equal(stats.totalVisits, 1);
-  assert.equal(stats.uniqueIps, 1);
-  assert.equal(stats.totalRuns, 1);
-  assert.deepEqual(stats.outcomeBreakdown, [{ outcome: 'success', count: 1 }]);
-  assert.equal(stats.recentVisits[0].ip, '203.0.113.10');
-  assert.equal(stats.recentVisits[0].path, '/');
-  assert.equal(stats.recentRuns[0].source, 'test-suite');
-  assert.deepEqual(stats.recentRuns[0].metadata, { durationMs: 1250, model: 'gpt-5.4' });
+  assert.equal(statsResponse.status, 404);
 });
 
-test('admin page is served and validation rejects missing outcome', async () => {
+test('admin page is hidden and validation still rejects missing outcome', async () => {
   const adminResponse = await fetch(`${baseUrl}/admin`);
-  assert.equal(adminResponse.status, 200);
-  const adminHtml = await adminResponse.text();
-  assert.match(adminHtml, /Ronald dashboard/);
+  assert.equal(adminResponse.status, 404);
 
   const badRunResponse = await fetch(`${baseUrl}/api/runs`, {
     method: 'POST',

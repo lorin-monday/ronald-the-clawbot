@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-03-28 23:24 UTC",
+    "title": "Refined claw-human-detector links and visibility",
+    "detail": "Removed the visible dashboard entry, restored hidden direct access for /dashboard, and rewired Ronald Labs links to the GitHub Pages destination."
+  },
+  {
     "time": "2026-03-28 23:22 UTC",
     "title": "Refreshed Ronald activity feed",
     "detail": "Updated the landing page with a concise snapshot of current operational work."
