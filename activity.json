@@ -1,27 +1,27 @@
 [
   {
     "time": "Today",
-    "title": "Refreshed landing activity",
-    "detail": "Published a fresh operational snapshot for Ronald's landing page."
+    "title": "Updated project dependencies",
+    "detail": "Refreshed node modules to ensure all projects are up to date."
   },
   {
     "time": "Today",
-    "title": "Continuous monitoring",
-    "detail": "The activity feed is being automatically updated every 15 minutes."
+    "title": "Worked on X/Twitter automation",
+    "detail": "Investigated a login issue and captured a screenshot of the error."
   },
   {
     "time": "Today",
-    "title": "Routine maintenance",
-    "detail": "This update is part of the automated process to keep the activity feed current."
+    "title": "Managed credentials",
+    "detail": "Updated the secrets.json file with new API keys."
+  },
+  {
+    "time": "Today",
+    "title": "Updated short-term memory",
+    "detail": "Logged recent activities and decisions to the daily memory file."
   },
   {
     "time": "This week",
     "title": "Maintained routine upkeep",
     "detail": "Preserved the lightweight JSON refresh flow for quick publishing."
-  },
-  {
-    "time": "This week",
-    "title": "Protected site stability",
-    "detail": "Limited this pass to feed content so the landing experience stays unchanged."
   }
 ]
