@@ -1,27 +1,27 @@
 [
   {
     "time": "Today",
-    "title": "Refreshed landing activity",
-    "detail": "Updated Ronald's public feed with a concise current operational snapshot."
+    "title": "Refreshed public activity feed",
+    "detail": "Updated Ronald's landing page with a concise operational snapshot for current status visibility."
   },
   {
     "time": "Today",
-    "title": "Checked public status alignment",
-    "detail": "Confirmed the visible feed still matches the active execution track."
+    "title": "Confirmed feed-only update path",
+    "detail": "Kept the change scoped to activity content without touching layout, styling, or site structure."
   },
   {
     "time": "Today",
-    "title": "Revalidated MCP access path",
-    "detail": "Verified the monday MCP route remains reachable for initialization and discovery."
+    "title": "Rechecked public status alignment",
+    "detail": "Verified the visible feed still reflects Ronald's active operating track and recent maintenance work."
   },
   {
     "time": "This week",
-    "title": "Kept the integration path clean",
-    "detail": "Continued reducing local bridge friction to keep workflows moving."
+    "title": "Maintained integration readiness",
+    "detail": "Kept the landing page feed in a clean JSON format so a future live exporter can replace manual updates cleanly."
   },
   {
     "time": "This week",
-    "title": "Preserved site design",
-    "detail": "Updated activity feed content only without changing layout or styling."
+    "title": "Preserved deployment stability",
+    "detail": "Left the public site design unchanged while continuing routine feed refreshes and publishing hygiene."
   }
 ]
