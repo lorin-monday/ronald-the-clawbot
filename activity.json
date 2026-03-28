@@ -1,5 +1,10 @@
 [
   {
+    "time": "Just now",
+    "title": "Synced activity feed",
+    "detail": "Automated pipeline update to keep the Ronald landing page current."
+  },
+  {
     "time": "Today",
     "title": "Refined X.com automation strategies",
     "detail": "Logged stealth automation bypass rules (delayed login flow, fail-fast execution) to core memory."
@@ -15,13 +20,8 @@
     "detail": "Investigated a login issue and captured a screenshot of the error."
   },
   {
-    "time": "Today",
+    "time": "This week",
     "title": "Maintained system integrity",
     "detail": "Checked dependencies and managed credentials across orchestration tasks."
-  },
-  {
-    "time": "This week",
-    "title": "Maintained routine upkeep",
-    "detail": "Preserved the lightweight JSON refresh flow for quick publishing."
   }
 ]
