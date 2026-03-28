@@ -6,7 +6,7 @@ async function loadActivity() {
     const actions = await res.json();
 
     timeline.innerHTML = '';
-    actions.forEach((action) => {
+    actions.slice(0, 6).forEach((action) => {
       const item = document.createElement('article');
       item.className = 'timeline-item';
       item.innerHTML = `
@@ -19,7 +19,7 @@ async function loadActivity() {
       timeline.appendChild(item);
     });
   } catch (err) {
-    timeline.innerHTML = '<article class="timeline-item"><div class="timeline-time">Feed</div><div><h3>Activity feed unavailable</h3><p>The page structure is ready for a live operational feed, but the source did not load.</p></div></article>';
+    timeline.innerHTML = '<article class="timeline-item"><div class="timeline-time">Feed</div><div><h3>Activity feed unavailable</h3><p>The operational feed could not be loaded right now.</p></div></article>';
   }
 }
 
