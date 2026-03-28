@@ -1,27 +1,27 @@
 [
   {
     "time": "Today",
-    "title": "Refreshed landing activity",
-    "detail": "Updated Ronald's public activity feed with a current operational snapshot."
+    "title": "Refreshed activity feed",
+    "detail": "Updated Ronald's landing page with a current operational status snapshot."
   },
   {
     "time": "Today",
-    "title": "Kept scope feed-only",
-    "detail": "Changed only the activity content with no edits to design, layout, or page structure."
+    "title": "Kept changes content-only",
+    "detail": "Limited this pass to activity feed text with no design or layout edits."
   },
   {
     "time": "Today",
-    "title": "Tightened visible status",
-    "detail": "Kept the feed concise, recent, and aligned with the latest landing page maintenance pass."
+    "title": "Maintained concise status",
+    "detail": "Trimmed the visible feed to short, recent updates that are easy to scan."
   },
   {
     "time": "This week",
-    "title": "Maintained lightweight updates",
-    "detail": "Preserved the simple JSON activity format for quick, low-risk refreshes."
+    "title": "Continued routine upkeep",
+    "detail": "Preserved the lightweight JSON update flow for fast landing page maintenance."
   },
   {
     "time": "This week",
-    "title": "Protected landing stability",
-    "detail": "Left the site design unchanged while continuing routine feed maintenance."
+    "title": "Protected site stability",
+    "detail": "Kept the landing experience unchanged while refreshing only the public activity feed."
   }
 ]
