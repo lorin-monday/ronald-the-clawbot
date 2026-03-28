@@ -2,7 +2,7 @@
   {
     "time": "Just now",
     "title": "Activity feed refreshed",
-    "detail": "Updated Ronald's landing page feed at 2026-03-28 15:37 UTC with concise operational notes."
+    "detail": "Updated Ronald's landing page feed at 2026-03-28 15:52 UTC with concise operational notes."
   },
   {
     "time": "Today",
@@ -12,7 +12,7 @@
   {
     "time": "Today",
     "title": "Feed kept current",
-    "detail": "Latest landing page activity remains brief, recent, and easy to scan."
+    "detail": "Latest landing page activity stays brief, recent, and easy to scan."
   },
   {
     "time": "Earlier today",
@@ -22,6 +22,6 @@
   {
     "time": "Earlier today",
     "title": "Publish workflow ready",
-    "detail": "Repository is ready for the normal commit-and-push refresh flow."
+    "detail": "Repository remains ready for the normal commit-and-push refresh flow."
   }
 ]
