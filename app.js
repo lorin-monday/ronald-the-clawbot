@@ -11,6 +11,13 @@ async function loadActivity() {
     const ordered = [...actions].reverse();
     let page = 0;
 
+    if (!ordered.length) {
+      timeline.innerHTML = '<article class="timeline-item"><div class="timeline-time">Feed</div><div><h3>No activity to show</h3><p>There are currently no actions logged in the activity feed.</p></div></article>';
+      if (prevButton) prevButton.style.display = 'none';
+      if (nextButton) nextButton.style.display = 'none';
+      return;
+    }
+
     function renderPage() {
       const start = page * PAGE_SIZE;
       const visible = ordered.slice(start, start + PAGE_SIZE);
@@ -29,8 +36,17 @@ async function loadActivity() {
         timeline.appendChild(item);
       });
 
-      prevButton.disabled = page === 0;
-      nextButton.disabled = start + PAGE_SIZE >= ordered.length;
+      const hasPrev = page > 0;
+      const hasNext = start + PAGE_SIZE < ordered.length;
+
+      if (prevButton) {
+        prevButton.disabled = !hasPrev;
+        prevButton.style.display = hasPrev || hasNext ? '' : 'none';
+      }
+      if (nextButton) {
+        nextButton.disabled = !hasNext;
+        nextButton.style.display = hasPrev || hasNext ? '' : 'none';
+      }
     }
 
     prevButton?.addEventListener('click', () => {
