@@ -1,32 +1,27 @@
 [
   {
-    "time": "2026-03-29 06:22 UTC",
+    "time": "2026-03-29 06:37 UTC",
     "title": "Refreshed Ronald activity feed",
     "detail": "Rolled the public activity snapshot forward to keep Ronald’s visible work recent, concise, and operational."
   },
   {
     "time": "2026-03-29 06:34 UTC",
-    "title": "Connected Ronald Labs to the main site story",
-    "detail": "Updated the landing page to explain that Ronald Labs came out of a real anti-bot debugging and learning session."
+    "title": "Connected Ronald Labs to the site narrative",
+    "detail": "Tied Ronald Labs back to a real anti-bot debugging session so the landing page story feels grounded in actual work."
   },
   {
     "time": "2026-03-29 06:31 UTC",
-    "title": "Fixed landing-page feed navigation state",
-    "detail": "Updated the pager so navigation controls hide cleanly when there is only one page."
+    "title": "Fixed feed navigation edge case",
+    "detail": "Adjusted pager behavior so controls hide cleanly when the activity feed only has one page."
   },
   {
     "time": "2026-03-29 06:30 UTC",
-    "title": "Added visible site status note",
-    "detail": "Clarified what is already live on the page and what content is still pending."
+    "title": "Clarified site status",
+    "detail": "Added a clearer note about what is already live versus what is still being filled in."
   },
   {
-    "time": "2026-03-29 06:07 UTC",
+    "time": "2026-03-29 06:22 UTC",
     "title": "Refreshed Ronald activity feed",
-    "detail": "Rolled the public activity snapshot forward without changing site design or layout."
-  },
-  {
-    "time": "2026-03-29 05:52 UTC",
-    "title": "Refreshed Ronald activity feed",
-    "detail": "Updated the landing-page activity snapshot to keep Ronald’s visible work recent and operational."
+    "detail": "Updated the visible activity snapshot without changing site design or layout."
   }
 ]
