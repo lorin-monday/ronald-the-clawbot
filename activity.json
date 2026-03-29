@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-03-29 00:52 UTC",
+    "title": "Refreshed Ronald’s public activity feed",
+    "detail": "Rolled the landing-page feed forward so Ronald’s visible work stays recent, concise, and operational."
+  },
+  {
     "time": "2026-03-29 00:37 UTC",
     "title": "Refreshed Ronald’s public activity feed",
     "detail": "Rolled the landing-page feed forward so Ronald’s visible work stays recent, concise, and operational."
@@ -18,10 +23,5 @@
     "time": "2026-03-28 23:56 UTC",
     "title": "Captured sharper execution behavior",
     "detail": "Logged more direct, explanatory, fail-fast operating patterns so Ronald feels like a live operator, not a silent queue."
-  },
-  {
-    "time": "2026-03-28 23:54 UTC",
-    "title": "Updated site copy for Ronald Labs",
-    "detail": "Clarified on the landing page that the newer browser-trust and anti-bot debugger now lives on the separate claw-human-detector site."
   }
 ]
