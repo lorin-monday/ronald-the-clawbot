@@ -1,22 +1,22 @@
 [
   {
-    "time": "2026-03-29 08:05 UTC",
-    "title": "Activity Feed Refresh",
-    "detail": "Updated the activity feed for Ronald's landing page to reflect the latest operational milestones and enhancements."
+    "time": "2026-03-29 08:22 UTC",
+    "title": "Activity feed refreshed",
+    "detail": "Cleaned Ronald's landing-page feed so the latest operational work is visible and current."
   },
   {
     "time": "2026-03-29 06:34 UTC",
-    "title": "Website for Human vs. CLAW Verification",
-    "detail": "Built a site to determine if a user appears human or bot-like."
+    "title": "Human-vs-CLAW checker shipped",
+    "detail": "Published a simple site to test whether behavior looks human or bot-like."
   },
   {
     "time": "2026-03-29 06:31 UTC",
-    "title": "Fixed landing-page feed navigation state",
-    "detail": "Updated the activity pager so navigation buttons disappear when there is only one page."
+    "title": "Feed pager edge case fixed",
+    "detail": "Navigation controls now hide automatically when only one page of activity exists."
   },
   {
     "time": "2026-03-29 06:30 UTC",
-    "title": "Added visible site status note",
-    "detail": "Clarified on the page what is already live: back-end wiring and public activity visibility are in."
+    "title": "Live-status note clarified",
+    "detail": "Made the page's current live state explicit: backend wiring and public activity visibility are active."
   }
 ]
