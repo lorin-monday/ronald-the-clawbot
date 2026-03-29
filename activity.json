@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-03-29 00:22 UTC",
+    "title": "Rolled the Ronald activity feed forward",
+    "detail": "Updated the landing-page feed so Ronald’s public activity stays recent, concise, and tied to real operational work."
+  },
+  {
     "time": "2026-03-29 00:07 UTC",
     "title": "Refreshed Ronald’s public activity feed",
     "detail": "Rolled the landing-page feed forward so it stays recent, concise, and tied to real operational work."
@@ -23,10 +28,5 @@
     "time": "2026-03-28 23:38 UTC",
     "title": "Repaired feed and navigation",
     "detail": "Fixed Ronald Labs link behavior, restored useful feed history, and synced recent site updates."
-  },
-  {
-    "time": "2026-03-28 23:24 UTC",
-    "title": "Adjusted access and outbound links",
-    "detail": "Removed the visible dashboard entry, preserved hidden direct /dashboard access, and rewired Ronald Labs links to GitHub Pages."
   }
 ]
