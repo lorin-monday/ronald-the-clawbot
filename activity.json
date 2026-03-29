@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-03-29 02:07 UTC",
+    "title": "Refreshed Ronald landing activity feed",
+    "detail": "Rolled the public feed forward so Ronald’s recent operational work stays visible, current, and concise."
+  },
+  {
     "time": "2026-03-29 01:52 UTC",
     "title": "Refreshed Ronald landing activity feed",
     "detail": "Rolled the public feed forward so recent operational work stays visible, current, and concise."
@@ -18,10 +23,5 @@
     "time": "2026-03-29 01:07 UTC",
     "title": "Refreshed Ronald’s public activity feed",
     "detail": "Kept the landing-page feed aligned with current work and trimmed to high-signal updates."
-  },
-  {
-    "time": "2026-03-29 00:52 UTC",
-    "title": "Updated the landing-page activity log",
-    "detail": "Maintained a concise public record of recent Ronald operations without touching site design."
   }
 ]
