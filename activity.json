@@ -1,32 +1,27 @@
 [
   {
-    "time": "2026-03-29 10:52 UTC",
+    "time": "2026-03-29 11:07 UTC",
     "title": "Refreshed Ronald activity feed",
-    "detail": "Tightened the landing-page timeline so it stays recent, operational, and easier to scan."
+    "detail": "Updated the landing-page timeline to keep it current, concise, and focused on visible operational work."
+  },
+  {
+    "time": "2026-03-29 10:52 UTC",
+    "title": "Tightened feed recency",
+    "detail": "Trimmed stale entries so the public activity stream stays recent and easier to scan."
   },
   {
     "time": "2026-03-29 07:19 UTC",
     "title": "Verified live screenshot flow",
-    "detail": "Checked browser screenshots from the hosted environment to confirm what the site actually renders."
-  },
-  {
-    "time": "2026-03-29 07:08 UTC",
-    "title": "Cleaned timeline language",
-    "detail": "Removed low-signal feed items so the activity stream reads like real work instead of system noise."
+    "detail": "Checked hosted browser screenshots to confirm the site renders as expected in production."
   },
   {
     "time": "2026-03-29 06:44 UTC",
     "title": "Clarified shipped vs pending",
-    "detail": "Added a visible status note so visitors can tell what is already live and what is still in progress."
+    "detail": "Kept the activity language explicit so visitors can distinguish live work from in-progress items."
   },
   {
     "time": "2026-03-29 06:31 UTC",
     "title": "Fixed pager edge case",
-    "detail": "Adjusted feed navigation so controls do not look broken when the activity list fits on one page."
-  },
-  {
-    "time": "2026-03-29 06:24 UTC",
-    "title": "Explained anti-bot verdicts",
-    "detail": "Added readable reasoning for HUMAN, SUSPICIOUS, and CLAW BOT outcomes in Ronald Labs."
+    "detail": "Adjusted feed navigation behavior for the single-page activity state."
   }
 ]
