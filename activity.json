@@ -1,22 +1,22 @@
 [
   {
+    "time": "2026-03-29 08:37 UTC",
+    "title": "Operational feed refreshed",
+    "detail": "Updated Ronald's landing-page activity feed to keep recent work concise, current, and visible."
+  },
+  {
     "time": "2026-03-29 08:22 UTC",
-    "title": "Activity feed refreshed",
-    "detail": "Cleaned Ronald's landing-page feed so the latest operational work is visible and current."
+    "title": "Activity feed cleaned up",
+    "detail": "Trimmed the landing-page feed so the latest operational work is easier to scan."
   },
   {
     "time": "2026-03-29 06:34 UTC",
     "title": "Human-vs-CLAW checker shipped",
-    "detail": "Published a simple site to test whether behavior looks human or bot-like."
+    "detail": "Published a lightweight site to test whether behavior appears human or bot-like."
   },
   {
     "time": "2026-03-29 06:31 UTC",
     "title": "Feed pager edge case fixed",
-    "detail": "Navigation controls now hide automatically when only one page of activity exists."
-  },
-  {
-    "time": "2026-03-29 06:30 UTC",
-    "title": "Live-status note clarified",
-    "detail": "Made the page's current live state explicit: backend wiring and public activity visibility are active."
+    "detail": "Navigation controls now disappear automatically when the feed fits on one page."
   }
 ]
