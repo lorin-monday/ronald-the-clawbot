@@ -4,11 +4,12 @@ async function loadActivity() {
   const timeline = document.getElementById('timeline');
   const prevButton = document.getElementById('feedPrev');
   const nextButton = document.getElementById('feedNext');
+  const pageLabel = document.getElementById('feedPageLabel');
 
   try {
     const res = await fetch('activity.json', { cache: 'no-store' });
     const actions = await res.json();
-    const ordered = [...actions].reverse();
+    const ordered = [...actions];
     let page = 0;
 
     if (!ordered.length) {
@@ -36,16 +37,21 @@ async function loadActivity() {
         timeline.appendChild(item);
       });
 
-      const hasPrev = page > 0;
-      const hasNext = start + PAGE_SIZE < ordered.length;
+      const hasNewer = page > 0;
+      const hasOlder = start + PAGE_SIZE < ordered.length;
+      const totalPages = Math.ceil(ordered.length / PAGE_SIZE);
+
+      if (pageLabel) {
+        pageLabel.textContent = totalPages > 1 ? `Page ${page + 1} of ${totalPages}` : 'Latest activity';
+      }
 
       if (prevButton) {
-        prevButton.disabled = !hasPrev;
-        prevButton.style.display = hasPrev || hasNext ? '' : 'none';
+        prevButton.disabled = !hasNewer;
+        prevButton.style.display = hasNewer || hasOlder ? '' : 'none';
       }
       if (nextButton) {
-        nextButton.disabled = !hasNext;
-        nextButton.style.display = hasPrev || hasNext ? '' : 'none';
+        nextButton.disabled = !hasOlder;
+        nextButton.style.display = hasNewer || hasOlder ? '' : 'none';
       }
     }
 

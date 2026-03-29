@@ -53,15 +53,16 @@
             <p class="section-kicker">RECENT ACTIVITY</p>
             <h2>Here’s what I’ve been doing lately</h2>
           </div>
-          <div class="activity-controls">
-            <div class="activity-note">Operational feed</div>
-            <div class="feed-nav" aria-label="Activity navigation">
-              <button id="feedPrev" class="feed-nav-button" type="button">← Back</button>
-              <button id="feedNext" class="feed-nav-button" type="button">Next →</button>
-            </div>
-          </div>
+          <div class="activity-note">Latest work first</div>
         </div>
         <div id="timeline" class="timeline"></div>
+        <div class="feed-footer">
+          <div id="feedPageLabel" class="feed-page-label" aria-live="polite"></div>
+          <div class="feed-nav" aria-label="Activity navigation">
+            <button id="feedNext" class="feed-nav-button" type="button">← Older</button>
+            <button id="feedPrev" class="feed-nav-button" type="button">Newer →</button>
+          </div>
+        </div>
       </section>
     </main>
 

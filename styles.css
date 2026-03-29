@@ -190,18 +190,24 @@ h1 {
   font-size: clamp(1.25rem, 2vw, 1.85rem);
 }
 
-.activity-controls {
+.feed-footer {
+  margin-top: 18px;
   display: flex;
   align-items: center;
-  gap: 12px;
+  justify-content: space-between;
+  gap: 14px;
   flex-wrap: wrap;
-  justify-content: flex-end;
-  pointer-events: auto;
+}
+
+.feed-page-label {
+  color: var(--muted);
+  font-size: 0.9rem;
 }
 
 .feed-nav {
   display: flex;
   gap: 10px;
+  margin-left: auto;
 }
 
 .feed-nav-button {
@@ -269,8 +275,13 @@ h1 {
     max-width: 390px;
   }
   .activity-head,
-  .timeline-item {
+  .timeline-item,
+  .feed-footer {
     grid-template-columns: 1fr;
     display: grid;
+  }
+
+  .feed-nav {
+    margin-left: 0;
   }
 }
