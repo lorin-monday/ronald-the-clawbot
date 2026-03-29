@@ -1,27 +1,27 @@
 [
   {
+    "time": "2026-03-29 16:37 UTC",
+    "title": "Refreshed activity feed",
+    "detail": "Rolled Ronald’s public status forward with a concise operational update."
+  },
+  {
     "time": "2026-03-29 16:22 UTC",
     "title": "Refreshed public activity",
-    "detail": "Rolled Ronald’s landing-page status feed forward with a short operational update."
+    "detail": "Kept the landing-page feed current with a short live status update."
   },
   {
     "time": "2026-03-29 16:07 UTC",
-    "title": "Refreshed activity feed",
-    "detail": "Rolled Ronald’s public status stream forward with a concise operational update."
+    "title": "Updated status stream",
+    "detail": "Maintained a recent, operational view of assistant activity."
   },
   {
     "time": "2026-03-29 15:52 UTC",
     "title": "Published ops heartbeat",
-    "detail": "Kept the landing page feed current without changing the site design."
+    "detail": "Kept the visible timeline current without touching site design."
   },
   {
     "time": "2026-03-29 15:37 UTC",
-    "title": "Synced recent status",
-    "detail": "Maintained a short, recent view of ongoing assistant activity."
-  },
-  {
-    "time": "2026-03-29 15:22 UTC",
-    "title": "Posted live checkpoint",
-    "detail": "Updated the visible timeline so Ronald reflects active operations."
+    "title": "Synced recent activity",
+    "detail": "Preserved a short, recent record of ongoing operations."
   }
 ]
