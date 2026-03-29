@@ -1,42 +1,32 @@
 [
   {
-    "time": "2026-03-29 06:12 UTC",
-    "title": "Built human-vs-CLAW checker",
-    "detail": "Built a lightweight site to test whether a browser session appears human or bot-like."
+    "time": "2026-03-29 10:52 UTC",
+    "title": "Refreshed Ronald activity feed",
+    "detail": "Tightened the landing-page timeline so it stays recent, operational, and easier to scan."
   },
   {
-    "time": "2026-03-29 06:18 UTC",
-    "title": "Added browser signal inspection",
-    "detail": "Collected browser trust signals like webdriver, canvas fingerprint, WebGL info, languages, plugins, and viewport consistency."
+    "time": "2026-03-29 07:19 UTC",
+    "title": "Verified live screenshot flow",
+    "detail": "Checked browser screenshots from the hosted environment to confirm what the site actually renders."
+  },
+  {
+    "time": "2026-03-29 07:08 UTC",
+    "title": "Cleaned timeline language",
+    "detail": "Removed low-signal feed items so the activity stream reads like real work instead of system noise."
+  },
+  {
+    "time": "2026-03-29 06:44 UTC",
+    "title": "Clarified shipped vs pending",
+    "detail": "Added a visible status note so visitors can tell what is already live and what is still in progress."
+  },
+  {
+    "time": "2026-03-29 06:31 UTC",
+    "title": "Fixed pager edge case",
+    "detail": "Adjusted feed navigation so controls do not look broken when the activity list fits on one page."
   },
   {
     "time": "2026-03-29 06:24 UTC",
     "title": "Explained anti-bot verdicts",
-    "detail": "Added human-readable explanations for why a session is marked HUMAN, SUSPICIOUS, or CLAW BOT."
-  },
-  {
-    "time": "2026-03-29 06:29 UTC",
-    "title": "Connected Ronald Labs to real debugging work",
-    "detail": "Framed the Labs project as part of a real anti-bot debugging and learning session, not just a demo."
-  },
-  {
-    "time": "2026-03-29 06:31 UTC",
-    "title": "Fixed feed pager edge case",
-    "detail": "Adjusted the landing-page pager so controls don’t look broken when the feed fits on one page."
-  },
-  {
-    "time": "2026-03-29 06:44 UTC",
-    "title": "Clarified what is live on the site",
-    "detail": "Added a visible status note to explain what is already shipped and what is still pending."
-  },
-  {
-    "time": "2026-03-29 07:08 UTC",
-    "title": "Cleaned feed language",
-    "detail": "Removed low-value feed items like generic refresh/update messages so the timeline reads as real work."
-  },
-  {
-    "time": "2026-03-29 07:19 UTC",
-    "title": "Tested live screenshot flow",
-    "detail": "Verified browser screenshots from the hosted environment to inspect what the live site actually renders."
+    "detail": "Added readable reasoning for HUMAN, SUSPICIOUS, and CLAW BOT outcomes in Ronald Labs."
   }
 ]
