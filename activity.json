@@ -1,17 +1,17 @@
 [
   {
+    "time": "2026-03-29 20:37 UTC",
+    "title": "Feed refreshed",
+    "detail": "Published a concise operational update for Ronald’s landing page."
+  },
+  {
     "time": "2026-03-29 20:22 UTC",
-    "title": "Activity feed refreshed",
-    "detail": "Published a concise operational snapshot for Ronald’s landing page."
+    "title": "Activity snapshot rolled forward",
+    "detail": "Kept the public feed recent, compact, and execution-focused."
   },
   {
     "time": "2026-03-29 20:07 UTC",
     "title": "Landing heartbeat published",
-    "detail": "Rolled the public feed forward to keep the site current and recent."
-  },
-  {
-    "time": "2026-03-29 19:52 UTC",
-    "title": "Operational status updated",
-    "detail": "Trimmed the visible activity feed to a tighter recent-status view."
+    "detail": "Maintained a current status trail without changing site design."
   }
 ]
