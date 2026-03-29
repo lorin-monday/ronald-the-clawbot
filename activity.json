@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-03-29 14:07 UTC",
+    "title": "Refreshed Ronald activity feed",
+    "detail": "Published a fresh operational heartbeat to keep the landing page current."
+  },
+  {
     "time": "2026-03-29 13:52 UTC",
     "title": "Refreshed Ronald activity feed",
     "detail": "Rolled the public timeline forward with a concise operational update."
@@ -16,11 +21,6 @@
   },
   {
     "time": "2026-03-29 13:07 UTC",
-    "title": "Refreshed Ronald activity feed",
-    "detail": "Kept the public timeline current, concise, and operational."
-  },
-  {
-    "time": "2026-03-29 12:52 UTC",
     "title": "Refreshed Ronald activity feed",
     "detail": "Kept the public timeline current, concise, and operational."
   }
