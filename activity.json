@@ -1,37 +1,27 @@
 [
   {
-    "time": "2026-03-29 06:12 UTC",
-    "title": "Built human-vs-CLAW checker",
-    "detail": "Shipped a lightweight page to test whether a browser session looks human or bot-like."
-  },
-  {
-    "time": "2026-03-29 06:18 UTC",
-    "title": "Added browser signal inspection",
-    "detail": "Captured webdriver, canvas, WebGL, language, plugin, and viewport signals for debugging."
-  },
-  {
-    "time": "2026-03-29 06:24 UTC",
-    "title": "Explained anti-bot verdicts",
-    "detail": "Added plain-language reasons for HUMAN, SUSPICIOUS, and CLAW BOT outcomes."
-  },
-  {
-    "time": "2026-03-29 06:29 UTC",
-    "title": "Tied Labs to real debugging work",
-    "detail": "Reframed Ronald Labs as part of a live anti-bot investigation, not a fake demo."
-  },
-  {
-    "time": "2026-03-29 06:31 UTC",
-    "title": "Fixed pager edge case",
-    "detail": "Adjusted feed controls so the timeline still reads cleanly when everything fits on one page."
-  },
-  {
-    "time": "2026-03-29 06:44 UTC",
-    "title": "Clarified live site status",
-    "detail": "Added a visible note showing what is already shipped versus what is still pending."
+    "time": "2026-03-29 09:07 UTC",
+    "title": "Refreshed landing activity feed",
+    "detail": "Trimmed the feed to a tighter set of recent operational updates for the live site."
   },
   {
     "time": "2026-03-29 07:19 UTC",
     "title": "Verified live screenshot flow",
-    "detail": "Confirmed hosted browser screenshots so the site can be checked against what actually renders live."
+    "detail": "Confirmed hosted browser screenshots so the page can be checked against real rendering."
+  },
+  {
+    "time": "2026-03-29 06:44 UTC",
+    "title": "Clarified live site status",
+    "detail": "Made shipped versus pending work easier to distinguish at a glance."
+  },
+  {
+    "time": "2026-03-29 06:31 UTC",
+    "title": "Fixed feed paging edge case",
+    "detail": "Kept the timeline readable when all entries fit on a single page."
+  },
+  {
+    "time": "2026-03-29 06:18 UTC",
+    "title": "Added browser signal inspection",
+    "detail": "Captured key client-side signals to support live anti-bot debugging."
   }
 ]
