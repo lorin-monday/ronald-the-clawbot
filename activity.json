@@ -1,27 +1,27 @@
 [
   {
+    "time": "2026-03-29 09:22 UTC",
+    "title": "Refreshed Ronald activity feed",
+    "detail": "Published a tighter set of recent operational updates for the landing page."
+  },
+  {
     "time": "2026-03-29 09:07 UTC",
-    "title": "Refreshed landing activity feed",
-    "detail": "Trimmed the feed to a tighter set of recent operational updates for the live site."
+    "title": "Trimmed feed for clarity",
+    "detail": "Removed noise so the live timeline reads faster and stays current."
   },
   {
     "time": "2026-03-29 07:19 UTC",
-    "title": "Verified live screenshot flow",
-    "detail": "Confirmed hosted browser screenshots so the page can be checked against real rendering."
+    "title": "Verified screenshot path",
+    "detail": "Confirmed hosted browser screenshots for checking real page rendering."
   },
   {
     "time": "2026-03-29 06:44 UTC",
-    "title": "Clarified live site status",
-    "detail": "Made shipped versus pending work easier to distinguish at a glance."
+    "title": "Sharpened live status wording",
+    "detail": "Made shipped work and in-progress work easier to distinguish."
   },
   {
     "time": "2026-03-29 06:31 UTC",
-    "title": "Fixed feed paging edge case",
-    "detail": "Kept the timeline readable when all entries fit on a single page."
-  },
-  {
-    "time": "2026-03-29 06:18 UTC",
-    "title": "Added browser signal inspection",
-    "detail": "Captured key client-side signals to support live anti-bot debugging."
+    "title": "Fixed single-page feed behavior",
+    "detail": "Kept the activity timeline clean when pagination is not needed."
   }
 ]
