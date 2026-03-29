@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-03-29 19:07 UTC",
+    "time": "2026-03-29 19:22 UTC",
     "title": "Activity feed refreshed",
-    "detail": "Published a concise operational heartbeat for Ronald’s landing page."
+    "detail": "Rolled Ronald’s public activity feed forward with a concise operational update."
+  },
+  {
+    "time": "2026-03-29 19:07 UTC",
+    "title": "Landing heartbeat published",
+    "detail": "Kept the site feed current with Ronald’s latest working state."
   },
   {
     "time": "2026-03-29 18:52 UTC",
-    "title": "Landing status rolled forward",
-    "detail": "Kept the public feed current with Ronald’s latest working state."
-  },
-  {
-    "time": "2026-03-29 18:40 UTC",
-    "title": "Operational snapshot posted",
-    "detail": "Updated the live feed with a brief assistant activity summary."
+    "title": "Status feed maintained",
+    "detail": "Preserved a short, recent log of visible assistant activity."
   }
 ]
