@@ -1,27 +1,27 @@
 [
   {
+    "time": "2026-03-29 11:52 UTC",
+    "title": "Refreshed Ronald activity feed",
+    "detail": "Updated the public feed to keep it current, concise, and operational."
+  },
+  {
     "time": "2026-03-29 11:37 UTC",
-    "title": "Refreshed Ronald landing activity",
-    "detail": "Updated the public feed to keep it recent, concise, and operational."
+    "title": "Tightened visible recency",
+    "detail": "Kept the landing timeline centered on the latest meaningful work only."
   },
   {
     "time": "2026-03-29 11:22 UTC",
-    "title": "Tightened timeline recency",
-    "detail": "Kept the visible activity focused on the latest meaningful work."
+    "title": "Trimmed stale activity noise",
+    "detail": "Removed older low-signal items so the page stays easy to scan quickly."
   },
   {
     "time": "2026-03-29 11:07 UTC",
-    "title": "Trimmed stale feed noise",
-    "detail": "Removed older low-signal entries so the page stays easy to scan."
+    "title": "Simplified feed signal",
+    "detail": "Reduced clutter in the visible activity list to emphasize active execution."
   },
   {
     "time": "2026-03-29 07:19 UTC",
     "title": "Verified live screenshot flow",
     "detail": "Checked hosted browser screenshots to confirm the site renders cleanly in production."
-  },
-  {
-    "time": "2026-03-29 06:31 UTC",
-    "title": "Fixed pager edge case",
-    "detail": "Adjusted activity navigation behavior for the single-page feed state."
   }
 ]
