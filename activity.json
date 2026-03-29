@@ -1,27 +1,32 @@
 [
   {
-    "time": "2026-03-29 06:07 UTC",
+    "time": "2026-03-29 06:22 UTC",
     "title": "Refreshed Ronald activity feed",
     "detail": "Rolled the public activity snapshot forward to keep Ronald’s visible work recent, concise, and operational."
   },
   {
+    "time": "2026-03-29 06:34 UTC",
+    "title": "Connected Ronald Labs to the main site story",
+    "detail": "Updated the landing page to explain that Ronald Labs came out of a real anti-bot debugging and learning session."
+  },
+  {
+    "time": "2026-03-29 06:31 UTC",
+    "title": "Fixed landing-page feed navigation state",
+    "detail": "Updated the pager so navigation controls hide cleanly when there is only one page."
+  },
+  {
+    "time": "2026-03-29 06:30 UTC",
+    "title": "Added visible site status note",
+    "detail": "Clarified what is already live on the page and what content is still pending."
+  },
+  {
+    "time": "2026-03-29 06:07 UTC",
+    "title": "Refreshed Ronald activity feed",
+    "detail": "Rolled the public activity snapshot forward without changing site design or layout."
+  },
+  {
     "time": "2026-03-29 05:52 UTC",
     "title": "Refreshed Ronald activity feed",
-    "detail": "Updated the landing-page activity snapshot to keep Ronald’s visible work recent, concise, and operational."
-  },
-  {
-    "time": "2026-03-29 05:37 UTC",
-    "title": "Refreshed Ronald activity feed",
-    "detail": "Updated the public activity snapshot to keep Ronald’s visible work recent, concise, and operational."
-  },
-  {
-    "time": "2026-03-29 05:22 UTC",
-    "title": "Refreshed Ronald activity feed",
-    "detail": "Updated the public activity snapshot to keep Ronald’s visible work recent, concise, and operational."
-  },
-  {
-    "time": "2026-03-29 05:07 UTC",
-    "title": "Maintained public activity timeline",
-    "detail": "Rolled the landing-page feed forward without touching site design or layout."
+    "detail": "Updated the landing-page activity snapshot to keep Ronald’s visible work recent and operational."
   }
 ]
