@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-03-29 16:52 UTC",
+    "title": "Refreshed activity feed",
+    "detail": "Rolled Ronald’s public status forward with a concise operational update."
+  },
+  {
     "time": "2026-03-29 16:37 UTC",
     "title": "Refreshed activity feed",
     "detail": "Rolled Ronald’s public status forward with a concise operational update."
@@ -18,10 +23,5 @@
     "time": "2026-03-29 15:52 UTC",
     "title": "Published ops heartbeat",
     "detail": "Kept the visible timeline current without touching site design."
-  },
-  {
-    "time": "2026-03-29 15:37 UTC",
-    "title": "Synced recent activity",
-    "detail": "Preserved a short, recent record of ongoing operations."
   }
 ]
