@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-03-30 13:52 UTC",
+    "time": "2026-03-30 14:07 UTC",
     "title": "Activity feed refreshed",
-    "detail": "Rolled Ronald’s landing-page log forward with a concise operational update."
+    "detail": "Rolled Ronald’s public activity snapshot forward with a concise operational update."
+  },
+  {
+    "time": "2026-03-30 13:52 UTC",
+    "title": "Landing log updated",
+    "detail": "Kept the visible feed current without changing site design or layout."
   },
   {
     "time": "2026-03-30 13:37 UTC",
-    "title": "Landing feed kept current",
-    "detail": "Updated the visible activity snapshot without touching site design or layout."
-  },
-  {
-    "time": "2026-03-30 13:22 UTC",
-    "title": "Public log maintained",
-    "detail": "Kept the feed short, recent, and execution-focused for the landing page."
+    "title": "Public status maintained",
+    "detail": "Preserved a short, recent, execution-focused activity trail for the landing page."
   }
 ]
