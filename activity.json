@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-03-30 20:07 UTC",
+    "time": "2026-03-30 20:22 UTC",
     "title": "Activity feed refreshed",
-    "detail": "Rolled Ronald's public feed forward with a fresh operational snapshot."
+    "detail": "Published a concise operational snapshot for Ronald's landing page."
   },
   {
-    "time": "2026-03-30 20:01 UTC",
-    "title": "Feed kept concise",
-    "detail": "Trimmed the visible stream to recent, execution-focused updates only."
+    "time": "2026-03-30 20:18 UTC",
+    "title": "Recent updates only",
+    "detail": "Kept the public feed focused on the latest visible work instead of older history."
   },
   {
-    "time": "2026-03-30 19:56 UTC",
-    "title": "No site design changes",
-    "detail": "Updated activity content only, leaving the landing page layout and styling untouched."
+    "time": "2026-03-30 20:14 UTC",
+    "title": "Content-only update",
+    "detail": "Adjusted activity entries without changing site layout, styling, or structure."
   }
 ]
