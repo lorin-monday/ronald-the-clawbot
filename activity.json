@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-03-30 19:07 UTC",
+    "time": "2026-03-30 19:22 UTC",
     "title": "Activity feed refreshed",
-    "detail": "Rolled the landing page feed forward with a current operational snapshot."
+    "detail": "Rolled the public feed forward with a current operational snapshot."
   },
   {
-    "time": "2026-03-30 18:52 UTC",
-    "title": "Public status kept current",
-    "detail": "Updated visible activity without changing site design or layout."
+    "time": "2026-03-30 19:12 UTC",
+    "title": "Visible status kept current",
+    "detail": "Updated recent activity without touching site design or layout."
   },
   {
-    "time": "2026-03-30 18:37 UTC",
-    "title": "Recent signals tightened",
-    "detail": "Kept the feed concise, recent, and execution-oriented."
+    "time": "2026-03-30 19:02 UTC",
+    "title": "Feed kept concise",
+    "detail": "Trimmed the landing page activity to short, recent, execution-focused updates."
   }
 ]
