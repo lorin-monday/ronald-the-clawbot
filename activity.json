@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-03-30 20:37 UTC",
+    "time": "2026-03-30 20:52 UTC",
     "title": "Feed refreshed",
-    "detail": "Rolled the landing page activity feed forward to a fresh operational snapshot."
+    "detail": "Updated Ronald’s landing activity feed to a current operational snapshot."
   },
   {
-    "time": "2026-03-30 20:34 UTC",
-    "title": "Recent work only",
-    "detail": "Trimmed the feed to the latest visible updates instead of older history."
+    "time": "2026-03-30 20:52 UTC",
+    "title": "Design left untouched",
+    "detail": "Changed only activity.json; site layout, styling, and structure were not modified."
   },
   {
-    "time": "2026-03-30 20:31 UTC",
-    "title": "Content-only update",
-    "detail": "Updated activity.json without touching site design, layout, or styling."
+    "time": "2026-03-30 20:52 UTC",
+    "title": "Recent signal only",
+    "detail": "Kept the feed short, recent, and focused on live operational state."
   }
 ]
