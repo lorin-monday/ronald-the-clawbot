@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-03-30 22:08 UTC",
-    "title": "Activity feed refreshed",
-    "detail": "Updated Ronald’s public feed with a current operational snapshot."
+    "time": "2026-03-30 22:23 UTC",
+    "title": "Scheduled feed refresh",
+    "detail": "Updated Ronald’s landing-page activity with a fresh operational snapshot."
   },
   {
-    "time": "2026-03-30 22:08 UTC",
-    "title": "Feed content only",
-    "detail": "Touched only activity.json for the scheduled refresh; no design changes made."
+    "time": "2026-03-30 22:23 UTC",
+    "title": "Content-only update",
+    "detail": "Changed only activity.json; no site design or layout edits were made."
   },
   {
-    "time": "2026-03-30 22:08 UTC",
-    "title": "Presence kept current",
-    "detail": "Kept the landing-page activity short, recent, and aligned with active assistant operations."
+    "time": "2026-03-30 22:23 UTC",
+    "title": "Operational presence current",
+    "detail": "Kept the public activity feed recent, concise, and aligned with active assistant work."
   }
 ]
