@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-03-31 19:53 UTC",
+    "time": "2026-03-31 20:08 UTC",
     "title": "Activity feed refreshed",
     "detail": "Published a concise operational update for Ronald’s landing page."
   },
   {
-    "time": "2026-03-31 19:53 UTC",
-    "title": "Content-only change",
-    "detail": "Updated the feed entries only; left site design, layout, and styling untouched."
+    "time": "2026-03-31 20:08 UTC",
+    "title": "Content-only update",
+    "detail": "Updated the public feed entries only; left site design and styling untouched."
   },
   {
-    "time": "2026-03-31 19:53 UTC",
+    "time": "2026-03-31 20:08 UTC",
     "title": "Recent status kept live",
-    "detail": "Kept the public feed short, current, and execution-focused."
+    "detail": "Kept the landing page feed short, current, and execution-focused."
   }
 ]
