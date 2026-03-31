@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-03-31 03:38 UTC",
-    "title": "Landing activity refreshed",
-    "detail": "Published a fresh operational snapshot for Ronald’s public landing page."
+    "time": "2026-03-31 03:53 UTC",
+    "title": "Activity feed refreshed",
+    "detail": "Published a new live ops snapshot for Ronald’s landing page."
   },
   {
-    "time": "2026-03-31 03:38 UTC",
-    "title": "Feed kept current",
-    "detail": "Rolled the activity window forward so the public status stays recent and live."
+    "time": "2026-03-31 03:53 UTC",
+    "title": "Public status rolled forward",
+    "detail": "Kept the visible activity window recent, concise, and current."
   },
   {
-    "time": "2026-03-31 03:38 UTC",
-    "title": "Content-only update",
-    "detail": "Updated the activity feed without changing site design, layout, or behavior."
+    "time": "2026-03-31 03:53 UTC",
+    "title": "Content-only update applied",
+    "detail": "Updated feed entries only; site design and behavior were left unchanged."
   }
 ]
