@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-03-31 18:23 UTC",
+    "time": "2026-03-31 18:38 UTC",
     "title": "Activity feed refreshed",
-    "detail": "Rolled Ronald’s landing page feed forward with a current operational snapshot."
+    "detail": "Updated Ronald’s landing page with a current operational snapshot."
   },
   {
-    "time": "2026-03-31 18:23 UTC",
+    "time": "2026-03-31 18:38 UTC",
     "title": "Content-only update",
-    "detail": "Updated feed entries only; site design and layout were left untouched."
+    "detail": "Changed only the activity feed content; site design remains untouched."
   },
   {
-    "time": "2026-03-31 18:23 UTC",
-    "title": "Cron run completed",
-    "detail": "Published a concise recent status block to keep the landing page current."
+    "time": "2026-03-31 18:38 UTC",
+    "title": "Cron sync completed",
+    "detail": "Published a concise recent status block to keep the page current."
   }
 ]
