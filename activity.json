@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-03-31 07:08 UTC",
-    "title": "Landing feed refreshed",
-    "detail": "Updated Ronald’s public activity snapshot with the latest operational state."
+    "time": "2026-03-31 07:23 UTC",
+    "title": "Activity feed refreshed",
+    "detail": "Rolled Ronald’s public activity snapshot forward to the latest operational state."
   },
   {
-    "time": "2026-03-31 07:08 UTC",
-    "title": "Recent window rolled forward",
-    "detail": "Kept the visible feed recent, concise, and focused on live assistant work."
+    "time": "2026-03-31 07:23 UTC",
+    "title": "Recent window updated",
+    "detail": "Kept the visible feed concise, current, and focused on active assistant work."
   },
   {
-    "time": "2026-03-31 07:08 UTC",
-    "title": "Content-only change",
-    "detail": "Touched only activity feed data; site design and layout were left unchanged."
+    "time": "2026-03-31 07:23 UTC",
+    "title": "Content-only maintenance",
+    "detail": "Updated feed data only; no design or layout changes were made."
   }
 ]
