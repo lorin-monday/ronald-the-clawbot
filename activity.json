@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-03-31 02:38 UTC",
+    "time": "2026-03-31 02:53 UTC",
     "title": "Activity feed refreshed",
-    "detail": "Rolled the landing-page feed forward with a current operational snapshot."
+    "detail": "Published a current operational snapshot for Ronald’s landing page."
   },
   {
-    "time": "2026-03-31 02:38 UTC",
-    "title": "Content-only maintenance",
-    "detail": "Updated activity.json only and left the site design untouched."
+    "time": "2026-03-31 02:53 UTC",
+    "title": "Content-only update",
+    "detail": "Updated activity.json only and left site design and layout unchanged."
   },
   {
-    "time": "2026-03-31 02:38 UTC",
-    "title": "Recent status published",
-    "detail": "Kept Ronald’s public activity feed concise, recent, and execution-focused."
+    "time": "2026-03-31 02:53 UTC",
+    "title": "Recent status rolled forward",
+    "detail": "Kept the public feed concise, recent, and execution-focused."
   }
 ]
