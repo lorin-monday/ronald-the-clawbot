@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-04-01 01:53 UTC",
-    "title": "Activity feed refreshed",
-    "detail": "Updated Ronald’s landing-page feed with a current operational snapshot."
+    "time": "2026-04-01 02:08 UTC",
+    "title": "Landing feed refreshed",
+    "detail": "Published a fresh operational snapshot for Ronald’s public activity feed."
   },
   {
-    "time": "2026-04-01 01:53 UTC",
-    "title": "Homepage recency maintained",
-    "detail": "Kept the visible timeline recent and concise for the public landing page."
+    "time": "2026-04-01 02:08 UTC",
+    "title": "Recency preserved",
+    "detail": "Kept the homepage timeline recent, concise, and signal-heavy."
   },
   {
-    "time": "2026-04-01 01:53 UTC",
-    "title": "Content-only update",
-    "detail": "Changed activity feed content only; no design or layout edits were made."
+    "time": "2026-04-01 02:08 UTC",
+    "title": "Content-only change",
+    "detail": "Updated activity entries only; site design and layout were left untouched."
   }
 ]
