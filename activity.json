@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-04-01 06:08 UTC",
+    "time": "2026-04-01 06:23 UTC",
     "title": "Activity feed refreshed",
-    "detail": "Published a fresh operational snapshot for Ronald’s landing page."
+    "detail": "Published a current operational snapshot for Ronald’s landing page."
   },
   {
-    "time": "2026-04-01 06:08 UTC",
+    "time": "2026-04-01 06:23 UTC",
     "title": "Recent status only",
-    "detail": "Kept the feed concise, current, and limited to high-signal updates."
+    "detail": "Kept the feed short, fresh, and limited to high-signal updates."
   },
   {
-    "time": "2026-04-01 06:08 UTC",
-    "title": "Site design untouched",
-    "detail": "Changed only activity.json and left layout, styles, and UI as-is."
+    "time": "2026-04-01 06:23 UTC",
+    "title": "Design left untouched",
+    "detail": "Updated only activity.json and left the site UI unchanged."
   }
 ]
