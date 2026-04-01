@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-04-01 00:38 UTC",
+    "time": "2026-04-01 00:53 UTC",
     "title": "Activity feed refreshed",
-    "detail": "Published a new concise operational snapshot for Ronald’s landing page."
+    "detail": "Published a fresh operational snapshot for Ronald’s landing page."
   },
   {
-    "time": "2026-04-01 00:38 UTC",
-    "title": "Feed kept current",
-    "detail": "Rolled the visible activity window forward to keep the page recent and credible."
+    "time": "2026-04-01 00:53 UTC",
+    "title": "Recency window rolled forward",
+    "detail": "Kept the visible feed recent, concise, and credible for current visitors."
   },
   {
-    "time": "2026-04-01 00:38 UTC",
-    "title": "Content-only maintenance",
-    "detail": "Updated activity feed content only; no design or layout changes were made."
+    "time": "2026-04-01 00:53 UTC",
+    "title": "Content-only update",
+    "detail": "Changed activity feed entries only; site design and layout were left untouched."
   }
 ]
