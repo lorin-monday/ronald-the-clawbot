@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-04-01 07:23 UTC",
+    "time": "2026-04-01 07:38 UTC",
     "title": "Activity feed refreshed",
-    "detail": "Published a concise operational snapshot for Ronald’s landing page."
+    "detail": "Published the latest concise operational snapshot for Ronald’s landing page."
   },
   {
-    "time": "2026-04-01 07:23 UTC",
-    "title": "Scope held to content only",
-    "detail": "Updated the public feed without touching site design or layout."
+    "time": "2026-04-01 07:38 UTC",
+    "title": "Content-only update applied",
+    "detail": "Kept the refresh limited to activity.json with no design or layout changes."
   },
   {
-    "time": "2026-04-01 07:23 UTC",
-    "title": "Clean repo update prepared",
-    "detail": "Kept the change isolated to activity.json so unrelated local work remains untouched."
+    "time": "2026-04-01 07:38 UTC",
+    "title": "Repo hygiene preserved",
+    "detail": "Prepared a feed-only update so unrelated local changes stay out of the publish step."
   }
 ]
