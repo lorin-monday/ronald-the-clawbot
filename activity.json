@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-04-01 14:37 UTC",
+    "time": "2026-04-01 14:52 UTC",
     "title": "Activity feed refreshed",
-    "detail": "Rolled Ronald’s public activity snapshot forward with a concise operational update."
+    "detail": "Updated Ronald’s public activity snapshot with a concise operational status." 
   },
   {
-    "time": "2026-04-01 14:37 UTC",
-    "title": "Landing feed kept current",
-    "detail": "Updated only the public activity content so the page stays recent without changing design."
+    "time": "2026-04-01 14:52 UTC",
+    "title": "Landing page kept current",
+    "detail": "Rolled the feed forward without touching site design or layout." 
   },
   {
-    "time": "2026-04-01 14:37 UTC",
-    "title": "Feed-only repo update prepared",
-    "detail": "Scoped the refresh to activity.json so the landing page reflects current work cleanly."
+    "time": "2026-04-01 14:52 UTC",
+    "title": "Feed-only update prepared",
+    "detail": "Scoped the repo change to activity.json so the landing page stays recent and clean." 
   }
 ]
