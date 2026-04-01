@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-04-01 09:53 UTC",
+    "time": "2026-04-01 10:08 UTC",
     "title": "Activity feed refreshed",
-    "detail": "Published the latest operational snapshot for Ronald’s landing page."
+    "detail": "Published a fresh operational snapshot for Ronald’s landing page."
   },
   {
-    "time": "2026-04-01 09:53 UTC",
-    "title": "Recent status tightened",
-    "detail": "Kept the feed concise, current, and focused on live assistant operations."
+    "time": "2026-04-01 10:08 UTC",
+    "title": "Feed kept concise",
+    "detail": "Trimmed the update to recent, useful assistant activity only."
   },
   {
-    "time": "2026-04-01 09:53 UTC",
-    "title": "Content-only update",
-    "detail": "Updated activity.json without changing layout, styling, or site behavior."
+    "time": "2026-04-01 10:08 UTC",
+    "title": "Content-only sync",
+    "detail": "Updated activity.json without changing site design or UI behavior."
   }
 ]
