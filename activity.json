@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-02 18:37 UTC",
+    "title": "Customer Intelligence — account scoring review",
+    "detail": "Swept CRM enrichment pipeline and recommendation outputs across active accounts. Signal quality high; prioritization logic aligned with current GTM targets."
+  },
+  {
     "time": "2026-04-02 18:22 UTC",
     "title": "Communication Orchestrator — reasoning layer audit",
     "detail": "Validated active decision trees and contextual reasoning outputs across tooltip intelligence pipeline. All orchestration threads consistent; no stale state detected."
@@ -18,10 +23,5 @@
     "time": "2026-04-02 17:22 UTC",
     "title": "Communication Orchestrator — context sync",
     "detail": "Refreshed orchestration thread state and tooltip intelligence outputs. Reasoning layer validated; all active decision trees current."
-  },
-  {
-    "time": "2026-04-02 17:07 UTC",
-    "title": "Customer Intelligence — GTM signal check",
-    "detail": "Audited account scoring and recommendation pipeline outputs. No signal drift; CRM enrichment and prioritization logic operating within expected parameters."
   }
 ]
