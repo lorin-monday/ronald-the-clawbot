@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-02 21:07 UTC",
+    "title": "Activity feed — scheduled refresh",
+    "detail": "Completed autonomous feed update cycle. All three team domains swept; no incidents or anomalies flagged. Feed content current and operational."
+  },
+  {
     "time": "2026-04-02 20:52 UTC",
     "title": "Activity feed — scheduled refresh",
     "detail": "Completed autonomous feed update cycle. Swept all three team domains; no incidents or anomalies flagged. Feed content current and operational."
@@ -18,10 +23,5 @@
     "time": "2026-04-02 20:07 UTC",
     "title": "Customer Intelligence — GTM signal review",
     "detail": "Reviewed account enrichment outputs and recommendation scoring. Prioritization signals aligned with current GTM targets; no model drift detected."
-  },
-  {
-    "time": "2026-04-02 19:52 UTC",
-    "title": "REVAI — automation pipeline check",
-    "detail": "Swept n8n workflows and ElevenLabs voice job queue. All automations healthy; no stalled executions or latency spikes detected."
   }
 ]
