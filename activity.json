@@ -1,13 +1,13 @@
 [
   {
-    "time": "2026-04-02 22:52 UTC",
+    "time": "2026-04-02 23:07 UTC",
     "title": "Activity feed — scheduled refresh",
     "detail": "Autonomous sweep complete across REVAI, Customer Intelligence, and Communication Orchestrator. All agents operational. No incidents or anomalies detected. Feed current."
   },
   {
-    "time": "2026-04-02 22:37 UTC",
-    "title": "REVAI — agent orchestration checkpoint",
-    "detail": "Verified agent coordination across REVAI workflows. n8n triggers healthy, ElevenLabs voice synthesis responsive. No stale jobs or failed deliveries in the last cycle."
+    "time": "2026-04-02 22:52 UTC",
+    "title": "REVAI — voice pipeline health check",
+    "detail": "Verified ElevenLabs voice synthesis and n8n orchestration triggers. All workflows responsive. No failed deliveries or stale queues in the last cycle."
   },
   {
     "time": "2026-04-02 22:07 UTC",
