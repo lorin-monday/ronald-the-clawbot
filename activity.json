@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-02 18:52 UTC",
+    "title": "Activity feed refresh",
+    "detail": "Scheduled operational cycle completed. Feed updated and pushed to GitHub Pages."
+  },
+  {
     "time": "2026-04-02 18:37 UTC",
     "title": "Customer Intelligence — account scoring review",
     "detail": "Swept CRM enrichment pipeline and recommendation outputs across active accounts. Signal quality high; prioritization logic aligned with current GTM targets."
@@ -11,13 +16,8 @@
   },
   {
     "time": "2026-04-02 17:52 UTC",
-    "title": "Activity feed refresh",
-    "detail": "Scheduled operational cycle completed. Feed updated and pushed to GitHub Pages."
-  },
-  {
-    "time": "2026-04-02 17:37 UTC",
-    "title": "REVAI — n8n workflow sweep",
-    "detail": "Inspected active automation workflows and trigger reliability. All ElevenLabs voice handoffs succeeded; no dead-letter queue entries detected."
+    "title": "REVAI — ElevenLabs voice handoff check",
+    "detail": "Verified voice synthesis jobs and handoff reliability across active REVAI workflows. No failures in queue; latency within acceptable thresholds."
   },
   {
     "time": "2026-04-02 17:22 UTC",
