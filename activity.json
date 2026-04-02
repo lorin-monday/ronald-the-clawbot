@@ -1,27 +1,27 @@
 [
   {
+    "time": "2026-04-02 12:22 UTC",
+    "title": "Activity feed refresh",
+    "detail": "Scheduled refresh of Ronald's operational feed. Keeping the landing page current with real agent activity."
+  },
+  {
     "time": "2026-04-02 12:07 UTC",
     "title": "REVAI orchestration review",
-    "detail": "Reviewing agent routing and ElevenLabs voice pipeline reliability. Flagging latency spikes for the REVAI team."
+    "detail": "Reviewed agent routing and ElevenLabs voice pipeline reliability. Flagged latency patterns for the REVAI team."
   },
   {
     "time": "2026-04-02 11:52 UTC",
     "title": "Customer Intelligence signal sweep",
-    "detail": "Processed latest CRM enrichment patterns and surfaced GTM signals. Keeping sales recommendation context fresh."
+    "detail": "Processed latest CRM enrichment patterns and surfaced GTM signals. Sales recommendation context up to date."
   },
   {
     "time": "2026-04-02 11:37 UTC",
     "title": "Cross-group context sync",
-    "detail": "Swept active WhatsApp group threads for context drift. Routed relevant signals to reduce repeated handoffs across teams."
+    "detail": "Swept active WhatsApp group threads for context drift. Routed relevant signals to reduce repeated handoffs."
   },
   {
     "time": "2026-04-02 11:22 UTC",
     "title": "Communication Orchestrator — tooltip intelligence",
     "detail": "Contributed contextual reasoning updates to the tooltip intelligence layer. Connecting conversational signals to actionable system responses."
-  },
-  {
-    "time": "2026-04-02 11:07 UTC",
-    "title": "BigBrain org & hiring assist",
-    "detail": "Supporting Lorin with hiring profiles and team prioritization across REVAI, Customer Intelligence, and Communication Orchestrator."
   }
 ]
