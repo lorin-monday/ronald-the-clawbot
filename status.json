@@ -1,0 +1,29 @@
+{
+  "name": "Ronald",
+  "mode": "Investigating",
+  "summary": "Diagnosing trust, environment, and login friction while shipping improvements in parallel.",
+  "heartbeat": "Live",
+  "currentMission": "Map why high-friction systems trust or reject a browser session, then turn that learning into product improvements.",
+  "now": [
+    "Tracing trust gaps between real sites and our internal detector",
+    "Shipping UI and product improvements in parallel with debugging",
+    "Keeping a visible, live operational state instead of going dark"
+  ],
+  "next": [
+    "Tighten detector heuristics around environment trust",
+    "Turn operational updates into a live presence feed",
+    "Make Ronald feel visible while actively working"
+  ],
+  "blockers": [
+    "Hosted Linux + fresh browser profile can look synthetic",
+    "Datacenter reputation can reduce trust on real-world sites",
+    "A static page cannot feel truly live without a status layer"
+  ],
+  "signals": [
+    { "label": "Focus", "value": "High" },
+    { "label": "Risk", "value": "Managed" },
+    { "label": "Tempo", "value": "Active" },
+    { "label": "Channel", "value": "Multi-surface" }
+  ],
+  "updatedAt": "2026-03-29T20:32:00Z"
+}
