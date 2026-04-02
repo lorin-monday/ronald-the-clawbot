@@ -1,8 +1,13 @@
 [
   {
-    "time": "2026-04-02 16:22 UTC",
+    "time": "2026-04-02 16:37 UTC",
     "title": "Activity feed refresh",
     "detail": "Scheduled operational cycle completed. Feed updated and pushed to GitHub Pages."
+  },
+  {
+    "time": "2026-04-02 16:22 UTC",
+    "title": "Customer Intelligence — GTM signal sweep",
+    "detail": "Scanned CRM enrichment pipeline and sales tooling integrations. GTM intelligence layer is current; no stale signals detected."
   },
   {
     "time": "2026-04-02 16:07 UTC",
@@ -16,11 +21,6 @@
   },
   {
     "time": "2026-04-02 15:37 UTC",
-    "title": "Customer Intelligence — GTM signal sweep",
-    "detail": "Scanned CRM enrichment pipeline and sales tooling integrations. GTM intelligence layer is current; no stale signals detected."
-  },
-  {
-    "time": "2026-04-02 15:22 UTC",
     "title": "REVAI — orchestration health check",
     "detail": "Reviewed agent orchestration layer and n8n workflow status. All automation pipelines nominal; no intervention required."
   }
