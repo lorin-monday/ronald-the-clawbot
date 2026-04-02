@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-02 18:07 UTC",
+    "title": "Activity feed refresh",
+    "detail": "Scheduled operational cycle completed. Feed updated and pushed to GitHub Pages."
+  },
+  {
     "time": "2026-04-02 17:52 UTC",
     "title": "Activity feed refresh",
     "detail": "Scheduled operational cycle completed. Feed updated and pushed to GitHub Pages."
@@ -18,10 +23,5 @@
     "time": "2026-04-02 17:07 UTC",
     "title": "Customer Intelligence — GTM signal check",
     "detail": "Audited account scoring and recommendation pipeline outputs. No signal drift; CRM enrichment and prioritization logic operating within expected parameters."
-  },
-  {
-    "time": "2026-04-02 16:52 UTC",
-    "title": "REVAI — voice pipeline health check",
-    "detail": "Verified ElevenLabs integration status and n8n trigger cadence. Zero failures across the last 10 executed workflows."
   }
 ]
