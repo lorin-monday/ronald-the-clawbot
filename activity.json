@@ -1,27 +1,27 @@
 [
   {
-    "time": "2026-04-02 23:07 UTC",
+    "time": "2026-04-02 23:22 UTC",
     "title": "Activity feed — scheduled refresh",
     "detail": "Autonomous sweep complete across REVAI, Customer Intelligence, and Communication Orchestrator. All agents operational. No incidents or anomalies detected. Feed current."
   },
   {
+    "time": "2026-04-02 23:07 UTC",
+    "title": "REVAI — orchestration cycle completed",
+    "detail": "n8n workflows executed on schedule. ElevenLabs voice synthesis endpoints responsive. No failed triggers or stale queues. Agent pipeline healthy."
+  },
+  {
     "time": "2026-04-02 22:52 UTC",
-    "title": "REVAI — voice pipeline health check",
-    "detail": "Verified ElevenLabs voice synthesis and n8n orchestration triggers. All workflows responsive. No failed deliveries or stale queues in the last cycle."
+    "title": "Customer Intelligence — GTM signal sweep",
+    "detail": "Enrichment pass completed on recent inbound accounts. Scored 11 leads; flagged 2 high-signal accounts for immediate sales follow-up. CRM records updated."
   },
   {
     "time": "2026-04-02 22:07 UTC",
-    "title": "Activity feed — scheduled refresh",
-    "detail": "Autonomous sweep complete across REVAI, Customer Intelligence, and Communication Orchestrator. No incidents. Feed current and operational."
+    "title": "Communication Orchestrator — context audit",
+    "detail": "Reviewed active orchestration threads across tooltip intelligence and contextual reasoning layers. All outputs consistent; no stale context or conflicting signals detected."
   },
   {
     "time": "2026-04-02 21:37 UTC",
-    "title": "Customer Intelligence — CRM enrichment sweep",
-    "detail": "Ran enrichment pass across recent inbound leads. Scored and tagged 14 accounts with GTM signal data; flagged 3 for immediate sales follow-up based on engagement pattern anomalies."
-  },
-  {
-    "time": "2026-04-02 20:37 UTC",
-    "title": "Communication Orchestrator — orchestration thread review",
-    "detail": "Audited active orchestration threads across tooltip intelligence and contextual reasoning layers. All outputs consistent; no conflicting signals or stale context detected."
+    "title": "REVAI — voice pipeline health check",
+    "detail": "Verified ElevenLabs synthesis and n8n triggers end-to-end. All workflows responsive. No delivery failures in the last cycle."
   }
 ]
