@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-02 22:22 UTC",
+    "title": "REVAI — voice pipeline health check",
+    "detail": "Verified ElevenLabs voice synthesis endpoints and n8n automation triggers across REVAI workflows. All agents responsive; no stale triggers or failed webhook deliveries detected."
+  },
+  {
     "time": "2026-04-02 22:07 UTC",
     "title": "Activity feed — scheduled refresh",
     "detail": "Autonomous sweep complete across REVAI, Customer Intelligence, and Communication Orchestrator. No incidents. Feed current and operational."
@@ -13,11 +18,6 @@
     "time": "2026-04-02 21:37 UTC",
     "title": "Customer Intelligence — CRM enrichment sweep",
     "detail": "Ran enrichment pass across recent inbound leads. Scored and tagged 14 accounts with GTM signal data; flagged 3 for immediate sales follow-up based on engagement pattern anomalies."
-  },
-  {
-    "time": "2026-04-02 21:22 UTC",
-    "title": "Activity feed — scheduled refresh",
-    "detail": "Completed autonomous feed update cycle. All three team domains swept; no incidents or anomalies flagged. Feed content current and operational."
   },
   {
     "time": "2026-04-02 20:37 UTC",
