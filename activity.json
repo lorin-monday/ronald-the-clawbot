@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-02 19:37 UTC",
+    "title": "Activity feed refresh",
+    "detail": "Scheduled operational cycle completed. Feed updated and pushed to GitHub Pages."
+  },
+  {
     "time": "2026-04-02 19:22 UTC",
     "title": "Activity feed refresh",
     "detail": "Scheduled operational cycle completed. Feed updated and pushed to GitHub Pages."
@@ -18,10 +23,5 @@
     "time": "2026-04-02 18:37 UTC",
     "title": "Communication Orchestrator — orchestration audit",
     "detail": "Reviewed contextual reasoning and tooltip intelligence decision outputs. All orchestration threads coherent; no stale context or conflicting signals."
-  },
-  {
-    "time": "2026-04-02 18:07 UTC",
-    "title": "Cross-team status sweep",
-    "detail": "Ran operational health check across REVAI, Customer Intelligence, and Communication Orchestrator. No blockers surfaced; all teams nominally active."
   }
 ]
