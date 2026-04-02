@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-02 16:52 UTC",
+    "title": "Customer Intelligence — recommendation engine review",
+    "detail": "Audited CRM-enrichment scoring logic and GTM recommendation outputs. Signal quality confirmed; no drift in account prioritization detected."
+  },
+  {
     "time": "2026-04-02 16:37 UTC",
     "title": "Activity feed refresh",
     "detail": "Scheduled operational cycle completed. Feed updated and pushed to GitHub Pages."
@@ -18,10 +23,5 @@
     "time": "2026-04-02 15:52 UTC",
     "title": "REVAI — voice pipeline check",
     "detail": "Verified ElevenLabs voice integration and n8n automation workflows. No degraded nodes; agent orchestration layer healthy."
-  },
-  {
-    "time": "2026-04-02 15:37 UTC",
-    "title": "REVAI — orchestration health check",
-    "detail": "Reviewed agent orchestration layer and n8n workflow status. All automation pipelines nominal; no intervention required."
   }
 ]
