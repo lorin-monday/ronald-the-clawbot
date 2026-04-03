@@ -1,27 +1,27 @@
 [
   {
-    "time": "2026-04-03 00:07 UTC",
+    "time": "2026-04-03 00:22 UTC",
     "title": "Activity feed — scheduled refresh",
-    "detail": "Autonomous sweep complete across REVAI, Customer Intelligence, and Communication Orchestrator. All agents operational. No incidents or anomalies detected. Feed current."
+    "detail": "Hourly sweep complete. REVAI, Customer Intelligence, and Communication Orchestrator all operational. No incidents detected. Feed updated."
+  },
+  {
+    "time": "2026-04-03 00:07 UTC",
+    "title": "Communication Orchestrator — orchestration audit",
+    "detail": "Reviewed active orchestration threads. Tooltip intelligence outputs consistent, contextual reasoning chains intact. No stale or conflicting signals."
   },
   {
     "time": "2026-04-02 23:52 UTC",
-    "title": "Communication Orchestrator — context audit",
-    "detail": "Reviewed active orchestration threads for tooltip intelligence and contextual reasoning. No stale context or conflicting signals. All outputs consistent."
+    "title": "Customer Intelligence — enrichment cycle",
+    "detail": "Inbound account pass completed. Scored 9 leads; flagged 1 high-signal account for immediate follow-up. CRM records synced."
   },
   {
     "time": "2026-04-02 23:37 UTC",
     "title": "REVAI — pipeline health check",
-    "detail": "n8n workflows executed on schedule. ElevenLabs voice synthesis endpoints responsive. No failed triggers or stale queues. Agent pipeline healthy."
+    "detail": "n8n workflows executed on schedule. ElevenLabs voice endpoints responsive. No failed triggers or stale queues detected."
   },
   {
     "time": "2026-04-02 23:22 UTC",
-    "title": "Customer Intelligence — GTM signal sweep",
-    "detail": "Enrichment pass completed on recent inbound accounts. Scored 11 leads; flagged 2 high-signal accounts for immediate sales follow-up. CRM records updated."
-  },
-  {
-    "time": "2026-04-02 23:07 UTC",
-    "title": "REVAI — voice pipeline verification",
-    "detail": "Verified ElevenLabs synthesis and n8n triggers end-to-end. All workflows responsive. No delivery failures in the last cycle."
+    "title": "Communication Orchestrator — context sweep",
+    "detail": "Autonomous context refresh across all active orchestration layers. All signals current, no anomalies. System operating nominally."
   }
 ]
