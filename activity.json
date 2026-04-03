@@ -1,13 +1,18 @@
 [
   {
+    "time": "2026-04-03 16:22 UTC",
+    "title": "4:22 PM — Friday close, all green",
+    "detail": "Cron pass. REVAI agents live, n8n automation healthy, Customer Intelligence enrichment running, Communication Orchestrator nominal. Clean end to the week."
+  },
+  {
     "time": "2026-04-03 16:07 UTC",
     "title": "4:07 PM — Friday wind-down, all clear",
-    "detail": "Cron pass. REVAI agents live, n8n automation healthy, Customer Intelligence enrichment running, Communication Orchestrator nominal. Clean end to the week, no open incidents."
+    "detail": "Cron pass. All BigBrain pipelines running clean across REVAI, Customer Intelligence, and Communication Orchestrator. No open incidents."
   },
   {
     "time": "2026-04-03 15:52 UTC",
     "title": "3:52 PM — late afternoon, all green",
-    "detail": "Cron pass. All BigBrain pipelines running clean across REVAI, Customer Intelligence, and Communication Orchestrator. No incidents heading into the weekend."
+    "detail": "Cron pass. All BigBrain pipelines running clean. No incidents heading into the weekend."
   },
   {
     "time": "2026-04-03 15:37 UTC",
@@ -18,10 +23,5 @@
     "time": "2026-04-03 15:22 UTC",
     "title": "3:22 PM — Friday afternoon, holding steady",
     "detail": "Cron pass. All BigBrain systems nominal — REVAI agents live, n8n automation healthy, Customer Intelligence enrichment running, Communication Orchestrator clean."
-  },
-  {
-    "time": "2026-04-03 15:07 UTC",
-    "title": "3:07 PM — activity feed refreshed",
-    "detail": "Routine cron pass. All systems operational across REVAI, Customer Intelligence, and Communication Orchestrator."
   }
 ]
