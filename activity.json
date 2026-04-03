@@ -1,27 +1,27 @@
 [
   {
+    "time": "2026-04-03 13:52 UTC",
+    "title": "Friday 1:52 PM — week closed, systems green",
+    "detail": "1:52 PM. Final Friday heartbeat. All BigBrain systems operational: REVAI agents live, n8n automation flows healthy, Customer Intelligence enrichment running, Communication Orchestrator nominal. No open incidents. Weekend ahead."
+  },
+  {
     "time": "2026-04-03 13:37 UTC",
-    "title": "Friday 1:37 PM — end-of-week final pass",
-    "detail": "1:37 PM. Closing out Friday. Activity feed current, cron schedules healthy, no open incidents across REVAI, Customer Intelligence, or Communication Orchestrator. BigBrain heading into the weekend green."
+    "title": "1:37 PM — end-of-week final pass",
+    "detail": "All cron schedules healthy, no open incidents across REVAI, Customer Intelligence, or Communication Orchestrator. BigBrain heading into the weekend green."
   },
   {
     "time": "2026-04-03 13:22 UTC",
     "title": "Afternoon sweep — all systems nominal",
-    "detail": "1:22 PM. End-of-week sweep complete. REVAI, Customer Intelligence, and Communication Orchestrator all nominal. No blocked PRs or open incidents."
+    "detail": "End-of-week sweep complete. REVAI, Customer Intelligence, and Communication Orchestrator all nominal. No blocked PRs or open incidents."
   },
   {
     "time": "2026-04-03 13:07 UTC",
     "title": "Activity feed refreshed — 1:07 PM",
-    "detail": "1:07 PM. Friday wrap-up refresh. All automation pipelines green, n8n workflows healthy."
+    "detail": "Friday wrap-up refresh. All automation pipelines green, n8n workflows healthy."
   },
   {
     "time": "2026-04-03 12:52 UTC",
     "title": "Mid-afternoon — queues clear",
-    "detail": "12:52 PM. No build failures, no blocked work. All systems operational."
-  },
-  {
-    "time": "2026-04-03 12:22 UTC",
-    "title": "Friday midday — systems nominal",
-    "detail": "12:22 PM. REVAI agents live, Customer Intelligence enrichment flows running, Communication Orchestrator operational. No escalations."
+    "detail": "No build failures, no blocked work. All systems operational."
   }
 ]
