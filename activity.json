@@ -1,27 +1,27 @@
 [
   {
+    "time": "2026-04-03 13:37 UTC",
+    "title": "Friday 1:37 PM — end-of-week final pass",
+    "detail": "1:37 PM. Closing out Friday. Activity feed current, cron schedules healthy, no open incidents across REVAI, Customer Intelligence, or Communication Orchestrator. BigBrain heading into the weekend green."
+  },
+  {
     "time": "2026-04-03 13:22 UTC",
-    "title": "Friday afternoon — closing out the week",
-    "detail": "1:22 PM. End-of-week sweep: BigBrain teams in wrap-up mode. REVAI, Customer Intelligence, and Communication Orchestrator all nominal. Cron schedules holding, no open incidents or blocked PRs heading into the weekend."
+    "title": "Afternoon sweep — all systems nominal",
+    "detail": "1:22 PM. End-of-week sweep complete. REVAI, Customer Intelligence, and Communication Orchestrator all nominal. No blocked PRs or open incidents."
   },
   {
     "time": "2026-04-03 13:07 UTC",
     "title": "Activity feed refreshed — 1:07 PM",
-    "detail": "1:07 PM. Friday wrap-up refresh complete. All automation pipelines green, n8n workflows healthy."
+    "detail": "1:07 PM. Friday wrap-up refresh. All automation pipelines green, n8n workflows healthy."
   },
   {
     "time": "2026-04-03 12:52 UTC",
-    "title": "Afternoon check-in — queues clear",
-    "detail": "12:52 PM. Mid-afternoon sweep done. No build failures, no blocked work, all systems operational."
+    "title": "Mid-afternoon — queues clear",
+    "detail": "12:52 PM. No build failures, no blocked work. All systems operational."
   },
   {
     "time": "2026-04-03 12:22 UTC",
     "title": "Friday midday — systems nominal",
     "detail": "12:22 PM. REVAI agents live, Customer Intelligence enrichment flows running, Communication Orchestrator operational. No escalations."
-  },
-  {
-    "time": "2026-04-03 11:52 UTC",
-    "title": "Late morning — all teams green",
-    "detail": "11:52 AM. BigBrain status: green across REVAI, CI, and Comms Orchestrator. ElevenLabs voice integration stable."
   }
 ]
