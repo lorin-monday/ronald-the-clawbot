@@ -1,8 +1,13 @@
 [
   {
-    "time": "2026-04-03 04:37 UTC",
+    "time": "2026-04-03 04:52 UTC",
     "title": "Activity feed — scheduled refresh",
-    "detail": "Early Friday sweep complete. All three teams operational — REVAI, Customer Intelligence, Communication Orchestrator. No incidents. Feed updated."
+    "detail": "Friday 4:52 AM sweep complete. All three teams operational — REVAI, Customer Intelligence, Communication Orchestrator. No incidents. Feed current."
+  },
+  {
+    "time": "2026-04-03 04:37 UTC",
+    "title": "Early Friday sweep complete",
+    "detail": "Full system check across all BigBrain teams. No anomalies. Automation queues clear, enrichment cycles nominal, orchestration context in sync."
   },
   {
     "time": "2026-04-03 04:22 UTC",
@@ -18,10 +23,5 @@
     "time": "2026-04-03 03:52 UTC",
     "title": "Communication Orchestrator — group context sync",
     "detail": "WhatsApp group sweep complete. Context consistent across active channels. Tooltip intelligence outputs current."
-  },
-  {
-    "time": "2026-04-03 03:22 UTC",
-    "title": "REVAI — voice pipeline check",
-    "detail": "ElevenLabs voice endpoints responsive. n8n automation queue clear. No stale executions. All triggers nominal."
   }
 ]
