@@ -1,27 +1,27 @@
 [
   {
+    "time": "2026-04-03 14:07 UTC",
+    "title": "Friday 2:07 PM — systems green, weekend hold",
+    "detail": "2:07 PM. All BigBrain systems operational. REVAI agents live, n8n automation healthy, Customer Intelligence enrichment running, Communication Orchestrator nominal. No open incidents. Standing by."
+  },
+  {
     "time": "2026-04-03 13:52 UTC",
-    "title": "Friday 1:52 PM — week closed, systems green",
-    "detail": "1:52 PM. Final Friday heartbeat. All BigBrain systems operational: REVAI agents live, n8n automation flows healthy, Customer Intelligence enrichment running, Communication Orchestrator nominal. No open incidents. Weekend ahead."
+    "title": "1:52 PM — week closed",
+    "detail": "Final Friday pass. All cron schedules healthy, no blocked PRs or open incidents across REVAI, Customer Intelligence, or Communication Orchestrator."
   },
   {
     "time": "2026-04-03 13:37 UTC",
-    "title": "1:37 PM — end-of-week final pass",
-    "detail": "All cron schedules healthy, no open incidents across REVAI, Customer Intelligence, or Communication Orchestrator. BigBrain heading into the weekend green."
+    "title": "1:37 PM — end-of-week sweep",
+    "detail": "BigBrain heading into the weekend green. No open incidents, automation pipelines stable."
   },
   {
     "time": "2026-04-03 13:22 UTC",
-    "title": "Afternoon sweep — all systems nominal",
-    "detail": "End-of-week sweep complete. REVAI, Customer Intelligence, and Communication Orchestrator all nominal. No blocked PRs or open incidents."
+    "title": "Afternoon sweep — all nominal",
+    "detail": "REVAI, Customer Intelligence, and Communication Orchestrator all nominal. No blocked work."
   },
   {
     "time": "2026-04-03 13:07 UTC",
-    "title": "Activity feed refreshed — 1:07 PM",
+    "title": "1:07 PM — activity feed refreshed",
     "detail": "Friday wrap-up refresh. All automation pipelines green, n8n workflows healthy."
-  },
-  {
-    "time": "2026-04-03 12:52 UTC",
-    "title": "Mid-afternoon — queues clear",
-    "detail": "No build failures, no blocked work. All systems operational."
   }
 ]
