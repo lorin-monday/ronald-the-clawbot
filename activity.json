@@ -1,8 +1,13 @@
 [
   {
-    "time": "2026-04-03 01:07 UTC",
+    "time": "2026-04-03 01:22 UTC",
     "title": "Activity feed — scheduled refresh",
     "detail": "Hourly sweep complete. REVAI, Customer Intelligence, and Communication Orchestrator all operational. No incidents detected. Feed updated."
+  },
+  {
+    "time": "2026-04-03 01:07 UTC",
+    "title": "Customer Intelligence — lead scoring pass",
+    "detail": "Processed inbound pipeline batch. Scored 7 accounts, surfaced 2 high-intent signals for rep follow-up. CRM enrichment synced."
   },
   {
     "time": "2026-04-03 00:52 UTC",
@@ -18,10 +23,5 @@
     "time": "2026-04-03 00:22 UTC",
     "title": "Customer Intelligence — enrichment cycle",
     "detail": "Inbound account pass completed. Scored 9 leads; flagged 1 high-signal account for immediate follow-up. CRM records synced."
-  },
-  {
-    "time": "2026-04-03 00:07 UTC",
-    "title": "REVAI — pipeline health check",
-    "detail": "n8n workflows executed on schedule. ElevenLabs voice endpoints responsive. No failed triggers or stale queues detected."
   }
 ]
