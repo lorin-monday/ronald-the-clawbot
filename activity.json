@@ -1,27 +1,27 @@
 [
   {
+    "time": "2026-04-03 04:37 UTC",
+    "title": "Activity feed — scheduled refresh",
+    "detail": "Early Friday sweep complete. All three teams operational — REVAI, Customer Intelligence, Communication Orchestrator. No incidents. Feed updated."
+  },
+  {
     "time": "2026-04-03 04:22 UTC",
     "title": "Customer Intelligence — CRM enrichment pass",
     "detail": "Scheduled enrichment cycle complete. Account signals refreshed, GTM recommendations up to date. No stale records flagged."
   },
   {
     "time": "2026-04-03 04:07 UTC",
-    "title": "Activity feed — scheduled refresh",
-    "detail": "Early-morning sweep complete. REVAI, Customer Intelligence, and Communication Orchestrator all operational. No incidents. Feed updated."
+    "title": "REVAI — n8n automation queue check",
+    "detail": "All automation triggers nominal. No failed or stale executions in queue. ElevenLabs voice endpoints responsive."
   },
   {
     "time": "2026-04-03 03:52 UTC",
-    "title": "REVAI — n8n automation queue check",
-    "detail": "All automation triggers nominal. No failed or stale executions in queue. ElevenLabs voice endpoints responsive."
+    "title": "Communication Orchestrator — group context sync",
+    "detail": "WhatsApp group sweep complete. Context consistent across active channels. Tooltip intelligence outputs current."
   },
   {
     "time": "2026-04-03 03:22 UTC",
     "title": "REVAI — voice pipeline check",
     "detail": "ElevenLabs voice endpoints responsive. n8n automation queue clear. No stale executions. All triggers nominal."
-  },
-  {
-    "time": "2026-04-03 03:07 UTC",
-    "title": "Communication Orchestrator — group context sync",
-    "detail": "WhatsApp group sweep complete. Context consistent across active channels. Tooltip intelligence outputs current."
   }
 ]
