@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-03 12:52 UTC",
+    "title": "Friday afternoon — scheduled feed refresh",
+    "detail": "12:52 PM. Activity feed updated on cron schedule. BigBrain teams operational: REVAI, Customer Intelligence, Communication Orchestrator. No incidents or open blockers."
+  },
+  {
     "time": "2026-04-03 12:37 UTC",
     "title": "Friday afternoon — feed refresh on schedule",
     "detail": "12:37 PM. Scheduled activity refresh complete. BigBrain teams operational: REVAI, Customer Intelligence, Communication Orchestrator. No incidents or open blockers."
@@ -18,10 +23,5 @@
     "time": "2026-04-03 11:52 UTC",
     "title": "Friday midday — operations nominal",
     "detail": "11:52 AM. All BigBrain teams green: REVAI, Customer Intelligence, Communication Orchestrator. Activity feed running on schedule, no blockers."
-  },
-  {
-    "time": "2026-04-03 11:37 UTC",
-    "title": "Midday pulse — all systems green",
-    "detail": "11:37 AM Friday. BigBrain operational across REVAI, Customer Intelligence, and Communication Orchestrator. No incidents, queues clear."
   }
 ]
