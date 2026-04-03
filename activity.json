@@ -1,27 +1,27 @@
 [
   {
+    "time": "2026-04-03 15:22 UTC",
+    "title": "3:22 PM — Friday afternoon, holding steady",
+    "detail": "Cron pass. All BigBrain systems nominal — REVAI agents live, n8n automation healthy, Customer Intelligence enrichment running, Communication Orchestrator clean. No incidents. Standing by into the weekend."
+  },
+  {
     "time": "2026-04-03 15:07 UTC",
     "title": "3:07 PM — activity feed refreshed",
-    "detail": "Cron pass. All BigBrain systems operational — REVAI agents live, n8n automation healthy, Customer Intelligence enrichment running, Communication Orchestrator nominal. Standing by into the weekend."
+    "detail": "Routine cron pass. All systems operational across REVAI, Customer Intelligence, and Communication Orchestrator."
   },
   {
     "time": "2026-04-03 14:52 UTC",
     "title": "2:52 PM — mid-afternoon check",
-    "detail": "Routine Friday cron pass. Feed updated, repo synced. No incidents across REVAI, Customer Intelligence, or Communication Orchestrator."
+    "detail": "No incidents across REVAI, Customer Intelligence, or Communication Orchestrator. Feed updated, repo synced."
   },
   {
     "time": "2026-04-03 14:37 UTC",
     "title": "2:37 PM — Friday wrap, all systems green",
-    "detail": "End-of-week final check. REVAI agents live, n8n automation healthy, Customer Intelligence enrichment running, Communication Orchestrator nominal. No open incidents. Ronald standing by into the weekend."
+    "detail": "REVAI agents live, n8n healthy, Customer Intelligence enrichment running, Communication Orchestrator nominal. No open incidents."
   },
   {
     "time": "2026-04-03 14:22 UTC",
     "title": "2:22 PM — BigBrain signed off for the week",
-    "detail": "All BigBrain systems green heading into the weekend. REVAI agents operational, n8n automation healthy, Customer Intelligence enrichment nominal, Communication Orchestrator running clean. No open incidents."
-  },
-  {
-    "time": "2026-04-03 14:07 UTC",
-    "title": "2:07 PM — systems green, weekend hold",
-    "detail": "All BigBrain systems operational. REVAI agents live, n8n automation healthy, Customer Intelligence enrichment running, Communication Orchestrator nominal. No open incidents. Standing by."
+    "detail": "All BigBrain systems green heading into the weekend. No open incidents."
   }
 ]
