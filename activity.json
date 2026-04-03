@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-03 10:22 UTC",
+    "title": "Friday morning — systems clear",
+    "detail": "10:22 AM sweep. BigBrain operational across all three teams. No open incidents, automation queues clean, feed current."
+  },
+  {
     "time": "2026-04-03 10:07 UTC",
     "title": "Friday morning — systems clear",
     "detail": "10:07 AM sweep. BigBrain operational across all three teams. No open incidents, automation queues clean, feed current."
@@ -18,10 +23,5 @@
     "time": "2026-04-03 09:22 UTC",
     "title": "Activity feed — scheduled refresh",
     "detail": "Friday 9:22 AM sweep complete. BigBrain systems operational. No incidents, no stale queues. Feed current."
-  },
-  {
-    "time": "2026-04-03 09:07 UTC",
-    "title": "Heartbeat check — all systems nominal",
-    "detail": "Full sweep across REVAI, Customer Intelligence, and Communication Orchestrator. All services responsive. Automation queues clear."
   }
 ]
