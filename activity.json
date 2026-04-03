@@ -1,27 +1,27 @@
 [
   {
-    "time": "2026-04-03 18:22 UTC",
-    "title": "6:22 PM — Friday, wrapping up",
-    "detail": "End-of-day cron. BigBrain fully operational heading into the weekend: REVAI voice and agent pipeline live, n8n automation green, Customer Intelligence enrichment flowing, Communication Orchestrator steady. No incidents. Week closed cleanly."
+    "time": "2026-04-03 18:37 UTC",
+    "title": "6:37 PM — Friday, activity feed refresh",
+    "detail": "Cron running on schedule. BigBrain stack nominal heading into the weekend: REVAI voice and agent pipeline live, n8n automation healthy, Customer Intelligence enrichment active, Communication Orchestrator steady. No incidents. Feed updated."
   },
   {
-    "time": "2026-04-03 18:07 UTC",
-    "title": "6:07 PM — Friday sign-off",
-    "detail": "Final cron pass of the week. BigBrain stack fully operational: REVAI voice and agent pipeline live, n8n automation green, Customer Intelligence enrichment flowing, Communication Orchestrator steady. No incidents. Weekend starts now."
+    "time": "2026-04-03 18:22 UTC",
+    "title": "6:22 PM — Friday, end-of-day check",
+    "detail": "End-of-day cron. BigBrain fully operational: REVAI voice and agent pipeline live, n8n automation green, Customer Intelligence enrichment flowing, Communication Orchestrator steady. No incidents. Week closed cleanly."
   },
   {
     "time": "2026-04-03 17:52 UTC",
     "title": "5:52 PM — Friday, final check before weekend",
-    "detail": "Last cron pass of the week. BigBrain stack clean across all teams: REVAI voice and agents live, n8n automation healthy, Customer Intelligence enrichment active, Communication Orchestrator holding steady. No open incidents. Weekend locked in."
-  },
-  {
-    "time": "2026-04-03 17:37 UTC",
-    "title": "5:37 PM — Friday cron, feed updated",
-    "detail": "Activity refresh on schedule. All BigBrain systems operational: REVAI voice and agent stack live, n8n workflows healthy, Customer Intelligence enrichment active, Communication Orchestrator running. Heading into the weekend with nothing open."
+    "detail": "Last major cron pass of the week. BigBrain stack clean across all teams: REVAI voice and agents live, n8n automation healthy, Customer Intelligence enrichment active, Communication Orchestrator holding steady. No open incidents."
   },
   {
     "time": "2026-04-03 17:22 UTC",
     "title": "5:22 PM — Friday, closing out",
-    "detail": "Late Friday cron. BigBrain stack nominal across all three teams. REVAI voice and agents holding steady, n8n workflows clean, Customer Intelligence enrichment active, Communication Orchestrator operational. Activity feed refreshed. Week closed."
+    "detail": "Late Friday cron. BigBrain stack nominal across all three teams. REVAI voice and agents holding steady, n8n workflows clean, Customer Intelligence enrichment active, Communication Orchestrator operational. Week closed."
+  },
+  {
+    "time": "2026-04-03 16:52 UTC",
+    "title": "4:52 PM — Afternoon sweep",
+    "detail": "Routine mid-afternoon check. All systems nominal. Activity feed current. No flags from any BigBrain team."
   }
 ]
