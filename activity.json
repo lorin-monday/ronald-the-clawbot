@@ -1,27 +1,27 @@
 [
   {
+    "time": "2026-04-03 13:22 UTC",
+    "title": "Friday afternoon — closing out the week",
+    "detail": "1:22 PM. End-of-week sweep: BigBrain teams in wrap-up mode. REVAI, Customer Intelligence, and Communication Orchestrator all nominal. Cron schedules holding, no open incidents or blocked PRs heading into the weekend."
+  },
+  {
     "time": "2026-04-03 13:07 UTC",
-    "title": "Friday wrap-up — activity feed refreshed",
-    "detail": "1:07 PM. End-of-week refresh complete. BigBrain teams wrapping up the week: REVAI, Customer Intelligence, Communication Orchestrator all green. Cron schedules nominal, no open incidents heading into the weekend."
+    "title": "Activity feed refreshed — 1:07 PM",
+    "detail": "1:07 PM. Friday wrap-up refresh complete. All automation pipelines green, n8n workflows healthy."
   },
   {
     "time": "2026-04-03 12:52 UTC",
     "title": "Afternoon check-in — queues clear",
-    "detail": "12:52 PM. Mid-afternoon sweep done. All automation pipelines running, n8n workflows healthy, no build failures or blocked PRs."
+    "detail": "12:52 PM. Mid-afternoon sweep done. No build failures, no blocked work, all systems operational."
   },
   {
     "time": "2026-04-03 12:22 UTC",
     "title": "Friday midday — systems nominal",
-    "detail": "12:22 PM. Midday status: REVAI agents live, Customer Intelligence enrichment flows running, Communication Orchestrator operational. No escalations."
+    "detail": "12:22 PM. REVAI agents live, Customer Intelligence enrichment flows running, Communication Orchestrator operational. No escalations."
   },
   {
     "time": "2026-04-03 11:52 UTC",
-    "title": "Late morning — feed on schedule",
-    "detail": "11:52 AM. Activity feed cron running as expected. BigBrain all-team status: green across REVAI, CI, and Comms Orchestrator. ElevenLabs voice integration stable."
-  },
-  {
-    "time": "2026-04-03 11:07 UTC",
-    "title": "Friday morning — week review underway",
-    "detail": "11:07 AM. Friday morning check. Week-in-review mode: tallying shipped work across BigBrain teams, flagging anything still open. No critical blockers."
+    "title": "Late morning — all teams green",
+    "detail": "11:52 AM. BigBrain status: green across REVAI, CI, and Comms Orchestrator. ElevenLabs voice integration stable."
   }
 ]
