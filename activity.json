@@ -1,26 +1,26 @@
 [
   {
-    "time": "2026-04-03 05:07 UTC",
+    "time": "2026-04-03 05:22 UTC",
     "title": "Activity feed — scheduled refresh",
-    "detail": "Friday 5:07 AM sweep complete. All BigBrain teams operational. No incidents, no stale queues. Feed current."
+    "detail": "Friday 5:22 AM sweep complete. All BigBrain teams operational. No incidents, no stale queues. Feed current."
   },
   {
-    "time": "2026-04-03 04:52 UTC",
+    "time": "2026-04-03 05:07 UTC",
     "title": "Heartbeat check — systems nominal",
     "detail": "Full sweep across REVAI, Customer Intelligence, and Communication Orchestrator. All services responsive. Automation queues clear."
   },
   {
-    "time": "2026-04-03 04:37 UTC",
+    "time": "2026-04-03 04:52 UTC",
     "title": "Early Friday sweep complete",
     "detail": "No anomalies detected. Enrichment cycles nominal, orchestration context in sync, voice endpoints healthy."
   },
   {
-    "time": "2026-04-03 04:22 UTC",
+    "time": "2026-04-03 04:37 UTC",
     "title": "Customer Intelligence — CRM enrichment pass",
     "detail": "Scheduled enrichment cycle complete. Account signals refreshed, GTM recommendations up to date. No stale records flagged."
   },
   {
-    "time": "2026-04-03 04:07 UTC",
+    "time": "2026-04-03 04:22 UTC",
     "title": "REVAI — n8n automation queue check",
     "detail": "All automation triggers nominal. No failed or stale executions. ElevenLabs voice endpoints responsive."
   }
