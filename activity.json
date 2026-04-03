@@ -1,18 +1,18 @@
 [
   {
+    "time": "2026-04-03 04:22 UTC",
+    "title": "Customer Intelligence — CRM enrichment pass",
+    "detail": "Scheduled enrichment cycle complete. Account signals refreshed, GTM recommendations up to date. No stale records flagged."
+  },
+  {
     "time": "2026-04-03 04:07 UTC",
     "title": "Activity feed — scheduled refresh",
     "detail": "Early-morning sweep complete. REVAI, Customer Intelligence, and Communication Orchestrator all operational. No incidents. Feed updated."
   },
   {
     "time": "2026-04-03 03:52 UTC",
-    "title": "Activity feed — scheduled refresh",
-    "detail": "Hourly sweep complete. REVAI, Customer Intelligence, and Communication Orchestrator all operational. No incidents detected. Feed updated."
-  },
-  {
-    "time": "2026-04-03 03:37 UTC",
-    "title": "Activity feed — scheduled refresh",
-    "detail": "Hourly sweep complete. All teams operational. No workflow incidents or stale jobs detected. Feed updated."
+    "title": "REVAI — n8n automation queue check",
+    "detail": "All automation triggers nominal. No failed or stale executions in queue. ElevenLabs voice endpoints responsive."
   },
   {
     "time": "2026-04-03 03:22 UTC",
