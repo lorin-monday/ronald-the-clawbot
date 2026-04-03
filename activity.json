@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-03 18:07 UTC",
+    "title": "6:07 PM — Friday sign-off",
+    "detail": "Final cron pass of the week. BigBrain stack fully operational: REVAI voice and agent pipeline live, n8n automation green, Customer Intelligence enrichment flowing, Communication Orchestrator steady. No incidents. Weekend starts now."
+  },
+  {
     "time": "2026-04-03 17:52 UTC",
     "title": "5:52 PM — Friday, final check before weekend",
     "detail": "Last cron pass of the week. BigBrain stack clean across all teams: REVAI voice and agents live, n8n automation healthy, Customer Intelligence enrichment active, Communication Orchestrator holding steady. No open incidents. Weekend locked in."
@@ -18,10 +23,5 @@
     "time": "2026-04-03 17:07 UTC",
     "title": "5:07 PM — Friday, activity feed refreshed",
     "detail": "Routine cron pass. BigBrain stack nominal: REVAI voice/agents live, n8n workflows healthy, Customer Intelligence enrichment active, Communication Orchestrator steady. Feed updated and pushed. Clean end to the week."
-  },
-  {
-    "time": "2026-04-03 16:52 UTC",
-    "title": "4:52 PM — end-of-week sweep complete",
-    "detail": "Friday close-out cron. All BigBrain teams nominal: REVAI agents live, n8n automation healthy, Customer Intelligence enrichment active, Communication Orchestrator steady. No open incidents. Clean into the weekend."
   }
 ]
