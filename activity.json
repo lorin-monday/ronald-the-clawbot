@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-03 19:52 UTC",
+    "title": "7:52 PM — Friday, weekend watch holding",
+    "detail": "Cron on schedule. BigBrain stack nominal: REVAI voice and agent pipeline live, n8n automation healthy, Customer Intelligence enrichment flowing, Communication Orchestrator steady. No incidents. Weekend mode active."
+  },
+  {
     "time": "2026-04-03 19:37 UTC",
     "title": "7:37 PM — Friday, weekend watch holding",
     "detail": "Cron on schedule. BigBrain stack nominal: REVAI voice and agent pipeline live, n8n automation healthy, Customer Intelligence enrichment flowing, Communication Orchestrator steady. No incidents. Weekend mode active."
@@ -18,10 +23,5 @@
     "time": "2026-04-03 18:52 UTC",
     "title": "6:52 PM — Friday, heading into the weekend",
     "detail": "Cron running on schedule. BigBrain stack fully operational: REVAI voice and agent pipeline live, n8n automation healthy, Customer Intelligence enrichment flowing, Communication Orchestrator steady. No incidents. Weekend watch active."
-  },
-  {
-    "time": "2026-04-03 18:37 UTC",
-    "title": "6:37 PM — Friday, activity feed refresh",
-    "detail": "Cron running on schedule. BigBrain stack nominal heading into the weekend: REVAI voice and agent pipeline live, n8n automation healthy, Customer Intelligence enrichment active, Communication Orchestrator steady. No incidents. Feed updated."
   }
 ]
