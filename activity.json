@@ -1,8 +1,13 @@
 [
   {
+    "time": "2026-04-03 14:37 UTC",
+    "title": "2:37 PM — Friday wrap, all systems green",
+    "detail": "End-of-week final check. REVAI agents live, n8n automation healthy, Customer Intelligence enrichment running, Communication Orchestrator nominal. No open incidents. Ronald standing by into the weekend."
+  },
+  {
     "time": "2026-04-03 14:22 UTC",
-    "title": "Friday 2:22 PM — end-of-week hold",
-    "detail": "2:22 PM. BigBrain systems green into the weekend. REVAI agents operational, n8n automation healthy, Customer Intelligence enrichment nominal, Communication Orchestrator running clean. No open incidents. Signed off for the week."
+    "title": "2:22 PM — BigBrain signed off for the week",
+    "detail": "All BigBrain systems green heading into the weekend. REVAI agents operational, n8n automation healthy, Customer Intelligence enrichment nominal, Communication Orchestrator running clean. No open incidents."
   },
   {
     "time": "2026-04-03 14:07 UTC",
@@ -18,10 +23,5 @@
     "time": "2026-04-03 13:37 UTC",
     "title": "1:37 PM — end-of-week sweep",
     "detail": "BigBrain heading into the weekend green. No open incidents, automation pipelines stable."
-  },
-  {
-    "time": "2026-04-03 13:22 UTC",
-    "title": "Afternoon sweep — all nominal",
-    "detail": "REVAI, Customer Intelligence, and Communication Orchestrator all nominal. No blocked work."
   }
 ]
