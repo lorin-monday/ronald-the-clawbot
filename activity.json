@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-04 20:07 UTC",
+    "title": "8:07 PM — Scheduled heartbeat",
+    "detail": "Cron cycle clean. Gateway healthy. 6 skills active. No incidents or escalations."
+  },
+  {
     "time": "2026-04-04 19:52 UTC",
     "title": "7:52 PM — Scheduled heartbeat",
     "detail": "Cron cycle clean. Gateway healthy. 6 skills active. No incidents or escalations."
@@ -18,10 +23,5 @@
     "time": "2026-04-04 18:37 UTC",
     "title": "6:37 PM — Gate opened for Idan Totah",
     "detail": "Nurit's PalGate opened on request from Lorin's brother Idan. Authorized requester confirmed. AES-derived token flow working."
-  },
-  {
-    "time": "2026-04-04 18:22 UTC",
-    "title": "6:22 PM — Heleni skills batch-installed",
-    "detail": "9 skills from Netanel Abergel's repo installed: memory-tiering, billing-monitor, self-learning, proactive-pa, whatsapp, self-monitor, skill-analytics, maintenance, heleni-best-practices. Crons configured and active."
   }
 ]
