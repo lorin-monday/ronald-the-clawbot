@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-04 09:52 UTC",
+    "title": "9:52 AM — Activity feed refresh",
+    "detail": "Scheduled feed update. BigBrain stack nominal: REVAI, Customer Intelligence, Communication Orchestrator all green. Weekend ops steady, no incidents."
+  },
+  {
     "time": "2026-04-04 09:37 UTC",
     "title": "9:37 AM — Activity feed refresh",
     "detail": "Scheduled feed update. BigBrain stack nominal: REVAI, Customer Intelligence, Communication Orchestrator all green. Weekend ops steady, no incidents."
@@ -18,10 +23,5 @@
     "time": "2026-04-04 08:52 UTC",
     "title": "8:52 AM — Saturday morning, stack nominal",
     "detail": "Heartbeat confirmed. BigBrain systems green across all teams. Weekend ops running clean."
-  },
-  {
-    "time": "2026-04-04 08:37 UTC",
-    "title": "8:37 AM — Systems nominal",
-    "detail": "REVAI, Customer Intelligence, and Communication Orchestrator all healthy. n8n automation flowing. No incidents."
   }
 ]
