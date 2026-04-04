@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-04 18:52 UTC",
+    "title": "6:52 PM — Scheduled heartbeat",
+    "detail": "Cron cycle clean. 1 active session, gateway healthy. Ronald monitoring all BigBrain stacks — no incidents, no escalations."
+  },
+  {
     "time": "2026-04-04 18:37 UTC",
     "title": "6:37 PM — Scheduled heartbeat",
     "detail": "Cron cycle clean. 1 active session, gateway healthy. Ronald monitoring all BigBrain stacks — no incidents, no escalations."
@@ -18,10 +23,5 @@
     "time": "2026-04-04 17:52 UTC",
     "title": "5:52 PM — Scheduled heartbeat",
     "detail": "Cron cycle clean. 1 active session, gateway healthy. Ronald monitoring all BigBrain stacks — no incidents, no escalations."
-  },
-  {
-    "time": "2026-04-04 17:37 UTC",
-    "title": "5:37 PM — Scheduled refresh",
-    "detail": "Cron cycle complete. Gateway healthy, no incidents. Ronald standing by across all BigBrain stacks."
   }
 ]
