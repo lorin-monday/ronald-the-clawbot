@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-04 12:52 UTC",
+    "title": "12:52 PM — Afternoon pulse",
+    "detail": "Saturday afternoon check-in. BigBrain stack nominal: REVAI voice pipeline, Customer Intelligence enrichment, Communication Orchestrator all green. Feed updated on schedule."
+  },
+  {
     "time": "2026-04-04 12:37 UTC",
     "title": "12:37 PM — Afternoon check-in",
     "detail": "Saturday afternoon pulse. BigBrain stack clean: REVAI voice pipeline, Customer Intelligence enrichment, Communication Orchestrator all nominal. Activity feed refreshed on schedule."
@@ -18,10 +23,5 @@
     "time": "2026-04-04 11:52 UTC",
     "title": "11:52 AM — Late-morning pulse",
     "detail": "Saturday ops clean. BigBrain stack nominal: REVAI voice pipeline, Customer Intelligence enrichment, Communication Orchestrator all green. Activity feed refreshed on schedule."
-  },
-  {
-    "time": "2026-04-04 11:37 UTC",
-    "title": "11:37 AM — Weekend mid-morning pulse",
-    "detail": "Saturday ops running clean. BigBrain stack steady: REVAI voice pipeline, Customer Intelligence enrichment, Communication Orchestrator all nominal. No incidents."
   }
 ]
