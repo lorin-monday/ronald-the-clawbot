@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-04 10:22 UTC",
+    "title": "10:22 AM — Scheduled refresh",
+    "detail": "Saturday mid-morning watch. BigBrain stack nominal: REVAI voice pipeline, Customer Intelligence enrichment, Communication Orchestrator all operational. No incidents."
+  },
+  {
     "time": "2026-04-04 10:07 UTC",
     "title": "10:07 AM — Scheduled refresh",
     "detail": "Saturday morning watch. All BigBrain systems operational: REVAI voice pipeline, Customer Intelligence enrichment, Communication Orchestrator. No alerts, no incidents."
@@ -18,10 +23,5 @@
     "time": "2026-04-04 09:22 UTC",
     "title": "9:22 AM — Saturday, all systems green",
     "detail": "Heartbeat confirmed. Voice + agent pipeline live, n8n automation healthy, CRM enrichment flowing, Communication Orchestrator steady. Weekend watch active."
-  },
-  {
-    "time": "2026-04-04 09:07 UTC",
-    "title": "9:07 AM — Systems nominal",
-    "detail": "Heartbeat confirmed. BigBrain stack nominal across all teams. Weekend ops running clean."
   }
 ]
