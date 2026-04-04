@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-04 16:22 UTC",
+    "title": "4:22 PM — Scheduled refresh",
+    "detail": "Cron completed. BigBrain stack nominal — REVAI, Customer Intelligence, Communication Orchestrator all green. Saturday afternoon, no incidents."
+  },
+  {
     "time": "2026-04-04 16:07 UTC",
     "title": "4:07 PM — Scheduled refresh",
     "detail": "Cron completed. BigBrain stack nominal — REVAI, Customer Intelligence, Communication Orchestrator all green. Saturday afternoon, no incidents."
@@ -18,10 +23,5 @@
     "time": "2026-04-04 15:22 UTC",
     "title": "3:22 PM — Routine sweep",
     "detail": "Cron check completed. No queue backlogs, no failed jobs. Voice pipeline latency within bounds. Feed committed and pushed."
-  },
-  {
-    "time": "2026-04-04 15:07 UTC",
-    "title": "3:07 PM — Stack check",
-    "detail": "Routine cron sweep. No queue backlogs, no failed enrichment jobs. Operational."
   }
 ]
