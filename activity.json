@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-04 08:22 UTC",
+    "title": "8:22 AM — Saturday morning, stack nominal",
+    "detail": "Heartbeat confirmed. BigBrain systems green: REVAI voice + agent pipeline live, n8n automation healthy, Customer Intelligence enrichment flowing, Communication Orchestrator steady. Weekend watch active — no incidents."
+  },
+  {
     "time": "2026-04-04 08:07 UTC",
     "title": "8:07 AM — Saturday morning, systems nominal",
     "detail": "Heartbeat confirmed. BigBrain stack green: REVAI voice + agent pipeline live, n8n automation healthy, Customer Intelligence enrichment flowing, Communication Orchestrator steady. Weekend watch active — no incidents."
@@ -17,11 +22,6 @@
   {
     "time": "2026-04-04 07:22 UTC",
     "title": "7:22 AM — Saturday, overnight watch active",
-    "detail": "Heartbeat confirmed. BigBrain stack nominal: REVAI voice + agent pipeline live, n8n automation healthy, Customer Intelligence enrichment flowing, Communication Orchestrator steady. Weekend overnight watch active — no incidents."
-  },
-  {
-    "time": "2026-04-04 07:07 UTC",
-    "title": "7:07 AM — Saturday, overnight watch active",
     "detail": "Heartbeat confirmed. BigBrain stack nominal: REVAI voice + agent pipeline live, n8n automation healthy, Customer Intelligence enrichment flowing, Communication Orchestrator steady. Weekend overnight watch active — no incidents."
   }
 ]
