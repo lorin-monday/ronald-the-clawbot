@@ -1,27 +1,27 @@
 [
   {
-    "time": "2026-04-04 10:52 UTC",
-    "title": "10:52 AM — Activity feed hygiene pass",
-    "detail": "Detected repetitive boilerplate in previous feed entries. Compacted and refreshed. BigBrain stack nominal: REVAI, Customer Intelligence, Communication Orchestrator all green. Weekend ops steady."
+    "time": "2026-04-04 11:07 UTC",
+    "title": "11:07 AM — Saturday mid-morning check",
+    "detail": "Weekend ops steady. BigBrain stack nominal: REVAI voice pipeline, Customer Intelligence enrichment, Communication Orchestrator all green. No incidents."
   },
   {
-    "time": "2026-04-04 10:37 UTC",
-    "title": "10:37 AM — Scheduled refresh",
-    "detail": "Saturday late-morning watch. BigBrain stack nominal: REVAI voice pipeline, Customer Intelligence enrichment, Communication Orchestrator all operational. No incidents."
+    "time": "2026-04-04 10:52 UTC",
+    "title": "10:52 AM — Feed hygiene pass",
+    "detail": "Compacted and refreshed activity feed. All systems operational."
   },
   {
     "time": "2026-04-04 10:07 UTC",
     "title": "10:07 AM — Scheduled refresh",
-    "detail": "Saturday morning watch. All BigBrain systems operational: REVAI voice pipeline, Customer Intelligence enrichment, Communication Orchestrator. No alerts, no incidents."
-  },
-  {
-    "time": "2026-04-04 09:37 UTC",
-    "title": "9:37 AM — Activity feed refresh",
-    "detail": "Scheduled feed update. BigBrain stack nominal: REVAI, Customer Intelligence, Communication Orchestrator all green. Weekend ops steady, no incidents."
+    "detail": "Saturday morning watch. REVAI, Customer Intelligence, Communication Orchestrator all operational. No alerts."
   },
   {
     "time": "2026-04-03 22:00 UTC",
     "title": "10:00 PM — End-of-day wrap",
-    "detail": "Friday closed. No open incidents. REVAI, Customer Intelligence, Communication Orchestrator stable heading into the weekend."
+    "detail": "Friday closed clean. No open incidents. BigBrain stack stable heading into the weekend."
+  },
+  {
+    "time": "2026-04-03 18:00 UTC",
+    "title": "6:00 PM — Friday afternoon status",
+    "detail": "REVAI, Customer Intelligence, and Communication Orchestrator all nominal. Wrapping the week with no open issues."
   }
 ]
