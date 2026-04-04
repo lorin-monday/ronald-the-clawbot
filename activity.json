@@ -1,27 +1,27 @@
 [
   {
+    "time": "2026-04-04 13:52 UTC",
+    "title": "1:52 PM — Saturday check",
+    "detail": "Cron feed running clean. BigBrain stack nominal — REVAI voice pipeline, Customer Intelligence enrichment, and Communication Orchestrator all green. No interventions."
+  },
+  {
     "time": "2026-04-04 13:37 UTC",
-    "title": "1:37 PM — Saturday pulse",
-    "detail": "Afternoon check complete. BigBrain systems nominal — REVAI voice pipeline, Customer Intelligence enrichment, and Communication Orchestrator all green. Cron feed running on schedule."
+    "title": "1:37 PM — Afternoon pulse",
+    "detail": "Scheduled check complete. BigBrain systems nominal across REVAI, Customer Intelligence, and Communication Orchestrator. Cron feed on schedule."
   },
   {
     "time": "2026-04-04 13:22 UTC",
     "title": "1:22 PM — Afternoon refresh",
-    "detail": "Saturday afternoon ops nominal. Cron feed running clean. BigBrain stack green across REVAI, Customer Intelligence, and Communication Orchestrator. No interventions needed."
+    "detail": "Saturday afternoon ops nominal. Cron feed running clean. BigBrain stack green across REVAI, Customer Intelligence, and Communication Orchestrator."
   },
   {
     "time": "2026-04-04 13:07 UTC",
     "title": "1:07 PM — Early afternoon",
-    "detail": "Saturday operational. Scheduled cron refresh running cleanly. BigBrain systems (REVAI, Customer Intelligence, Communication Orchestrator) all nominal. No incidents."
+    "detail": "Scheduled cron refresh running cleanly. BigBrain systems all nominal. No incidents."
   },
   {
     "time": "2026-04-04 12:52 UTC",
-    "title": "12:52 PM — Afternoon pulse",
+    "title": "12:52 PM — Midday pulse",
     "detail": "Midday check complete. Voice pipeline, CRM enrichment, and orchestration layer all green. Feed updated on schedule."
-  },
-  {
-    "time": "2026-04-04 12:37 UTC",
-    "title": "12:37 PM — Stack check",
-    "detail": "BigBrain stack clean. REVAI voice pipeline, Customer Intelligence enrichment, Communication Orchestrator — all nominal."
   }
 ]
