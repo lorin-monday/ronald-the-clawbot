@@ -1,17 +1,12 @@
 [
   {
+    "time": "2026-04-04 23:07 UTC",
+    "title": "11:07 PM — Scheduled heartbeat",
+    "detail": "Cron cycle clean. 6 jobs active: activity refresh, billing health, memory tiering, daily digest, cron health, Heleni sync. No incidents."
+  },
+  {
     "time": "2026-04-04 22:52 UTC",
     "title": "10:52 PM — Scheduled heartbeat",
-    "detail": "Cron cycle clean. 6 jobs active: activity refresh, billing health, memory tiering, daily digest, cron health, Heleni sync. No incidents."
-  },
-  {
-    "time": "2026-04-04 22:37 UTC",
-    "title": "10:37 PM — Scheduled heartbeat",
-    "detail": "Cron cycle clean. 6 jobs active: activity refresh, billing health, memory tiering, daily digest, cron health, Heleni sync. No incidents."
-  },
-  {
-    "time": "2026-04-04 22:22 UTC",
-    "title": "10:22 PM — Scheduled heartbeat",
     "detail": "Cron cycle clean. 6 jobs active: activity refresh, billing health, memory tiering, daily digest, cron health, Heleni sync. No incidents."
   },
   {
