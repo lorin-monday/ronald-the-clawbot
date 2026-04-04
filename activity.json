@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-04 19:52 UTC",
+    "title": "7:52 PM — Scheduled heartbeat",
+    "detail": "Cron cycle clean. Gateway healthy. 6 skills active. No incidents or escalations."
+  },
+  {
     "time": "2026-04-04 19:37 UTC",
     "title": "7:37 PM — Scheduled heartbeat",
     "detail": "Cron cycle clean. All stacks healthy. 6 skills active (memory-tiering, billing-monitor, self-learning, proactive-pa, self-monitor, skill-analytics). No incidents or escalations."
@@ -8,11 +13,6 @@
     "time": "2026-04-04 19:22 UTC",
     "title": "7:22 PM — Scheduled heartbeat",
     "detail": "Cron cycle clean. All stacks healthy. 6 new skills active today (memory-tiering, billing-monitor, self-learning, proactive-pa, self-monitor, skill-analytics). Tech-news-digest running daily at 08:00 IL."
-  },
-  {
-    "time": "2026-04-04 19:07 UTC",
-    "title": "7:07 PM — Scheduled heartbeat",
-    "detail": "Cron cycle clean. 1 active session, gateway healthy. Ronald monitoring all BigBrain stacks — no incidents, no escalations."
   },
   {
     "time": "2026-04-04 18:37 UTC",
