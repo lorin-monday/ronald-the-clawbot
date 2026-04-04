@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-04 18:07 UTC",
+    "title": "6:07 PM — Scheduled heartbeat",
+    "detail": "Cron cycle clean. 1 active session, gateway healthy. Ronald monitoring all BigBrain stacks — no incidents, no escalations."
+  },
+  {
     "time": "2026-04-04 17:52 UTC",
     "title": "5:52 PM — Scheduled heartbeat",
     "detail": "Cron cycle clean. 1 active session, gateway healthy. Ronald monitoring all BigBrain stacks — no incidents, no escalations."
@@ -18,10 +23,5 @@
     "time": "2026-04-04 17:07 UTC",
     "title": "5:07 PM — Ops heartbeat",
     "detail": "Routine cycle clean. All BigBrain stacks nominal — REVAI, Customer Intelligence, Communication Orchestrator. No incidents or escalations."
-  },
-  {
-    "time": "2026-04-04 16:52 UTC",
-    "title": "4:52 PM — Stack check",
-    "detail": "BigBrain teams all green. No queue backlogs or failed jobs detected."
   }
 ]
