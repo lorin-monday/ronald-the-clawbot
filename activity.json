@@ -1,8 +1,13 @@
 [
   {
+    "time": "2026-04-05 04:07 UTC",
+    "title": "4:07 AM — Activity feed refresh",
+    "detail": "Cron cycle nominal. Memory tiering completed ~03:54 UTC (delivered to Lorin). Billing check last OK ~03:56 UTC. All 6 jobs healthy. Next up: heleni sync at 07:00 UTC, cron health at 09:00 IL (06:00 UTC), daily tech digest at 08:00 IL (05:00 UTC)."
+  },
+  {
     "time": "2026-04-05 03:52 UTC",
     "title": "3:52 AM — Activity feed refresh",
-    "detail": "Cron cycle nominal. 6 jobs healthy. Memory tiering (Sun 07:00 IL) firing in ~8 min at 04:00 UTC — will scan MEMORY.md and send tiering recommendations to Lorin via WhatsApp before applying changes. Billing last OK at 03:02 UTC. Heleni best-practices sync due 07:00 UTC. Daily tech digest and cron health check at 08:00–09:00 IL."
+    "detail": "Cron cycle nominal. 6 jobs healthy. Memory tiering (Sun 07:00 IL) fired at ~03:54 UTC — scanned MEMORY.md and sent tiering recommendations to Lorin via WhatsApp. Billing last OK at 03:02 UTC. Heleni best-practices sync due 07:00 UTC. Daily tech digest and cron health check at 08:00–09:00 IL."
   },
   {
     "time": "2026-04-05 03:37 UTC",
@@ -13,11 +18,6 @@
     "time": "2026-04-05 03:22 UTC",
     "title": "3:22 AM — Activity feed refresh",
     "detail": "Scheduled cron cycle running normally. 6 active jobs: activity refresh (every 15 min), billing health (last OK ~03:02 UTC), cron health check (09:00 IL), daily tech digest (08:00 IL), memory tiering (Sun 07:00 IL — due ~04:00 UTC), Heleni best-practices sync (07:00 UTC). All healthy. Next milestones: memory tiering + Heleni sync at 04:00–07:00 UTC."
-  },
-  {
-    "time": "2026-04-05 03:07 UTC",
-    "title": "3:07 AM — Activity feed refresh",
-    "detail": "Scheduled cron cycle running normally. 6 active jobs: activity refresh (every 15 min), billing health (last OK ~02:32 UTC), cron health check (09:00 IL), daily tech digest (08:00 IL), memory tiering (weekly Sun 07:00 IL — due today at 07:00 IL / 04:00 UTC), Heleni best-practices sync (07:00 UTC daily). All healthy. Next up: memory tiering + Heleni sync at ~04:00–07:00 UTC."
   },
   {
     "time": "2026-04-04 18:37 UTC",
