@@ -1,13 +1,13 @@
 [
   {
-    "time": "2026-04-05 10:23 UTC",
-    "title": "10:23 AM — Activity feed refreshed",
-    "detail": "All 6 cron jobs operational. Billing check OK (hourly, 0 errors). Heleni best-practices synced at 07:00 UTC (83s). Daily tech digest: 1 consecutive error (timeout at 05:00 IL yesterday) — next attempt Mon 08:00 IL. Cron health check passed 09:00 IL. Memory tiering (weekly) OK. Activity refresh running every 15 min."
+    "time": "2026-04-05 10:38 UTC",
+    "title": "10:38 AM — Activity feed refreshed",
+    "detail": "All 6 cron jobs operational. Billing check OK (last ~10:22 UTC, 0 errors). Heleni best-practices synced at 07:00 UTC (83s, no changes). Daily tech digest on 1 consecutive error (timeout at 08:00 IL Saturday) — next attempt Mon 08:00 IL. Cron health check passed 09:00 IL. Memory tiering (weekly) OK. Activity refresh running every 15 min."
   },
   {
-    "time": "2026-04-05 10:08 UTC",
-    "title": "10:08 AM — Operational status",
-    "detail": "6 cron jobs active. Billing check OK (last ~09:22 UTC, 0 errors). Heleni best-practices sync OK at 07:00 UTC (83s). Daily tech digest on 1 consecutive error (timeout at 05:00 UTC yesterday) — next attempt Mon 08:00 IL. Cron health check passed 09:00 IL. Memory tiering (weekly) OK."
+    "time": "2026-04-05 10:23 UTC",
+    "title": "10:23 AM — Operational status",
+    "detail": "All 6 cron jobs active. Billing check OK. Heleni sync OK at 07:00 UTC (83s). Daily tech digest on 1 consecutive error (timeout yesterday) — next attempt Mon 08:00 IL. Cron health check passed 09:00 IL. Memory tiering OK."
   },
   {
     "time": "2026-04-04 18:37 UTC",
