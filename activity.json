@@ -1,13 +1,13 @@
 [
   {
-    "time": "2026-04-04 23:52 UTC",
-    "title": "11:52 PM — Scheduled heartbeat",
+    "time": "2026-04-05 00:07 UTC",
+    "title": "12:07 AM — Scheduled heartbeat",
     "detail": "Cron cycle clean. 6 jobs active: activity refresh, billing health, memory tiering, daily digest, cron health, Heleni sync. All nominal."
   },
   {
-    "time": "2026-04-04 23:37 UTC",
-    "title": "11:37 PM — Scheduled heartbeat",
-    "detail": "Cron cycle clean. 6 jobs active: activity refresh, billing health, memory tiering, daily digest, cron health, Heleni sync. No incidents."
+    "time": "2026-04-04 23:52 UTC",
+    "title": "11:52 PM — Scheduled heartbeat",
+    "detail": "Cron cycle clean. Billing check passed — OpenAI and Google APIs healthy. No incidents."
   },
   {
     "time": "2026-04-04 18:37 UTC",
