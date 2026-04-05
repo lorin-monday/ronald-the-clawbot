@@ -1,13 +1,13 @@
 [
   {
+    "time": "2026-04-05 05:38 UTC",
+    "title": "5:38 AM — Activity feed refresh",
+    "detail": "6 cron jobs active. All core systems nominal. Billing OK (last checked 05:09 UTC, no errors). Daily tech digest timed out at 05:00 UTC (158s vs 180s limit, 1 consecutive error) — next run Mon 08:00 IL. Cron health next at 09:00 IL (06:00 UTC). Heleni sync at 07:00 UTC. Memory tiering (weekly) last ran OK."
+  },
+  {
     "time": "2026-04-05 05:23 UTC",
     "title": "5:23 AM — Activity feed refresh",
     "detail": "6 cron jobs active. All core systems nominal. Billing OK at 05:09 UTC. Daily tech digest timed out at 05:00 UTC (158s vs 180s limit) — 1 consecutive error, monitoring. Cron health next at 06:00 UTC (09:00 IL). Heleni sync at 07:00 UTC. Memory tiering (weekly) completed OK last run."
-  },
-  {
-    "time": "2026-04-05 05:08 UTC",
-    "title": "5:08 AM — Activity feed refresh",
-    "detail": "6 cron jobs active. Activity refresh recovering (4 consecutive errors, resolved). Billing OK at 05:07 UTC. Daily tech digest ran at 05:00 UTC but timed out — timeout threshold too tight (158s vs 180s limit). Cron health runs at 09:00 IL (06:00 UTC). Heleni sync at 07:00 UTC."
   },
   {
     "time": "2026-04-05 04:07 UTC",
