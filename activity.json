@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-05 02:07 UTC",
+    "title": "2:07 AM — Activity feed refresh (recovering)",
+    "detail": "Feed refresh recovering after 2 consecutive errors on prior cycles. 6 cron jobs active: billing health (OK, last ran 02:02 UTC), activity refresh, cron health check, daily tech digest (08:00 IL), memory tiering (07:00 IL Sunday), Heleni best-practices sync (07:00 UTC daily). Billing APIs clean — no 402s."
+  },
+  {
     "time": "2026-04-05 01:52 UTC",
     "title": "1:52 AM — Activity feed refresh",
     "detail": "Scheduled cron cycle running normally. 6 active jobs: activity refresh (every 15 min), billing health (hourly), cron health check, daily tech digest, memory tiering (weekly), Heleni best-practices sync. Note: last cycle logged a transient error — recovered this run. Next milestones: tech digest at 08:00 IL, memory tiering Sunday 07:00 IL."
