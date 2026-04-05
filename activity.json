@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-05 03:37 UTC",
+    "title": "3:37 AM — Activity feed refresh",
+    "detail": "Cron cycle running. Last refresh errored once (isolated session transient fault) — recovered now. 6 active jobs healthy: billing check last OK ~03:02 UTC, activity refresh every 15 min, cron health (09:00 IL), daily tech digest (08:00 IL), memory tiering (Sun 07:00 IL — due ~04:00 UTC), Heleni sync (07:00 UTC). Next milestones: memory tiering + Heleni sync at 04:00–07:00 UTC."
+  },
+  {
     "time": "2026-04-05 03:22 UTC",
     "title": "3:22 AM — Activity feed refresh",
     "detail": "Scheduled cron cycle running normally. 6 active jobs: activity refresh (every 15 min), billing health (last OK ~03:02 UTC), cron health check (09:00 IL), daily tech digest (08:00 IL), memory tiering (Sun 07:00 IL — due ~04:00 UTC), Heleni best-practices sync (07:00 UTC). All healthy. Next milestones: memory tiering + Heleni sync at 04:00–07:00 UTC."
@@ -13,11 +18,6 @@
     "time": "2026-04-05 02:52 UTC",
     "title": "2:52 AM — Activity feed refresh",
     "detail": "Scheduled cron cycle running normally. 6 active jobs: activity refresh (every 15 min), billing health (hourly, last OK ~02:02 UTC), cron health check (09:00 IL), daily tech digest (08:00 IL), memory tiering (weekly Sun 07:00 IL), Heleni best-practices sync (07:00 UTC daily). All jobs healthy, no errors. Next: Heleni sync + tech digest at 07:00–08:00 UTC."
-  },
-  {
-    "time": "2026-04-05 02:37 UTC",
-    "title": "2:37 AM — Activity feed refresh",
-    "detail": "Scheduled cron cycle running normally. 6 active jobs: activity refresh (every 15 min), billing health (hourly, last OK ~02:02 UTC), cron health check, daily tech digest (08:00 IL), memory tiering (weekly), Heleni best-practices sync (07:00 UTC daily). No alerts. Next milestones: Heleni sync + tech digest at 07:00–08:00 UTC."
   },
   {
     "time": "2026-04-04 18:37 UTC",
