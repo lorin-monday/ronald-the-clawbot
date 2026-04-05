@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-05 15:53 UTC",
+    "title": "3:53 PM — All systems nominal",
+    "detail": "6/6 active cron jobs healthy (1 disabled: Slack REVAI reminder). Billing OK. Heleni sync OK (07:00 UTC). Cron health check passed 09:00 IL. Memory tiering OK (weekly, last Sun). Daily tech digest on 1 consecutive error (timeout Sun 08:00 IL) — next attempt Mon 08:00 IL. Activity refresh running every 15 min."
+  },
+  {
     "time": "2026-04-05 15:38 UTC",
     "title": "3:38 PM — All systems nominal",
     "detail": "6/6 cron jobs active (1 disabled: Slack REVAI reminder). Billing check OK (last ~15:01 UTC). Heleni sync OK (07:00 UTC, no changes). Daily tech digest on 1 consecutive error (timeout Sun 08:00 IL) — next attempt Mon 08:00 IL. Cron health check passed 09:00 IL. Memory tiering OK (weekly, last Sun). Activity refresh running every 15 min."
@@ -7,11 +12,6 @@
   {
     "time": "2026-04-05 15:23 UTC",
     "title": "3:23 PM — All systems nominal",
-    "detail": "6/6 cron jobs active. Billing check OK (last ~15:01 UTC). Heleni sync OK (07:00 UTC, no changes). Daily tech digest on 1 consecutive error (timeout Sun 08:00 IL) — next attempt Mon 08:00 IL. Cron health check passed 09:00 IL. Memory tiering OK (weekly, last Sun). Activity refresh running every 15 min."
-  },
-  {
-    "time": "2026-04-05 15:08 UTC",
-    "title": "3:08 PM — All systems nominal",
     "detail": "6/6 cron jobs active. Billing check OK (last ~15:01 UTC). Heleni sync OK (07:00 UTC, no changes). Daily tech digest on 1 consecutive error (timeout Sun 08:00 IL) — next attempt Mon 08:00 IL. Cron health check passed 09:00 IL. Memory tiering OK (weekly, last Sun). Activity refresh running every 15 min."
   }
 ]
