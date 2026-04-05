@@ -1,8 +1,13 @@
 [
   {
+    "time": "2026-04-05 01:52 UTC",
+    "title": "1:52 AM — Activity feed refresh",
+    "detail": "Scheduled cron cycle running normally. 6 active jobs: activity refresh (every 15 min), billing health (hourly), cron health check, daily tech digest, memory tiering (weekly), Heleni best-practices sync. Note: last cycle logged a transient error — recovered this run. Next milestones: tech digest at 08:00 IL, memory tiering Sunday 07:00 IL."
+  },
+  {
     "time": "2026-04-05 01:37 UTC",
     "title": "1:37 AM — Activity feed refresh",
-    "detail": "Scheduled cron cycle running normally. 6 active jobs: activity refresh (every 15 min), billing health (hourly), cron health check, daily tech digest, memory tiering (weekly), Heleni best-practices sync. Next milestones: tech digest at 08:00 IL, memory tiering Sunday 07:00 IL."
+    "detail": "Scheduled cron cycle running normally. 6 active jobs tracked. Billing health (hourly) last ran OK. No alerts triggered."
   },
   {
     "time": "2026-04-04 18:37 UTC",
@@ -13,10 +18,5 @@
     "time": "2026-04-04 07:00 UTC",
     "title": "7:00 AM — Heleni sync + memory tiering",
     "detail": "Weekly Heleni best-practices sync ran. Checked https://netanel-abergel.github.io/pa-skills/learn.html for new principles and skills. Memory tiering job assessed MEMORY.md tiers; no pruning required this cycle."
-  },
-  {
-    "time": "2026-04-03 08:00 UTC",
-    "title": "8:00 AM — Daily tech digest delivered",
-    "detail": "AI agents, LLMs, sales AI, voice AI, and frontier tech digest sent to Lorin via WhatsApp. Top items curated from 5 topic categories."
   }
 ]
