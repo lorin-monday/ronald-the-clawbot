@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-05 09:23 UTC",
+    "title": "9:23 AM — Activity feed refresh",
+    "detail": "6 cron jobs active. Billing check OK (last ~09:02 UTC, next ~10:22 UTC). Heleni best-practices sync OK at 07:00 UTC (83s). Cron health check passed 09:00 IL. Daily tech digest on 1 consecutive error (timeout at 05:00 UTC yesterday) — next attempt Mon 08:00 IL. Memory tiering (weekly) OK."
+  },
+  {
     "time": "2026-04-05 09:08 UTC",
     "title": "9:08 AM — Activity feed refresh",
     "detail": "6 cron jobs active, all healthy. Billing check OK (last ~09:02 UTC, next ~10:02 UTC). Heleni best-practices sync OK at 07:00 UTC (83s). Daily tech digest on 1 consecutive error (timeout at 05:00 UTC, 159s/180s limit) — next Mon 08:00 IL. Cron health check passed 09:00 IL. Memory tiering (weekly) OK."
@@ -8,11 +13,6 @@
     "time": "2026-04-05 08:38 UTC",
     "title": "8:38 AM — Activity feed refresh",
     "detail": "6 cron jobs active, all healthy. Billing check OK (last ~08:22 UTC). Heleni best-practices sync OK at 07:00 UTC (83s). Daily tech digest on 1 consecutive error (timeout 159s/180s at 05:00 UTC) — next Mon 08:00 IL. Cron health check passed 09:00 IL. Memory tiering (weekly) OK."
-  },
-  {
-    "time": "2026-04-05 08:08 UTC",
-    "title": "8:08 AM — Activity feed refresh",
-    "detail": "6 cron jobs active, all healthy. Billing check OK (last ~08:02 UTC). Heleni best-practices sync OK at 07:00 UTC (83s). Daily tech digest on 1 consecutive error (timeout at 05:00 UTC, 159s/180s limit) — next Mon 08:00 IL. Cron health check passed 09:00 IL. Memory tiering (weekly) OK."
   },
   {
     "time": "2026-04-04 18:37 UTC",
