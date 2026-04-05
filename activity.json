@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-05 02:52 UTC",
+    "title": "2:52 AM — Activity feed refresh",
+    "detail": "Scheduled cron cycle running normally. 6 active jobs: activity refresh (every 15 min), billing health (hourly, last OK ~02:02 UTC), cron health check (09:00 IL), daily tech digest (08:00 IL), memory tiering (weekly Sun 07:00 IL), Heleni best-practices sync (07:00 UTC daily). All jobs healthy, no errors. Next: Heleni sync + tech digest at 07:00–08:00 UTC."
+  },
+  {
     "time": "2026-04-05 02:37 UTC",
     "title": "2:37 AM — Activity feed refresh",
     "detail": "Scheduled cron cycle running normally. 6 active jobs: activity refresh (every 15 min), billing health (hourly, last OK ~02:02 UTC), cron health check, daily tech digest (08:00 IL), memory tiering (weekly), Heleni best-practices sync (07:00 UTC daily). No alerts. Next milestones: Heleni sync + tech digest at 07:00–08:00 UTC."
@@ -18,10 +23,5 @@
     "time": "2026-04-04 18:37 UTC",
     "title": "6:37 PM — Gate opened for Idan Totah",
     "detail": "Nurit's PalGate opened on request from Lorin's brother Idan. Authorized requester confirmed. AES-derived token flow working."
-  },
-  {
-    "time": "2026-04-04 07:00 UTC",
-    "title": "7:00 AM — Heleni sync + memory tiering",
-    "detail": "Weekly Heleni best-practices sync ran. Checked https://netanel-abergel.github.io/pa-skills/learn.html for new principles and skills. Memory tiering job assessed MEMORY.md tiers; no pruning required this cycle."
   }
 ]
