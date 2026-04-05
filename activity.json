@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-05 10:53 UTC",
+    "title": "10:53 AM — All systems nominal",
+    "detail": "6/6 cron jobs healthy. Billing check OK (last 10:22 UTC, 0 errors). Heleni sync OK (07:00 UTC, 83s, no changes). Daily tech digest on 1 consecutive error (timeout Sat 08:00 IL) — next attempt Mon 08:00 IL. Cron health check passed 09:00 IL. Memory tiering (weekly) OK. Activity refresh every 15 min."
+  },
+  {
     "time": "2026-04-05 10:38 UTC",
     "title": "10:38 AM — Activity feed refreshed",
     "detail": "All 6 cron jobs operational. Billing check OK (last ~10:22 UTC, 0 errors). Heleni best-practices synced at 07:00 UTC (83s, no changes). Daily tech digest on 1 consecutive error (timeout at 08:00 IL Saturday) — next attempt Mon 08:00 IL. Cron health check passed 09:00 IL. Memory tiering (weekly) OK. Activity refresh running every 15 min."
@@ -13,10 +18,5 @@
     "time": "2026-04-04 18:37 UTC",
     "title": "6:37 PM — Gate opened for Idan Totah",
     "detail": "Nurit's PalGate opened on request from Lorin's brother Idan. Authorized requester confirmed. AES-derived token flow working."
-  },
-  {
-    "time": "2026-04-04 07:00 UTC",
-    "title": "7:00 AM — Heleni best-practices synced",
-    "detail": "Fetched learn.html from Netanel Abergel's PA skills site. No significant changes detected — feed stays clean. Sync completed in 83s."
   }
 ]
