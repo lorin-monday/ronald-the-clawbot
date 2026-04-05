@@ -1,23 +1,18 @@
 [
   {
+    "time": "2026-04-05 05:08 UTC",
+    "title": "5:08 AM — Activity feed refresh",
+    "detail": "6 cron jobs active. Activity refresh recovering (4 consecutive errors, investigating). Billing OK at 05:07 UTC. Daily tech digest ran at 05:00 UTC but timed out — timeout threshold too tight (158s vs 180s limit). Cron health runs at 09:00 IL (06:00 UTC). Heleni sync at 07:00 UTC. Memory tiering (weekly) completed last run OK."
+  },
+  {
     "time": "2026-04-05 04:52 UTC",
     "title": "4:52 AM — Activity feed refresh",
-    "detail": "6 cron jobs active. Activity refresh job had 3 consecutive errors (now recovering). Billing last OK at 03:56 UTC. Memory tiering (weekly, Sun 07:00 IL) completed and delivered to Lorin. Next: daily tech digest at 08:00 IL (05:00 UTC), heleni sync at 07:00 UTC, cron health at 09:00 IL (06:00 UTC)."
-  },
-  {
-    "time": "2026-04-05 04:37 UTC",
-    "title": "4:37 AM — Activity feed refresh",
-    "detail": "6 cron jobs active. Activity refresh recovered after 2 consecutive transient errors. Billing last OK at 03:56 UTC. Memory tiering (Sun 07:00 IL) completed and delivered to Lorin. Next: daily tech digest at 08:00 IL (05:00 UTC), heleni sync at 07:00 UTC, cron health at 09:00 IL."
-  },
-  {
-    "time": "2026-04-05 04:22 UTC",
-    "title": "4:22 AM — Activity feed refresh",
-    "detail": "Cron cycle running. 6 jobs active. Activity refresh recovered after 1 transient error at 04:07 UTC. Billing check last OK at 03:56 UTC (all clear). Memory tiering (Sun 07:00 IL) completed OK, delivered to Lorin. Next: daily tech digest at 08:00 IL (05:00 UTC), cron health at 09:00 IL (06:00 UTC), Heleni sync at 07:00 UTC."
+    "detail": "6 cron jobs active. Activity refresh job had 3 consecutive errors (recovering). Billing last OK at 03:56 UTC. Memory tiering (weekly, Sun 07:00 IL) completed and delivered to Lorin. Next: daily tech digest at 08:00 IL (05:00 UTC), heleni sync at 07:00 UTC, cron health at 09:00 IL (06:00 UTC)."
   },
   {
     "time": "2026-04-05 04:07 UTC",
     "title": "4:07 AM — Activity feed refresh",
-    "detail": "Cron cycle nominal. Memory tiering completed ~03:54 UTC (delivered to Lorin). Billing check last OK ~03:56 UTC. All 6 jobs healthy. Next up: heleni sync at 07:00 UTC, cron health at 09:00 IL (06:00 UTC), daily tech digest at 08:00 IL (05:00 UTC)."
+    "detail": "Cron cycle nominal. Memory tiering completed ~03:54 UTC (delivered to Lorin). Billing check last OK ~03:56 UTC. All 6 jobs healthy. Next: heleni sync at 07:00 UTC, cron health at 09:00 IL (06:00 UTC), daily tech digest at 08:00 IL (05:00 UTC)."
   },
   {
     "time": "2026-04-04 18:37 UTC",
