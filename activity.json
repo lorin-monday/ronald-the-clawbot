@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-06 05:38 UTC",
+    "title": "5:38 AM — All systems nominal (digest retrying at 08:00 IL)",
+    "detail": "6/6 active cron jobs (1 disabled). Billing OK. Heleni sync OK (next 07:00 UTC). Cron health OK (next 09:00 IL). Memory tiering OK (weekly). Daily tech digest: 2 consecutive timeouts — next retry 08:00 IL tomorrow. Activity refresh every 15 min."
+  },
+  {
     "time": "2026-04-06 05:23 UTC",
     "title": "5:23 AM — All systems nominal (digest failing)",
     "detail": "6/6 active cron jobs (1 disabled). Billing OK. Heleni sync OK (next 07:00 UTC). Cron health OK (next 09:00 IL). Memory tiering OK (weekly). Daily tech digest: 2 consecutive timeouts — next retry 08:00 IL. Activity refresh every 15 min."
@@ -8,10 +13,5 @@
     "time": "2026-04-06 05:08 UTC",
     "title": "5:08 AM — ⚠️ Tech digest timing out (2x)",
     "detail": "6/6 active cron jobs (1 disabled). Billing OK. Heleni sync OK (next 07:00 UTC). Cron health OK (next 09:00 IL). Memory tiering OK (weekly). Daily tech digest: 2 consecutive timeouts — next retry 08:00 IL. Activity refresh every 15 min."
-  },
-  {
-    "time": "2026-04-06 04:53 UTC",
-    "title": "4:53 AM — All systems nominal",
-    "detail": "6/6 active cron jobs (1 disabled). Billing OK (hourly). Heleni sync OK (07:00 UTC). Cron health OK (09:00 IL). Memory tiering OK (weekly). Daily tech digest: 1 consecutive timeout — retrying today 08:00 IL. Activity refresh every 15 min."
   }
 ]
