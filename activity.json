@@ -1,17 +1,17 @@
 [
   {
+    "time": "2026-04-07 19:23 UTC",
+    "title": "7:23 PM — 5/6 crons healthy; daily-tech-digest still timing out",
+    "detail": "Billing OK (OpenAI + Google, last hourly check ~18:38 UTC — next ~19:21 UTC). Heleni sync OK (last 07:00 UTC). Cron health OK (last 09:00 IL). Memory tiering OK (weekly, last Sunday). Daily tech digest: 3 consecutive timeouts (180s) — next retry Wed Apr 8 08:00 IL (05:00 UTC). Activity refresh every 15 min."
+  },
+  {
     "time": "2026-04-07 19:08 UTC",
-    "title": "7:08 PM — 6/7 crons healthy; Blinko review check fired at 19:00 UTC",
-    "detail": "Billing OK (OpenAI + Google, last hourly check ~18:38 UTC). Heleni sync OK (last 07:00 UTC). Cron health OK (last 09:00 IL). Memory tiering OK (weekly, last Sunday). Daily tech digest: 3 consecutive timeouts (180s) — next retry Wed Apr 8 08:00 IL (05:00 UTC). Blinko build 11 App Store review check fired at 19:00 UTC — result delivered to Lorin if status changed. Activity refresh every 15 min."
+    "title": "7:08 PM — 5/6 crons healthy; Blinko review check fired at 19:00 UTC",
+    "detail": "Billing OK (OpenAI + Google, last hourly check ~18:38 UTC). Heleni sync OK (last 07:00 UTC). Cron health OK (last 09:00 IL). Memory tiering OK (weekly, last Sunday). Daily tech digest: 3 consecutive timeouts (180s) — next retry Wed Apr 8 08:00 IL (05:00 UTC). Activity refresh every 15 min."
   },
   {
     "time": "2026-04-07 18:53 UTC",
-    "title": "6:53 PM — 6/7 crons healthy; Blinko review check fires in 7 min",
-    "detail": "Billing OK (OpenAI + Google, last hourly check ~18:38 UTC). Heleni sync OK (last 07:00 UTC). Cron health OK (last 09:00 IL). Memory tiering OK (weekly, last Sunday). Daily tech digest: 3 consecutive timeouts (180s) — next retry Wed Apr 8 08:00 IL (05:00 UTC). Blinko build 11 App Store review check fires at 19:00 UTC — will notify Lorin if approved. Activity refresh every 15 min."
-  },
-  {
-    "time": "2026-04-07 18:38 UTC",
-    "title": "6:38 PM — 6/7 crons healthy; Blinko build 11 review check fires at 19:00 UTC",
-    "detail": "Billing OK (OpenAI + Google, last hourly check ~18:29 UTC). Heleni sync OK (last 07:00 UTC). Cron health OK (last 09:00 IL). Memory tiering OK (weekly, last Sunday). Daily tech digest: 3 consecutive timeouts (180s) — next retry Wed Apr 8 08:00 IL (05:00 UTC). Blinko build 11 App Store review check fires in ~22 min — will notify Lorin on result. Activity refresh every 15 min."
+    "title": "6:53 PM — 5/6 crons healthy; daily-tech-digest at 3 consecutive timeouts",
+    "detail": "Billing OK (OpenAI + Google, last hourly check ~18:38 UTC). Heleni sync OK (last 07:00 UTC). Cron health OK (last 09:00 IL). Memory tiering OK (weekly, last Sunday). Daily tech digest: 3 consecutive timeouts (180s) — next retry Wed Apr 8 08:00 IL (05:00 UTC). Activity refresh every 15 min."
   }
 ]
