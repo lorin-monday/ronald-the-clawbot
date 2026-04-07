@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-07 16:53 UTC",
+    "title": "4:53 PM — 5/6 crons healthy; daily digest paused (3× timeout); all systems nominal",
+    "detail": "Billing OK (OpenAI + Google, last hourly check ~16:37 UTC). Heleni sync OK (last 07:00 UTC). Cron health OK (last 09:00 IL). Memory tiering OK (weekly, last Sunday). Daily tech digest: 3 consecutive timeouts (180s) — next retry Wed Apr 8 08:00 IL (05:00 UTC). Activity refresh every 15 min."
+  },
+  {
     "time": "2026-04-07 16:38 UTC",
     "title": "4:38 PM — 5/6 crons healthy; daily digest paused (3× timeout); all systems nominal",
     "detail": "Billing OK (OpenAI + Google, last hourly check ~16:37 UTC). Heleni sync OK (last 07:00 UTC). Cron health OK (last 09:00 IL). Memory tiering OK (weekly, last Sunday). Daily tech digest: 3 consecutive timeouts (180s) — next retry Wed Apr 8 08:00 IL (05:00 UTC). Activity refresh every 15 min."
@@ -7,11 +12,6 @@
   {
     "time": "2026-04-07 16:23 UTC",
     "title": "4:23 PM — 5/6 crons healthy; daily digest paused (3× timeout); all systems nominal",
-    "detail": "Billing OK (OpenAI + Google, last hourly check ~15:57 UTC). Heleni sync OK (last 07:00 UTC). Cron health OK (last 09:00 IL). Memory tiering OK (weekly, last Sunday). Daily tech digest: 3 consecutive timeouts (180s) — next retry Wed Apr 8 08:00 IL (05:00 UTC). Activity refresh every 15 min."
-  },
-  {
-    "time": "2026-04-07 16:08 UTC",
-    "title": "4:08 PM — 5/6 crons healthy; daily digest paused (3× timeout); all systems nominal",
     "detail": "Billing OK (OpenAI + Google, last hourly check ~15:57 UTC). Heleni sync OK (last 07:00 UTC). Cron health OK (last 09:00 IL). Memory tiering OK (weekly, last Sunday). Daily tech digest: 3 consecutive timeouts (180s) — next retry Wed Apr 8 08:00 IL (05:00 UTC). Activity refresh every 15 min."
   }
 ]
