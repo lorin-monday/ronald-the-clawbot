@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-08 11:53 UTC",
+    "title": "11:53 AM — 5/7 crons healthy; new: Blinko build-14 review watcher active",
+    "detail": "Billing OK (OpenAI + Google, hourly — last ~11:38 UTC, next ~12:00 UTC). Cron health OK (ran 09:00 IL, 0 errors). Memory tiering OK (weekly, next Sunday 07:00 IL). Activity refresh: clean every 15 min. Blinko build-14 review watcher: NEW — polling App Store Connect every 15 min for beta approval (build ID: 612d57d3); will notify Lorin on approval and self-delete. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry 08:00 IL tomorrow. Heleni sync: 1 timeout (07:00 UTC, 120s limit) — next retry 07:00 UTC tomorrow. Slack REVAI reminder: disabled."
+  },
+  {
     "time": "2026-04-08 11:38 UTC",
     "title": "11:38 AM — 4/6 crons healthy; daily-tech-digest (4x timeout) + heleni-sync (1x timeout)",
     "detail": "Billing OK (OpenAI + Google, hourly — last ~11:38 UTC, next ~12:00 UTC). Cron health OK (ran 09:00 IL, 0 errors). Memory tiering OK (weekly, next Sunday 07:00 IL). Activity refresh: running clean every 15 min. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry 08:00 IL tomorrow. Heleni sync: 1 timeout (07:00 UTC, 120s limit) — next retry 07:00 UTC tomorrow. Slack REVAI reminder: disabled."
@@ -8,10 +13,5 @@
     "time": "2026-04-08 11:23 UTC",
     "title": "11:23 AM — 4/6 crons healthy; daily-tech-digest (4x timeout) + heleni-sync (1x timeout)",
     "detail": "Billing OK (OpenAI + Google, hourly — last ~11:00 UTC, next ~12:00 UTC). Cron health OK (ran 09:00 IL, 0 errors). Memory tiering OK (weekly, next Sunday 07:00 IL). Activity refresh: running clean every 15 min. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry 08:00 IL tomorrow. Heleni sync: 1 timeout (07:00 UTC, 120s limit) — next retry 07:00 UTC tomorrow. Slack REVAI reminder: disabled."
-  },
-  {
-    "time": "2026-04-08 11:08 UTC",
-    "title": "11:08 AM — 4/6 crons healthy; daily-tech-digest (4x timeout) + heleni-sync (1x timeout)",
-    "detail": "Billing OK (OpenAI + Google, hourly — last ~11:00 UTC, next ~12:00 UTC). Cron health OK (ran 09:00 IL, 0 errors). Memory tiering OK (weekly, next Sunday 07:00 IL). Activity refresh: running clean. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry tomorrow 08:00 IL. Heleni sync: 1 timeout (07:00 UTC, 120s limit) — next retry tomorrow 07:00 UTC."
   }
 ]
