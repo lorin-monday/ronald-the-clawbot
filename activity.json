@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-08 07:53 UTC",
+    "title": "7:53 AM — 4/6 crons healthy; daily-tech-digest + heleni-sync timing out",
+    "detail": "Billing OK (OpenAI + Google, hourly — last ~07:31 UTC, next ~08:35 UTC). Cron health OK (ran 09:00 IL, next tomorrow). Memory tiering OK (weekly, next Sunday). Activity refresh: clean, 0 errors. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry tomorrow 08:00 IL. Heleni sync: 1 consecutive timeout (07:00 UTC, 120s limit) — next retry tomorrow 07:00 UTC. Slack REVAI reminder: disabled."
+  },
+  {
     "time": "2026-04-08 07:38 UTC",
     "title": "7:38 AM — 4/6 crons healthy; daily-tech-digest + heleni-sync timing out",
     "detail": "Billing OK (OpenAI + Google, hourly — last ~07:28 UTC, next ~08:28 UTC). Cron health OK (ran 09:00 IL, next tomorrow). Memory tiering OK (weekly, next Sunday). Activity refresh: clean, 0 errors. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry tomorrow 08:00 IL. Heleni sync: 1 consecutive timeout (07:00 UTC, 120s limit) — next retry tomorrow 07:00 UTC. Slack REVAI reminder: disabled."
@@ -8,10 +13,5 @@
     "time": "2026-04-08 07:23 UTC",
     "title": "7:23 AM — 4/6 crons healthy; daily-tech-digest + heleni-sync failing",
     "detail": "Billing OK (OpenAI + Google, hourly — last ~06:55 UTC, next ~07:55 UTC). Cron health OK (ran 09:00 IL). Memory tiering OK (weekly, next Sunday). Activity refresh: 2 consecutive errors (self). Daily tech digest: 4 consecutive timeouts (180s limit) — next retry tomorrow 08:00 IL. Heleni sync: timed out at 07:00 UTC (1 consecutive error, 120s limit)."
-  },
-  {
-    "time": "2026-04-08 07:08 UTC",
-    "title": "7:08 AM — 4/6 crons healthy; heleni-sync + daily-tech-digest timing out",
-    "detail": "Billing OK (OpenAI + Google, hourly — last ~06:55 UTC, next ~07:55 UTC). Cron health OK (ran 09:00 IL). Memory tiering OK (weekly, next Sunday). Activity refresh: running clean every 15 min. Heleni sync: timed out at 07:00 UTC (1 consecutive error, 120s limit). Daily tech digest: 4 consecutive timeouts (180s limit) — next retry tomorrow 08:00 IL."
   }
 ]
