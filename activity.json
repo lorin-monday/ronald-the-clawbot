@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-08 19:38 UTC",
+    "title": "7:38 PM — 8/8 crons active; blinko watch OK (19:05 UTC); showing-off-agents digest running clean",
+    "detail": "Billing OK (OpenAI + Google, hourly — last ~19:07 UTC). Blinko App Store review watch: active every 30 min, last run OK (~19:05 UTC) — still WAITING_FOR_REVIEW. Showing-off-agents hourly digest: last run OK (21:53 IL, 35s) — delivered. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry 08:00 IL tomorrow. Heleni sync: 1 timeout (07:00 UTC, 120s limit) — next retry 07:00 UTC tomorrow. Cron health check: OK (ran 09:00 IL). Memory tiering: OK (weekly, next Sunday 07:00 IL). Activity refresh: clean every 15 min."
+  },
+  {
     "time": "2026-04-08 19:23 UTC",
     "title": "7:23 PM — 8/8 crons active; blinko watch OK (19:05 UTC); showing-off-agents digest OK",
     "detail": "Billing OK (OpenAI + Google, hourly — last ~19:05 UTC). Blinko App Store review watch: active every 30 min, last run OK (~19:05 UTC) — still WAITING_FOR_REVIEW. Showing-off-agents hourly digest: last run OK (18:53 IL, 35s) — delivered. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry 08:00 IL tomorrow. Heleni sync: 1 timeout (07:00 UTC, 120s limit) — next retry 07:00 UTC tomorrow. Cron health check: OK (ran 09:00 IL). Memory tiering: OK (weekly, next Sunday 07:00 IL). Activity refresh: clean every 15 min."
@@ -8,10 +13,5 @@
     "time": "2026-04-08 19:08 UTC",
     "title": "7:08 PM — 8/8 crons active; blinko watch OK; showing-off-agents digest running clean",
     "detail": "Billing OK (OpenAI + Google, hourly — last ~18:07 UTC, next ~19:07 UTC). Blinko App Store review watch: active every 30 min, last run OK (~18:36 UTC) — still WAITING_FOR_REVIEW. Showing-off-agents hourly digest: last run OK (18:53 IL), 35s — delivered. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry 08:00 IL tomorrow. Heleni sync: 1 timeout (07:00 UTC, 120s limit) — next retry 07:00 UTC tomorrow. Cron health check: OK (ran 09:00 IL). Memory tiering: OK (weekly, next Sunday 07:00 IL). Activity refresh: clean every 15 min."
-  },
-  {
-    "time": "2026-04-08 18:53 UTC",
-    "title": "6:53 PM — 8/8 crons active; blinko watch OK (last OK 18:36 UTC); showing-off-agents digest timing out (2x)",
-    "detail": "Billing OK (OpenAI + Google, hourly — last ~18:07 UTC, next ~19:07 UTC). Blinko App Store review watch: active every 30 min, last run OK (~18:36 UTC) — still WAITING_FOR_REVIEW. Showing-off-agents hourly digest: 2 consecutive timeouts (120s limit) — next retry 19:00 IL. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry 08:00 IL tomorrow. Heleni sync: 1 timeout (07:00 UTC, 120s limit) — next retry 07:00 UTC tomorrow. Cron health check: OK (ran 09:00 IL). Memory tiering: OK (weekly, next Sunday 07:00 IL). Activity refresh: clean every 15 min."
   }
 ]
