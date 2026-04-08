@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-08 09:08 UTC",
+    "title": "9:08 AM — 4/6 crons healthy; daily-tech-digest + heleni-sync timing out",
+    "detail": "Billing OK (OpenAI + Google, hourly — last ~08:39 UTC, next ~09:39 UTC). Cron health OK (ran 09:00 IL, next tomorrow). Memory tiering OK (weekly, next Sunday). Activity refresh: clean, 0 errors. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry tomorrow 08:00 IL. Heleni sync: 1 consecutive timeout (07:00 UTC, 120s limit) — next retry tomorrow 07:00 UTC. Slack REVAI reminder: disabled."
+  },
+  {
     "time": "2026-04-08 08:53 UTC",
     "title": "8:53 AM — 4/6 crons healthy; daily-tech-digest + heleni-sync timing out",
     "detail": "Billing OK (OpenAI + Google, hourly — last ~08:35 UTC, next ~09:35 UTC). Cron health OK (ran 09:00 IL, next tomorrow). Memory tiering OK (weekly, next Sunday). Activity refresh: clean, 0 errors. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry tomorrow 08:00 IL. Heleni sync: 1 consecutive timeout (07:00 UTC, 120s limit) — next retry tomorrow 07:00 UTC. Slack REVAI reminder: disabled."
@@ -8,10 +13,5 @@
     "time": "2026-04-08 08:38 UTC",
     "title": "8:38 AM — 4/6 crons healthy; daily-tech-digest + heleni-sync timing out",
     "detail": "Billing OK (OpenAI + Google, hourly — last ~08:35 UTC, next ~09:35 UTC). Cron health OK (ran 09:00 IL, next tomorrow). Memory tiering OK (weekly, next Sunday). Activity refresh: clean, 0 errors. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry tomorrow 08:00 IL. Heleni sync: 1 consecutive timeout (07:00 UTC, 120s limit) — next retry tomorrow 07:00 UTC. Slack REVAI reminder: disabled."
-  },
-  {
-    "time": "2026-04-08 08:23 UTC",
-    "title": "8:23 AM — 4/6 crons healthy; daily-tech-digest + heleni-sync timing out",
-    "detail": "Billing OK (OpenAI + Google, hourly — last ~07:35 UTC, next ~08:35 UTC). Cron health OK (ran 09:00 IL, next tomorrow). Memory tiering OK (weekly, next Sunday). Activity refresh: clean, 0 errors. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry tomorrow 08:00 IL. Heleni sync: 1 consecutive timeout (07:00 UTC, 120s limit) — next retry tomorrow 07:00 UTC. Slack REVAI reminder: disabled."
   }
 ]
