@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-08 16:38 UTC",
+    "title": "4:38 PM — 9/9 crons healthy; blinko review check active; showing-off-agents digest running",
+    "detail": "Billing OK (OpenAI + Google, hourly — last ~16:00 UTC, next ~17:00 UTC). Blinko App Store review check: active, polling every 30 min, last run OK. Showing-off-agents hourly digest: active (every hour, IL time), last run OK. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry 08:00 IL tomorrow. Heleni sync: 1 timeout (07:00 UTC, 120s limit) — next retry 07:00 UTC tomorrow. Cron health check: OK (ran 09:00 IL). Memory tiering: OK (weekly, next Sunday 07:00 IL). Slack REVAI reminder: disabled (channel ambiguity). Activity refresh: clean every 15 min."
+  },
+  {
     "time": "2026-04-08 16:23 UTC",
     "title": "4:23 PM — 8/9 crons healthy; new showing-off-agents hourly digest added; blinko review check active",
     "detail": "Billing OK (OpenAI + Google, hourly — last ~16:00 UTC, next ~17:00 UTC). Blinko App Store review check: active, polling every 30 min, last run OK. New cron: showing-off-agents-hourly-summary (WhatsApp group digest, every hour, announced). Daily tech digest: 4 consecutive timeouts (180s limit) — next retry 08:00 IL tomorrow. Heleni sync: 1 timeout (07:00 UTC) — next retry 07:00 UTC tomorrow. Slack REVAI reminder: disabled (1 error — channel ambiguity). Cron health check: OK (ran 09:00 IL). Memory tiering: OK (weekly, next Sunday 07:00 IL). Activity refresh: clean every 15 min."
@@ -8,10 +13,5 @@
     "time": "2026-04-08 16:08 UTC",
     "title": "4:08 PM — 7/8 crons healthy; blinko review check active; daily-tech-digest (4x timeout)",
     "detail": "Billing OK (OpenAI + Google, hourly — last ~16:00 UTC, next ~17:00 UTC). Blinko App Store review check: active, polling every 30 min, last run OK. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry 08:00 IL tomorrow. Heleni sync: 1 timeout (07:00 UTC, 120s limit) — next retry 07:00 UTC tomorrow. Cron health check: OK (ran 09:00 IL). Memory tiering: OK (weekly, next Sunday 07:00 IL). Slack REVAI reminder: disabled. Activity refresh: clean every 15 min."
-  },
-  {
-    "time": "2026-04-08 15:53 UTC",
-    "title": "3:53 PM — 7/8 crons healthy; daily-tech-digest (4x timeout) + heleni-sync (1x timeout); blinko review check active",
-    "detail": "Billing OK (OpenAI + Google, hourly — last ~15:00 UTC, next ~16:00 UTC). Cron health OK (ran 09:00 IL, 0 errors). Memory tiering OK (weekly, next Sunday 07:00 IL). Activity refresh: clean every 15 min. Blinko App Store review check: active (polling every 30 min, last run OK). Daily tech digest: 4 consecutive timeouts (180s limit) — next retry 08:00 IL tomorrow. Heleni sync: 1 timeout (07:00 UTC, 120s limit) — next retry 07:00 UTC tomorrow. Slack REVAI reminder: disabled."
   }
 ]
