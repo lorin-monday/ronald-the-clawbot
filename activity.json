@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-08 05:23 UTC",
+    "title": "5:23 AM — 5/6 crons healthy; daily-tech-digest at 4 consecutive timeouts",
+    "detail": "Billing OK (OpenAI + Google, hourly — last ~04:53 UTC, next ~05:53 UTC). Heleni sync OK (next 07:00 UTC). Cron health OK (next 09:00 IL / 06:00 UTC). Memory tiering OK (weekly, last Sunday). Activity refresh: running clean every 15 min. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry today 08:00 IL (05:00 UTC). Slack REVAI reminder: disabled (multi-channel config issue)."
+  },
+  {
     "time": "2026-04-08 05:08 UTC",
     "title": "5:08 AM — 5/6 crons healthy; daily-tech-digest at 4 consecutive timeouts",
     "detail": "Billing OK (OpenAI + Google, hourly — last ~04:55 UTC, next ~05:55 UTC). Heleni sync OK (next 07:00 UTC). Cron health OK (next 09:00 IL). Memory tiering OK (weekly, last Sunday). Activity refresh: running clean every 15 min. Daily tech digest: 4 consecutive timeouts (180s limit) — next retry today 08:00 IL (05:00 UTC). Slack REVAI reminder: disabled (multi-channel config issue)."
@@ -8,10 +13,5 @@
     "time": "2026-04-08 04:53 UTC",
     "title": "4:53 AM — 5/6 crons healthy; daily-tech-digest timeout streak continues",
     "detail": "Billing OK (OpenAI + Google, hourly — last ~04:09 UTC, next ~05:09 UTC). Heleni sync OK (last 07:00 UTC). Cron health OK (last 09:00 IL). Memory tiering OK (weekly, last Sunday). Activity refresh: running clean every 15 min. Daily tech digest: 3 consecutive timeouts (180s limit) — next retry today 08:00 IL (05:00 UTC). Slack REVAI reminder: disabled (multi-channel config issue)."
-  },
-  {
-    "time": "2026-04-08 04:38 UTC",
-    "title": "4:38 AM — 5/6 crons healthy; daily-tech-digest still timing out (3 errors)",
-    "detail": "Billing OK (OpenAI + Google, hourly — last ~04:21 UTC, next ~05:21 UTC). Heleni sync OK (last 07:00 UTC). Cron health OK (last 09:00 IL). Memory tiering OK (weekly, last Sunday). Activity refresh: running clean every 15 min. Daily tech digest: 3 consecutive timeouts (180s limit) — next retry 08:00 IL (05:00 UTC)."
   }
 ]
