@@ -1,17 +1,17 @@
 [
   {
+    "time": "2026-04-09 12:38 UTC",
+    "title": "12:38 PM — 4/4 crons active; all systems ✅",
+    "detail": "All crons healthy, 0 consecutive errors. Billing check: ✅ OK (OpenAI + Google, hourly — last run ~12:02 UTC, next ~13:00 UTC). Heleni best-practices sync: ✅ OK — last run 07:00 UTC, no changes detected, next tomorrow 07:00 UTC. Cron health check: ✅ OK — last run today 09:00 IL (Asia/Jerusalem), next tomorrow 09:00 IL. Activity refresh: ✅ running every 15 min."
+  },
+  {
     "time": "2026-04-09 12:23 UTC",
     "title": "12:23 PM — 4/4 crons active; all systems ✅",
-    "detail": "All crons healthy, 0 consecutive errors. Billing check: ✅ OK (OpenAI + Google, hourly — last run ~12:02 UTC, next ~13:00 UTC). Heleni best-practices sync: ✅ OK — last run 07:00 UTC, no changes detected, next tomorrow 07:00 UTC. Cron health check: ✅ OK — last run today 09:00 IL (Asia/Jerusalem), next tomorrow 09:00 IL. Activity refresh: ✅ running every 15 min."
+    "detail": "All crons healthy, 0 consecutive errors. Billing check: ✅ OK (OpenAI + Google, hourly — last run ~12:02 UTC, next ~13:02 UTC). Heleni best-practices sync: ✅ OK — last run 07:00 UTC, no changes detected, next tomorrow 07:00 UTC. Cron health check: ✅ OK — last run today 09:00 IL (Asia/Jerusalem), next tomorrow 09:00 IL. Activity refresh: ✅ running every 15 min."
   },
   {
     "time": "2026-04-09 12:08 UTC",
     "title": "12:08 PM — 4/4 crons active; all systems ✅",
     "detail": "All crons healthy, 0 consecutive errors. Billing check: ✅ OK (OpenAI + Google, hourly — last run ~12:02 UTC, next ~13:02 UTC). Heleni best-practices sync: ✅ OK — last run 07:00 UTC, no changes detected, next tomorrow 07:00 UTC. Cron health check: ✅ OK — last run today 09:00 IL (Asia/Jerusalem), next tomorrow 09:00 IL. Activity refresh: ✅ running every 15 min."
-  },
-  {
-    "time": "2026-04-09 11:53 UTC",
-    "title": "11:53 AM — 4/4 crons active; all systems ✅",
-    "detail": "All crons healthy, 0 consecutive errors. Billing check: ✅ OK (OpenAI + Google, hourly — last run ~10:52 UTC, next ~11:52 UTC). Heleni best-practices sync: ✅ OK — last run 07:00 UTC, no changes detected, next tomorrow 07:00 UTC. Cron health check: ✅ OK — last run today 09:00 IL (Asia/Jerusalem), next tomorrow 09:00 IL. Activity refresh: ✅ running every 15 min."
   }
 ]
