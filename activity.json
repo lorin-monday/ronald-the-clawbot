@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-09 07:23 UTC",
+    "title": "7:23 AM — 5/5 crons active; billing ✅; heleni sync ✅; blinko watch ✅ recovered; cron-health ✅",
+    "detail": "Billing OK (OpenAI + Google, hourly — last run ~07:18 UTC, 0 errors). Heleni best-practices sync: ✅ OK — last run 07:00 UTC, 63s, no changes detected. Blinko App Store watch (every 30 min): ✅ recovered — 0 consecutive errors, status still WAITING_FOR_REVIEW; next check ~07:49 UTC. Cron health check: ✅ OK (daily 09:00 IL, last run clean). Memory tiering: ✅ OK (weekly, next Sunday 07:00 IL). Activity refresh: ✅ running every 15 min."
+  },
+  {
     "time": "2026-04-09 07:08 UTC",
     "title": "7:08 AM — 8/8 crons active; billing ✅; heleni sync ✅; showing-off-agents ⚠️ 1 error; blinko watch ⚠️ 5 errors; daily-digest ⚠️ 5 timeouts",
     "detail": "Billing OK (OpenAI + Google, hourly — last run ~07:02 UTC, 0 errors). Heleni best-practices sync: ✅ OK — last run 07:00 UTC, 63s, no changes detected. Showing-off-agents hourly digest: ⚠️ 1 error — session whatsapp:g-showing-off-your-agents history fetch failed (last run 07:01 UTC, 34s); summary still delivered to Lorin. Blinko App Store watch (every 30 min): ⚠️ 5 consecutive errors — channel ambiguity (whatsapp vs slack); status still WAITING_FOR_REVIEW; next check ~07:34 UTC. Daily tech digest: ⚠️ 5 consecutive timeouts (180s) — next retry tomorrow 08:00 IL. Cron health check: ✅ OK (last 09:00 IL). Memory tiering: ✅ OK (weekly, next Sunday 07:00 IL). Activity refresh: ✅ running every 15 min."
@@ -8,10 +13,5 @@
     "time": "2026-04-09 06:53 UTC",
     "title": "6:53 AM — 8/8 crons active; billing ✅; showing-off-agents ✅; blinko watch ⚠️ 5 errors; daily-digest ⚠️ 5 timeouts; heleni sync ⚠️ 1 error",
     "detail": "Billing OK (OpenAI + Google, hourly — last run ~06:34 UTC, 0 errors). Showing-off-agents hourly digest: ✅ OK — last run 06:40 UTC, 37s, delivered to Lorin. Blinko App Store watch (every 30 min): ⚠️ 5 consecutive errors — channel ambiguity (whatsapp vs slack); status still WAITING_FOR_REVIEW; next check ~07:19 UTC. Daily tech digest: ⚠️ 5 consecutive timeouts (180s) — next retry tomorrow 08:00 IL. Heleni sync: ⚠️ 1 timeout — next retry 07:00 UTC. Cron health check: ✅ OK (last 09:00 IL). Memory tiering: ✅ OK (weekly, next Sunday 07:00 IL). Activity refresh: ✅ running every 15 min."
-  },
-  {
-    "time": "2026-04-09 06:38 UTC",
-    "title": "6:38 AM — 8/8 crons active; billing ✅; showing-off-agents ✅; blinko watch ⚠️ 5 errors; daily-digest ⚠️ 5 timeouts; heleni sync ⚠️ 1 error",
-    "detail": "Billing OK (OpenAI + Google, hourly — last run ~06:19 UTC, 0 errors). Showing-off-agents hourly digest: ✅ OK — last run 06:20 UTC, 37s, delivered to Lorin. Blinko App Store watch (every 30 min): ⚠️ 5 consecutive errors — channel ambiguity (whatsapp vs slack); status still WAITING_FOR_REVIEW; next check ~07:05 UTC. Daily tech digest: ⚠️ 5 consecutive timeouts (180s) — next retry tomorrow 08:00 IL. Heleni sync: ⚠️ 1 timeout — next retry 07:00 UTC. Cron health check: ✅ OK (last 09:00 IL). Memory tiering: ✅ OK (weekly, next Sunday 07:00 IL). Activity refresh: ✅ running every 15 min."
   }
 ]
