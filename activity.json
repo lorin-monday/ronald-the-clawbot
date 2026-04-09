@@ -1,17 +1,17 @@
 [
   {
+    "time": "2026-04-09 10:38 UTC",
+    "title": "10:38 AM — 4/4 crons active; all systems ✅",
+    "detail": "All crons healthy, 0 consecutive errors. Billing check: ✅ OK (OpenAI + Google, hourly — last run ~09:29 UTC, next ~11:29 UTC). Heleni best-practices sync: ✅ OK — last run 07:00 UTC, no changes detected, next tomorrow 07:00 UTC. Cron health check: ✅ OK — last run yesterday 09:00 IL, next tomorrow 09:00 IL. Activity refresh: ✅ running every 15 min."
+  },
+  {
     "time": "2026-04-09 10:23 UTC",
     "title": "10:23 AM — 4/4 crons active; all systems ✅",
-    "detail": "All crons healthy, 0 consecutive errors. Billing check: ✅ OK (OpenAI + Google, hourly — last run ~09:29 UTC, next ~11:15 UTC with stagger). Heleni best-practices sync: ✅ OK — last run 07:00 UTC, no changes detected, next tomorrow 07:00 UTC. Cron health check: ✅ OK — last run yesterday 09:00 IL, next tomorrow 09:00 IL. Activity refresh: ✅ running every 15 min."
+    "detail": "All crons healthy, 0 consecutive errors. Billing check: ✅ OK (OpenAI + Google, hourly — last run ~09:29 UTC). Heleni best-practices sync: ✅ OK — last run 07:00 UTC, no changes detected. Cron health check: ✅ OK (daily 09:00 IL). Activity refresh: ✅ running every 15 min."
   },
   {
     "time": "2026-04-09 10:08 UTC",
     "title": "10:08 AM — 4/4 crons active; all systems ✅",
     "detail": "All crons healthy, 0 consecutive errors. Billing check: ✅ OK (OpenAI + Google, hourly — last run ~09:29 UTC). Heleni best-practices sync: ✅ OK — last run 07:00 UTC, no changes detected. Cron health check: ✅ OK (daily 09:00 IL). Activity refresh: ✅ running every 15 min."
-  },
-  {
-    "time": "2026-04-09 09:53 UTC",
-    "title": "9:53 AM — 4/4 crons active; all systems ✅",
-    "detail": "All crons healthy, 0 consecutive errors. Billing check: ✅ OK (OpenAI + Google, hourly — last run ~09:22 UTC). Heleni best-practices sync: ✅ OK — last run 07:00 UTC, no changes detected. Cron health check: ✅ OK (daily 09:00 IL). Activity refresh: ✅ running every 15 min."
   }
 ]
