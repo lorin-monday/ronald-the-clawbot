@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-09 22:22 UTC",
+    "title": "10:22 PM — 4/4 crons active; all systems ✅",
+    "detail": "All crons healthy, 0 consecutive errors. Billing check: ✅ OK (OpenAI + Google) — last run ~22:12 UTC, next ~23:17 UTC. Heleni best-practices sync: ✅ OK — last run 07:00 UTC, next tomorrow 07:00 UTC. Cron health check: ✅ OK — last run today 09:00 IL, next tomorrow 09:00 IL. Activity refresh: ✅ running every 15 min."
+  },
+  {
     "time": "2026-04-09 22:07 UTC",
     "title": "10:07 PM — 4/4 crons active; all systems ✅",
     "detail": "All crons healthy, 0 consecutive errors. Billing check: ✅ OK (OpenAI + Google) — last run ~22:02 UTC, next ~23:02 UTC. Heleni best-practices sync: ✅ OK — last run 07:00 UTC, next tomorrow 07:00 UTC. Cron health check: ✅ OK — last run today 09:00 IL, next tomorrow 09:00 IL. Activity refresh: ✅ running every 15 min."
@@ -7,11 +12,6 @@
   {
     "time": "2026-04-09 21:52 UTC",
     "title": "9:52 PM — 4/4 crons active; all systems ✅",
-    "detail": "All crons healthy, 0 consecutive errors. Billing check: ✅ OK (OpenAI + Google) — last run ~20:38 UTC, next ~22:02 UTC. Heleni best-practices sync: ✅ OK — last run 07:00 UTC, next tomorrow 07:00 UTC. Cron health check: ✅ OK — last run today 09:00 IL, next tomorrow 09:00 IL. Activity refresh: ✅ running every 15 min."
-  },
-  {
-    "time": "2026-04-09 21:37 UTC",
-    "title": "9:37 PM — 4/4 crons active; all systems ✅",
     "detail": "All crons healthy, 0 consecutive errors. Billing check: ✅ OK (OpenAI + Google) — last run ~20:38 UTC, next ~22:02 UTC. Heleni best-practices sync: ✅ OK — last run 07:00 UTC, next tomorrow 07:00 UTC. Cron health check: ✅ OK — last run today 09:00 IL, next tomorrow 09:00 IL. Activity refresh: ✅ running every 15 min."
   }
 ]
