@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-10 11:37 UTC",
+    "title": "11:37 AM — 5/5 crons active; 1 warning ⚠️",
+    "detail": "Activity refresh: ✅ every 15 min. Blinko App Store monitor: 🟡 IN_REVIEW — checking every 30 min, next ~11:52 UTC. Billing check: ✅ last run clean (~11:00 UTC). Cron health check: ✅ ran 09:00 IL, 0 errors. Heleni best-practices sync: ⚠️ consecutiveErrors: 1 — timed out 07:00 UTC (120s limit), next retry tomorrow 07:00 UTC."
+  },
+  {
     "time": "2026-04-10 11:22 UTC",
     "title": "11:22 AM — 5/5 crons active; 1 warning ⚠️",
     "detail": "Activity refresh: ✅ every 15 min. Billing check: ✅ last run clean (~10:52 UTC). Cron health check: ✅ last ran 09:00 IL, 0 errors. Blinko App Store monitor: 🆕 NEW — watching every 30 min (app IN_REVIEW). Heleni best-practices sync: ⚠️ consecutiveErrors: 1 — timed out at 07:00 UTC (120s limit), next retry tomorrow 07:00 UTC."
@@ -8,10 +13,5 @@
     "time": "2026-04-10 11:07 UTC",
     "title": "11:07 AM — 4/4 crons active; 1 warning ⚠️",
     "detail": "Activity refresh: ✅ every 15 min. Billing check: ✅ last run clean (~10:52 UTC). Cron health check: ✅ ran 09:00 IL, 0 errors. Heleni best-practices sync: ⚠️ consecutiveErrors: 1 — timed out 07:00 UTC (120s limit), next retry tomorrow 07:00 UTC."
-  },
-  {
-    "time": "2026-04-10 10:52 UTC",
-    "title": "10:52 AM — 4/4 crons active; 1 warning ⚠️",
-    "detail": "Activity refresh: ✅ every 15 min. Billing check: ✅ last run clean (~10:15 UTC). Cron health check: ✅ ran 09:00 IL, 0 errors. Heleni best-practices sync: ⚠️ consecutiveErrors: 1 — timed out 07:00 UTC (120s limit), next retry tomorrow 07:00 UTC."
   }
 ]
