@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-10 08:22 UTC",
+    "title": "8:22 AM — 4/4 crons active; 1 warning ⚠️",
+    "detail": "Activity refresh: ✅ every 15 min. Billing check: ✅ last run clean (~08:07 UTC). Cron health check: ✅ OK — last run 09:00 IL. Heleni best-practices sync: ⚠️ timed out at 07:00 UTC (120s limit) — consecutiveErrors: 1, next retry tomorrow 07:00 UTC."
+  },
+  {
     "time": "2026-04-10 08:07 UTC",
     "title": "8:07 AM — 4/4 crons active; 1 warning ⚠️",
     "detail": "Activity refresh: ✅ running every 15 min. Billing check: ✅ last run clean (~08:02 UTC). Cron health check: ✅ OK — next 09:00 IL. Heleni best-practices sync: ⚠️ timed out at 07:00 UTC (120s limit) — consecutiveErrors: 1, next retry tomorrow 07:00 UTC."
@@ -8,10 +13,5 @@
     "time": "2026-04-10 07:52 UTC",
     "title": "7:52 AM — 4/4 crons active; 1 warning ⚠️",
     "detail": "Activity refresh: ✅ running every 15 min. Billing check: ✅ last run clean (~07:04 UTC). Cron health check: ✅ OK — last run 09:00 IL. Heleni best-practices sync: ⚠️ timed out at 07:00 UTC (120s limit) — consecutiveErrors: 1, next retry tomorrow 07:00 UTC."
-  },
-  {
-    "time": "2026-04-10 07:37 UTC",
-    "title": "7:37 AM — 4/4 crons active; 1 warning ⚠️",
-    "detail": "Activity refresh: ✅ every 15 min. Billing check: ✅ last run clean (~07:04 UTC). Cron health check: ✅ OK — next 09:00 IL. Heleni best-practices sync: ⚠️ timed out again at 07:00 UTC (120s limit) — consecutiveErrors: 1, next retry tomorrow 07:00 UTC."
   }
 ]
