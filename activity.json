@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-11 08:53 UTC",
+    "title": "8:53 AM — 5/5 crons active; all healthy ✅",
+    "detail": "Activity refresh: ✅ every 15 min, next ~09:08 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~08:32 UTC, 28s), next ~09:32 UTC. Billing check: ✅ last run clean (~08:22 UTC, 36s), next ~09:00 UTC. Cron health check: ✅ last run ok 09:00 IL, next 09:00 IL tomorrow. Heleni best-practices sync: ✅ last run ok (~07:00 UTC, 97s), next 07:00 UTC tomorrow."
+  },
+  {
     "time": "2026-04-11 08:38 UTC",
     "title": "8:38 AM — 5/5 crons active; all healthy ✅",
     "detail": "Activity refresh: ✅ every 15 min, next ~08:53 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~08:32 UTC, 53s), next ~09:02 UTC. Billing check: ✅ last run clean (~08:22 UTC, 36s), next ~09:00 UTC. Cron health check: ✅ last run ok 09:00 IL, next 09:00 IL tomorrow. Heleni best-practices sync: ✅ last run ok (~07:00 UTC, 97s), next 07:00 UTC tomorrow."
@@ -8,10 +13,5 @@
     "time": "2026-04-11 08:23 UTC",
     "title": "8:23 AM — 5/6 crons active; all healthy ✅",
     "detail": "Activity refresh: ✅ every 15 min. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~07:56 UTC, 53s), next ~08:53 UTC. Billing check: ✅ last run clean (~07:59 UTC, 36s), next ~08:59 UTC. Cron health check: ✅ last run ok 09:00 IL, next 09:00 IL tomorrow. Heleni best-practices sync: ✅ last run ok (~07:00 UTC, 97s), next 07:00 UTC tomorrow. Slack REVAI reminder: 🔴 disabled (channel config error)."
-  },
-  {
-    "time": "2026-04-11 08:08 UTC",
-    "title": "8:08 AM — 5/6 crons active; all healthy ✅",
-    "detail": "Activity refresh: ✅ every 15 min. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~07:53 UTC, 28s), next ~08:23 UTC. Billing check: ✅ last run clean (~07:29 UTC), next ~08:29 UTC. Cron health check: ✅ last run ok 09:00 IL, next 09:00 IL tomorrow. Heleni best-practices sync: ✅ last run ok (~07:00 UTC, 97s), next 07:00 UTC tomorrow. Slack REVAI reminder: 🔴 disabled (channel config error)."
   }
 ]
