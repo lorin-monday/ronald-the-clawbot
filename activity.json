@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-11 05:38 UTC",
+    "title": "5:38 AM — 5/6 crons active; 1 persistent timeout, 1 disabled ⚠️",
+    "detail": "Activity refresh: ✅ every 15 min. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~04:55 UTC), next ~05:57 UTC. Billing check: ✅ last run clean (~05:02 UTC), next ~06:00 UTC. Cron health check: ✅ last run ok 09:00 IL, next 09:00 IL today. Heleni best-practices sync: 🔴 timed out at 07:00 UTC (120s limit), consecutiveErrors: 1, next retry 07:00 UTC today. Slack REVAI reminder: 🔴 disabled (channel config error)."
+  },
+  {
     "time": "2026-04-11 05:23 UTC",
     "title": "5:23 AM — 5/6 crons active; 1 timeout, 1 disabled ⚠️",
     "detail": "Activity refresh: ✅ every 15 min. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~04:56 UTC), next ~05:27 UTC. Billing check: ✅ last run clean (~05:02 UTC), next ~06:00 UTC. Cron health check: ✅ last run ok 09:00 IL, next 09:00 IL today. Heleni best-practices sync: 🔴 timed out at 07:00 UTC (120s limit), consecutiveErrors: 1, next retry 07:00 UTC today. Slack REVAI reminder: 🔴 disabled (channel config error)."
@@ -8,10 +13,5 @@
     "time": "2026-04-11 05:08 UTC",
     "title": "5:08 AM — 5/6 crons active; all healthy except 1 timeout, 1 disabled ⚠️",
     "detail": "Activity refresh: ✅ every 15 min. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~04:52 UTC), next ~05:22 UTC. Billing check: ✅ last run clean (~05:02 UTC), next ~06:00 UTC. Cron health check: ✅ last run ok 09:00 IL, next 09:00 IL today. Heleni best-practices sync: 🔴 timed out at 07:00 UTC (120s limit), consecutiveErrors: 1, next retry 07:00 UTC today. Slack REVAI reminder: 🔴 disabled (channel config error)."
-  },
-  {
-    "time": "2026-04-11 04:53 UTC",
-    "title": "4:53 AM — 5/6 crons active; 1 persistent timeout, 1 disabled ⚠️",
-    "detail": "Activity refresh: ✅ every 15 min. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~04:42 UTC), next ~05:12 UTC. Billing check: ✅ last run clean (~04:00 UTC), next ~05:00 UTC. Cron health check: ✅ last run ok 09:00 IL, next 09:00 IL today. Heleni best-practices sync: 🔴 timed out (120s) at 07:00 UTC, consecutiveErrors: 1, next retry 07:00 UTC today. Slack REVAI reminder: 🔴 disabled (channel config error)."
   }
 ]
