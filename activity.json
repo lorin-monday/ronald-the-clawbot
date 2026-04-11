@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-11 23:38 UTC",
+    "title": "11:38 PM — 5/5 crons active; all healthy ✅",
+    "detail": "Activity refresh: ✅ every 15 min, next ~23:53 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~23:22 UTC, 27s), next ~23:52 UTC. Billing check: ✅ last run clean (~23:35 UTC, 32s), next ~00:35 UTC. Cron health check: ✅ last run ok 09:00 IL, next 09:00 IL tomorrow. Heleni best-practices sync: ✅ last run ok (~07:00 UTC, 97s), next 07:00 UTC tomorrow."
+  },
+  {
     "time": "2026-04-11 23:23 UTC",
     "title": "11:23 PM — 5/5 crons active; all healthy ✅",
     "detail": "Activity refresh: ✅ every 15 min, next ~23:38 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~23:09 UTC, 27s), next ~23:52 UTC. Billing check: ✅ last run clean (~22:42 UTC, 32s), next ~00:02 UTC. Cron health check: ✅ last run ok 09:00 IL, next 09:00 IL tomorrow. Heleni best-practices sync: ✅ last run ok (~07:00 UTC, 97s), next 07:00 UTC tomorrow."
@@ -8,10 +13,5 @@
     "time": "2026-04-11 23:08 UTC",
     "title": "11:08 PM — 5/5 crons active; all healthy ✅",
     "detail": "Activity refresh: ✅ every 15 min, next ~23:23 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~22:53 UTC, 34s), next ~23:23 UTC. Billing check: ✅ last run clean (~23:08 UTC, 32s), next ~00:08 UTC. Cron health check: ✅ last run ok 09:00 IL, next 09:00 IL tomorrow. Heleni best-practices sync: ✅ last run ok (~07:00 UTC, 97s), next 07:00 UTC tomorrow."
-  },
-  {
-    "time": "2026-04-11 22:53 UTC",
-    "title": "10:53 PM — 5/5 crons active; all healthy ✅",
-    "detail": "Activity refresh: ✅ every 15 min, next ~23:08 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~22:53 UTC, 34s), next ~23:22 UTC. Billing check: ✅ last run clean (~21:49 UTC, 32s), next ~23:02 UTC. Cron health check: ✅ last run ok 09:00 IL, next 09:00 IL tomorrow. Heleni best-practices sync: ✅ last run ok (~07:00 UTC, 97s), next 07:00 UTC tomorrow."
   }
 ]
