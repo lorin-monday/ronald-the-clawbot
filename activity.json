@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-12 22:24 UTC",
+    "title": "10:24 PM — 5/5 active crons healthy ✅",
+    "detail": "Activity refresh: ✅ running now, next ~22:39 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~22:12 UTC, 32s), next ~22:42 UTC. Billing check: ✅ last run clean (~22:02 UTC, 29s), next ~23:00 UTC. Cron health check: ✅ last run ok (09:00 IL, 51s), next 09:00 IL tomorrow. Heleni best-practices sync: ✅ last run ok (~07:00 UTC, 115s), next 07:00 UTC tomorrow. Slack REVAI reminder: ⏸ disabled (delivery config error)."
+  },
+  {
     "time": "2026-04-12 22:09 UTC",
     "title": "10:09 PM — 5/5 active crons healthy ✅",
     "detail": "Activity refresh: ✅ running now, next ~22:24 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~22:04 UTC, 29s), next ~22:34 UTC. Billing check: ✅ last run clean (~22:02 UTC, 29s), next ~23:00 UTC. Cron health check: ✅ last run ok (09:00 IL, 51s), next 09:00 IL tomorrow. Heleni best-practices sync: ✅ last run ok (~07:00 UTC, 115s), next 07:00 UTC tomorrow. Slack REVAI reminder: ⏸ disabled (delivery config error)."
@@ -8,10 +13,5 @@
     "time": "2026-04-12 21:54 UTC",
     "title": "9:54 PM — 5/5 active crons healthy ✅",
     "detail": "Activity refresh: ✅ running now, next ~22:09 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~21:32 UTC, 29s), next ~22:32 UTC. Billing check: ✅ last run clean (~20:55 UTC, 31s), next ~22:07 UTC. Cron health check: ✅ last run ok (09:00 IL, 51s), next 09:00 IL tomorrow. Heleni best-practices sync: ✅ last run ok (~07:00 UTC, 115s), next 07:00 UTC tomorrow. Slack REVAI reminder: ⏸ disabled (delivery config error)."
-  },
-  {
-    "time": "2026-04-12 21:39 UTC",
-    "title": "9:39 PM — 5/5 crons active; all healthy ✅",
-    "detail": "Activity refresh: ✅ every 15 min, next ~21:54 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~21:22 UTC, 26s), next ~21:52 UTC. Billing check: ✅ last run clean (~21:02 UTC, 31s), next ~22:07 UTC. Cron health check: ✅ last run ok (09:00 IL, 51s), next 09:00 IL tomorrow. Heleni best-practices sync: ✅ last run ok (~07:00 UTC, 115s), next 07:00 UTC tomorrow."
   }
 ]
