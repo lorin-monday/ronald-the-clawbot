@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-13 06:39 UTC",
+    "title": "6:39 AM — 5/5 active crons healthy ✅",
+    "detail": "Activity refresh: ✅ running now, next ~06:54 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~06:22 UTC, 26s), next ~06:52 UTC. Billing check: ✅ last run clean (~06:00 UTC, 31s), next ~07:00 UTC. Cron health check: ✅ last run ok (~06:00 UTC, 53s), next 09:00 IL tomorrow. Heleni best-practices sync: ✅ last run ok (07:00 UTC, 115s), next 07:00 UTC tomorrow. Slack REVAI reminder: ⏸ disabled (delivery config error)."
+  },
+  {
     "time": "2026-04-13 06:24 UTC",
     "title": "6:24 AM — 5/5 active crons healthy ✅",
     "detail": "Activity refresh: ✅ running now, next ~06:39 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~06:09 UTC, 26s), next ~06:49 UTC. Billing check: ✅ last run clean (~06:00 UTC, 31s), next ~07:00 UTC. Cron health check: ✅ last run ok (~06:00 UTC, 53s), next 09:00 IL tomorrow. Heleni best-practices sync: ✅ last run ok (07:00 UTC, 115s), next 07:00 UTC tomorrow. Slack REVAI reminder: ⏸ disabled (delivery config error)."
@@ -8,10 +13,5 @@
     "time": "2026-04-13 06:09 UTC",
     "title": "6:09 AM — 5/5 active crons healthy ✅",
     "detail": "Activity refresh: ✅ running now, next ~06:24 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~05:52 UTC, 29s), next ~06:22 UTC. Billing check: ✅ last run clean (~06:00 UTC, 31s), next ~07:00 UTC. Cron health check: ✅ last run ok (~06:00 UTC, 53s), next 09:00 IL tomorrow. Heleni best-practices sync: ✅ last run ok (07:00 UTC, 115s), next 07:00 UTC tomorrow. Slack REVAI reminder: ⏸ disabled (delivery config error)."
-  },
-  {
-    "time": "2026-04-13 05:54 UTC",
-    "title": "5:54 AM — 5/5 active crons healthy ✅",
-    "detail": "Activity refresh: ✅ running now, next ~06:09 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~05:39 UTC, 29s), next ~06:25 UTC. Billing check: ✅ last run clean (~05:02 UTC, 31s), next ~06:00 UTC. Cron health check: ✅ next run 09:00 IL today. Heleni best-practices sync: ✅ last run ok (07:00 UTC, 115s), next 07:00 UTC tomorrow. Slack REVAI reminder: ⏸ disabled (delivery config error)."
   }
 ]
