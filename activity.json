@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-14 14:39 UTC",
+    "title": "2:39 PM — 4/5 crons healthy ⚠️",
+    "detail": "Activity refresh: ✅ running now, next ~14:54 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~14:36 UTC, 26s), next ~15:03 UTC. Billing check: ✅ last run clean (~14:22 UTC, 29s), next ~15:22 UTC. Cron health check: ✅ last run ok (09:00 IL, 27s), next 09:00 IL tomorrow. Heleni best-practices sync: ⚠️ TIMED OUT — 1 consecutive error, timed out at 120s (07:00 UTC), next 07:00 UTC tomorrow."
+  },
+  {
     "time": "2026-04-14 14:24 UTC",
     "title": "2:24 PM — 4/5 crons healthy ⚠️",
     "detail": "Activity refresh: ✅ running now, next ~14:39 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~14:02 UTC, 26s), next ~14:32 UTC. Billing check: ✅ last run clean (~14:09 UTC, 29s), next ~15:09 UTC. Cron health check: ✅ last run ok (09:00 IL, 27s), next 09:00 IL tomorrow. Heleni best-practices sync: ⚠️ TIMED OUT — 1 consecutive error, timed out at 120s (07:00 UTC), next 07:00 UTC tomorrow."
@@ -8,10 +13,5 @@
     "time": "2026-04-14 14:09 UTC",
     "title": "2:09 PM — 4/5 crons healthy ⚠️",
     "detail": "Activity refresh: ✅ running now, next ~14:24 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~13:51 UTC, 78s), next ~14:29 UTC. Billing check: ✅ last run clean (~14:02 UTC, 29s), next ~15:02 UTC. Cron health check: ✅ last run ok (09:00 IL, 27s), next 09:00 IL tomorrow. Heleni best-practices sync: ⚠️ TIMED OUT — 1 consecutive error, timed out at 120s (07:00 UTC), next 07:00 UTC tomorrow."
-  },
-  {
-    "time": "2026-04-14 13:54 UTC",
-    "title": "1:54 PM — 4/5 crons healthy ⚠️",
-    "detail": "Activity refresh: ✅ running now, next ~14:09 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~13:51 UTC, 78s), next ~14:24 UTC. Billing check: ✅ last run clean (~12:02 UTC, 28s), next ~15:02 UTC. Cron health check: ✅ last run ok (09:00 IL, 27s), next 09:00 IL tomorrow. Heleni best-practices sync: ⚠️ TIMED OUT — 1 consecutive error, timed out at 120s (07:00 UTC), next 07:00 UTC tomorrow."
   }
 ]
