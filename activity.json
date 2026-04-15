@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-15 14:39 UTC",
+    "title": "2:39 PM — 6/6 crons healthy ✅",
+    "detail": "Activity refresh: ✅ running now, next ~14:54 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~14:31 UTC, 36s), next ~15:01 UTC. Billing check: ✅ last run ok (~14:02 UTC, 30s), next ~15:02 UTC. Cron health check: ✅ last run ok (09:00 IL, 45s), next 09:00 IL tomorrow. Heleni best-practices sync: ✅ completed in 64s at 07:00 UTC, no changes, next 07:00 UTC tomorrow. 🎫 Noaa concert ticket reminder fires at 17:00 UTC today."
+  },
+  {
     "time": "2026-04-15 14:24 UTC",
     "title": "2:24 PM — 6/6 crons healthy ✅",
     "detail": "Activity refresh: ✅ running now, next ~14:39 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~14:09 UTC, 36s), next ~14:46 UTC. Billing check: ✅ last run ok (~14:02 UTC, 30s), next ~15:02 UTC. Cron health check: ✅ last run ok (09:00 IL, 45s), next 09:00 IL tomorrow. Heleni best-practices sync: ✅ completed in 64s at 07:00 UTC, no changes, next 07:00 UTC tomorrow. 🎫 Noaa concert ticket reminder fires at 17:00 UTC today."
@@ -8,10 +13,5 @@
     "time": "2026-04-15 14:09 UTC",
     "title": "2:09 PM — 6/6 crons healthy ✅",
     "detail": "Activity refresh: ✅ running now, next ~14:24 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~14:02 UTC, 30s), next ~14:32 UTC. Billing check: ✅ last run ok (~14:02 UTC, 30s), next ~15:00 UTC. Cron health check: ✅ last run ok (09:00 IL, 45s), next 09:00 IL tomorrow. Heleni best-practices sync: ✅ completed in 64s at 07:00 UTC, no changes, next 07:00 UTC tomorrow. 🎫 Noaa concert ticket reminder fires at 17:00 UTC today."
-  },
-  {
-    "time": "2026-04-15 13:54 UTC",
-    "title": "1:54 PM — 6/6 crons healthy ✅",
-    "detail": "Activity refresh: ✅ running now, next ~14:09 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~13:52 UTC, 30s), next ~14:22 UTC. Billing check: ✅ last run ok (~13:02 UTC, 31s), next ~14:02 UTC. Cron health check: ✅ last run ok (09:00 IL, 45s), next 09:00 IL tomorrow. Heleni best-practices sync: ✅ completed in 64s at 07:00 UTC, no changes, next 07:00 UTC tomorrow. 🎫 Noaa concert ticket reminder fires at 17:00 UTC today."
   }
 ]
