@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-15 06:54 UTC",
+    "title": "6:54 AM — 4/5 crons healthy ⚠️",
+    "detail": "Activity refresh: ✅ running now, next ~07:09 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~06:52 UTC, 41s), next ~07:22 UTC. Billing check: ✅ last run ok (~06:02 UTC, 30s), next ~07:02 UTC. Cron health check: ✅ last run ok (09:00 IL, 45s), next 09:00 IL tomorrow. Heleni best-practices sync: ⚠️ TIMED OUT — 1 consecutive error, timed out at 120s (07:00 UTC), next 07:00 UTC today."
+  },
+  {
     "time": "2026-04-15 06:39 UTC",
     "title": "6:39 AM — 4/5 crons healthy ⚠️",
     "detail": "Activity refresh: ✅ running now, next ~06:54 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~06:36 UTC, 51s), next ~07:06 UTC. Billing check: ✅ last run ok (~06:02 UTC, 30s), next ~07:02 UTC. Cron health check: ✅ last run ok (09:00 IL, 45s), next 09:00 IL tomorrow. Heleni best-practices sync: ⚠️ TIMED OUT — 1 consecutive error, timed out at 120s (07:00 UTC), next 07:00 UTC today."
@@ -8,10 +13,5 @@
     "time": "2026-04-15 06:24 UTC",
     "title": "6:24 AM — 4/5 crons healthy ⚠️",
     "detail": "Activity refresh: ✅ running now, next ~06:39 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~06:22 UTC, 51s), next ~06:55 UTC. Billing check: ✅ last run ok (~06:08 UTC, 30s), next ~07:08 UTC. Cron health check: ✅ last run ok (09:00 IL, 45s), next 09:00 IL tomorrow. Heleni best-practices sync: ⚠️ TIMED OUT — 1 consecutive error, timed out at 120s (07:00 UTC), next 07:00 UTC today."
-  },
-  {
-    "time": "2026-04-15 06:09 UTC",
-    "title": "6:09 AM — 4/5 crons healthy ⚠️",
-    "detail": "Activity refresh: ✅ running now, next ~06:24 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~06:12 UTC, 32s), next ~06:55 UTC. Billing check: ✅ last run ok (~06:05 UTC, 30s), next ~07:05 UTC. Cron health check: ✅ last run ok (09:00 IL, 45s), next 09:00 IL tomorrow. Heleni best-practices sync: ⚠️ TIMED OUT — 1 consecutive error, timed out at 120s (07:00 UTC), next 07:00 UTC today."
   }
 ]
