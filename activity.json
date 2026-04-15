@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-15 11:39 UTC",
+    "title": "11:39 AM — 5/5 crons healthy ✅",
+    "detail": "Activity refresh: ✅ running now, next ~11:54 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~11:22 UTC, 62s), next ~11:52 UTC. Billing check: ✅ last run ok (~11:09 UTC, 28s), next ~12:00 UTC. Cron health check: ✅ last run ok (09:00 IL, 45s), next 09:00 IL tomorrow. Heleni best-practices sync: ✅ completed in 64s at 07:00 UTC, no changes, next 07:00 UTC tomorrow. Bonus: 🎫 reminder pending for 17:00 UTC — Noaa concert tickets."
+  },
+  {
     "time": "2026-04-15 11:24 UTC",
     "title": "11:24 AM — 5/5 crons healthy ✅",
     "detail": "Activity refresh: ✅ running now, next ~11:39 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~11:02 UTC, 62s), next ~11:32 UTC. Billing check: ✅ last run ok (~10:49 UTC, 28s), next ~12:00 UTC. Cron health check: ✅ last run ok (09:00 IL, 45s), next 09:00 IL tomorrow. Heleni best-practices sync: ✅ completed in 64s at 07:00 UTC, no changes, next 07:00 UTC tomorrow. Bonus: 🎫 reminder pending for 17:00 UTC — Noaa concert tickets."
@@ -8,10 +13,5 @@
     "time": "2026-04-15 11:09 UTC",
     "title": "11:09 AM — 5/5 crons healthy ✅",
     "detail": "Activity refresh: ✅ running now, next ~11:24 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~11:05 UTC, 28s), next ~11:35 UTC. Billing check: ✅ last run ok (~11:09 UTC, 28s), next ~12:00 UTC. Cron health check: ✅ last run ok (09:00 IL, 45s), next 09:00 IL tomorrow. Heleni best-practices sync: ✅ completed in 64s at 07:00 UTC, no changes, next 07:00 UTC tomorrow. Bonus: 🎫 reminder pending for 17:00 UTC — Noaa concert tickets."
-  },
-  {
-    "time": "2026-04-15 10:54 UTC",
-    "title": "10:54 AM — 5/5 crons healthy ✅",
-    "detail": "Activity refresh: ✅ running now, next ~11:09 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~10:52 UTC, 29s), next ~11:22 UTC. Billing check: ✅ last run ok (~09:42 UTC, 28s), next ~11:00 UTC. Cron health check: ✅ last run ok (09:00 IL, 45s), next 09:00 IL tomorrow. Heleni best-practices sync: ✅ completed in 64s at 07:00 UTC, no changes, next 07:00 UTC tomorrow. Bonus: 🎫 reminder pending for 17:00 UTC — Noaa concert tickets."
   }
 ]
