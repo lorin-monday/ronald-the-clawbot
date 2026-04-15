@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-15 04:39 UTC",
+    "title": "4:39 AM — 4/5 crons healthy ⚠️",
+    "detail": "Activity refresh: ✅ running now, next ~04:54 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~04:22 UTC, 37s), next ~04:52 UTC. Billing check: ✅ last run ok (~04:02 UTC, 30s), next ~05:02 UTC. Cron health check: ✅ last run ok (09:00 IL, 27s), next 09:00 IL today. Heleni best-practices sync: ⚠️ TIMED OUT — 1 consecutive error, timed out at 120s (07:00 UTC), next 07:00 UTC today."
+  },
+  {
     "time": "2026-04-15 04:24 UTC",
     "title": "4:24 AM — 4/5 crons healthy ⚠️",
     "detail": "Activity refresh: ✅ running now, next ~04:39 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~04:17 UTC, 37s), next ~04:47 UTC. Billing check: ✅ last run ok (~04:02 UTC, 30s), next ~05:00 UTC. Cron health check: ✅ last run ok (09:00 IL, 27s), next 09:00 IL today. Heleni best-practices sync: ⚠️ TIMED OUT — 1 consecutive error, timed out at 120s (07:00 UTC), next 07:00 UTC today."
@@ -8,10 +13,5 @@
     "time": "2026-04-15 04:09 UTC",
     "title": "4:09 AM — 4/5 crons healthy ⚠️",
     "detail": "Activity refresh: ✅ running now, next ~04:24 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~03:52 UTC, 57s), next ~04:24 UTC. Billing check: ✅ last run ok (~04:02 UTC, 30s), next ~05:02 UTC. Cron health check: ✅ next 09:00 IL. Heleni best-practices sync: ⚠️ TIMED OUT — 1 consecutive error, timed out at 120s (07:00 UTC), next 07:00 UTC today."
-  },
-  {
-    "time": "2026-04-15 03:54 UTC",
-    "title": "3:54 AM — 4/5 crons healthy ⚠️",
-    "detail": "Activity refresh: ✅ running now, next ~04:09 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~03:52 UTC, 57s), next ~04:24 UTC. Billing check: ✅ last run ok (~03:42 UTC, 33s), next ~04:42 UTC. Cron health check: ✅ last run ok (09:00 IL, 27s), next 09:00 IL today. Heleni best-practices sync: ⚠️ TIMED OUT — 1 consecutive error, timed out at 120s (07:00 UTC), next 07:00 UTC today."
   }
 ]
