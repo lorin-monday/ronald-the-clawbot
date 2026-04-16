@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-16 13:24 UTC",
+    "title": "1:24 PM — 6/6 crons healthy ✅",
+    "detail": "Activity refresh: ✅ running now, next ~13:39 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~13:22 UTC, 51s), next ~13:52 UTC. Billing check: ✅ last run ok (~13:15 UTC, 29s), next ~14:00 UTC. Dalia check-in: ✅ last run ok at 13:00 IL, next 18:00 IL. Heleni best-practices sync: ✅ last run ok at 07:00 UTC (63s), next 07:00 UTC tomorrow. Cron health check: ✅ last run ok at 09:00 IL, next 09:00 IL tomorrow."
+  },
+  {
     "time": "2026-04-16 13:09 UTC",
     "title": "1:09 PM — 6/6 crons healthy ✅",
     "detail": "Activity refresh: ✅ running now, next ~13:24 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~13:05 UTC, 67s), next ~13:35 UTC. Billing check: ✅ last run ok (~13:14 UTC, 29s), next ~14:00 UTC. Dalia check-in: ✅ last run ok at 13:00 IL, next 18:00 IL. Heleni best-practices sync: ✅ last run ok at 07:00 UTC (63s), next 07:00 UTC tomorrow. Cron health check: ✅ last run ok at 09:00 IL, next 09:00 IL tomorrow."
@@ -8,10 +13,5 @@
     "time": "2026-04-16 12:54 UTC",
     "title": "12:54 PM — 6/6 crons healthy ✅",
     "detail": "Activity refresh: ✅ running now, next ~13:09 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~13:03 UTC, 67s), next ~13:33 UTC. Billing check: ✅ last run ok (~13:02 UTC, 34s), next ~14:00 UTC. Dalia check-in: ✅ last run ok at 13:00 IL, next 18:00 IL. Heleni best-practices sync: ✅ last run ok at 07:00 UTC (63s), next 07:00 UTC tomorrow. Cron health check: ✅ last run ok at 09:00 IL, next 09:00 IL tomorrow."
-  },
-  {
-    "time": "2026-04-16 12:39 UTC",
-    "title": "12:39 PM — 6/6 crons healthy ✅",
-    "detail": "Activity refresh: ✅ running now, next ~12:54 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~12:42 UTC, 52s), next ~13:12 UTC. Billing check: ✅ last run ok (~12:02 UTC, 34s), next ~13:00 UTC. Dalia check-in: ✅ last run ok at 13:00 IL, next 18:00 IL. Heleni best-practices sync: ✅ last run ok at 07:00 UTC (63s), next 07:00 UTC tomorrow. Cron health check: ✅ last run ok at 09:00 IL, next 09:00 IL tomorrow."
   }
 ]
