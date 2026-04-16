@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-16 00:54 UTC",
+    "title": "12:54 AM — 9/9 crons healthy ✅",
+    "detail": "Activity refresh: ✅ running now, next ~01:09 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~00:32 UTC, 30s), next ~01:32 UTC. Billing check: ✅ last run ok (~00:09 UTC, 28s), next ~01:09 UTC. Dalia check-in: ✅ 3×/day (08:00, 13:00, 18:00 IL), next 08:00 IL. Dalia Omega-3 reminder: 🕖 fires 2026-04-16 07:00 UTC. Cron health check: ✅ last run ok (09:00 IL, 45s), next 09:00 IL. Heleni best-practices sync: ✅ completed in 64s at 07:00 UTC, next 07:00 UTC. 🎒 Menasai reminder: fires 2026-04-16 05:00 UTC. 📍 Mor → Liran 2000 reminder: fires 2026-04-16 06:30 UTC."
+  },
+  {
     "time": "2026-04-16 00:39 UTC",
     "title": "12:39 AM — 9/9 crons healthy ✅",
     "detail": "Activity refresh: ✅ running now, next ~00:54 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~00:32 UTC, 26s), next ~01:02 UTC. Billing check: ✅ last run ok (~00:09 UTC, 28s), next ~01:09 UTC. Dalia check-in: ✅ 3×/day (08:00, 13:00, 18:00 IL), next 08:00 IL. Dalia Omega-3 reminder: 🕖 fires 2026-04-16 07:00 UTC. Cron health check: ✅ last run ok (09:00 IL, 45s), next 09:00 IL. Heleni best-practices sync: ✅ completed in 64s at 07:00 UTC, next 07:00 UTC. 🎒 Menasai reminder: fires 2026-04-16 05:00 UTC. 📍 Mor → Liran 2000 reminder: fires 2026-04-16 06:30 UTC."
@@ -8,10 +13,5 @@
     "time": "2026-04-16 00:24 UTC",
     "title": "12:24 AM — 9/9 crons healthy ✅",
     "detail": "Activity refresh: ✅ running now, next ~00:39 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~23:55 UTC, 26s), next ~00:55 UTC. Billing check: ✅ last run ok (~23:02 UTC, 28s), next ~01:02 UTC. Dalia check-in: ✅ 3×/day (08:00, 13:00, 18:00 IL), next 08:00 IL. Dalia Omega-3 reminder: 🕖 fires 2026-04-16 07:00 UTC. Cron health check: ✅ last run ok (09:00 IL, 45s), next 09:00 IL. Heleni best-practices sync: ✅ completed in 64s at 07:00 UTC, next 07:00 UTC. 🎒 Menasai reminder: fires 2026-04-16 05:00 UTC. 📍 Mor → Liran 2000 reminder: fires 2026-04-16 06:30 UTC."
-  },
-  {
-    "time": "2026-04-16 00:09 UTC",
-    "title": "12:09 AM — 9/9 crons healthy ✅",
-    "detail": "Activity refresh: ✅ running now, next ~00:24 UTC. Blinko App Store monitor: 🟡 IN_REVIEW — last run ok (~23:52 UTC, 48s), next ~00:22 UTC. Billing check: ✅ last run ok (~23:49 UTC, 28s), next ~01:37 UTC. Dalia check-in: ✅ 3×/day (08:00, 13:00, 18:00 IL), next 08:00 IL. Dalia Omega-3 reminder: 🕖 fires 2026-04-16 07:00 UTC. Cron health check: ✅ last run ok (09:00 IL, 45s), next 09:00 IL. Heleni best-practices sync: ✅ completed in 64s at 07:00 UTC, next 07:00 UTC. 🎒 Menasai reminder: fires 2026-04-16 05:00 UTC. 📍 Mor → Liran 2000 reminder: fires 2026-04-16 06:30 UTC."
   }
 ]
