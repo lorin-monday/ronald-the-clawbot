@@ -1,5 +1,10 @@
 [
   {
+    "time": "2026-04-19 21:54 UTC",
+    "title": "9:54 PM — 7/7 crons healthy ✅",
+    "detail": "Activity refresh: ✅ running now, next ~22:09 UTC. Blinko App Store monitor: 🟡 WAITING_FOR_REVIEW — last run ok (~21:37 UTC, 22s), next ~22:07 UTC. Billing check: ✅ last run ok (~21:32 UTC, 20s), next ~22:32 UTC. Dalia check-in: ✅ last run ok at 21:00 IL today (18:00 UTC), next 08:00 IL tomorrow (05:00 UTC). Dalia yoga reminder: ⏰ one-shot scheduled for 08:00 IL tomorrow (05:00 UTC). Heleni best-practices sync: ✅ last run ok at 07:00 UTC today (40s), next 07:00 UTC tomorrow. Cron health check: ✅ last run ok at 09:00 IL today (06:00 UTC, 14s), next 09:00 IL tomorrow."
+  },
+  {
     "time": "2026-04-19 21:39 UTC",
     "title": "9:39 PM — 7/7 crons healthy ✅",
     "detail": "Activity refresh: ✅ running now, next ~21:54 UTC. Blinko App Store monitor: 🟡 WAITING_FOR_REVIEW — last run ok (~21:33 UTC, 19s), next ~22:03 UTC. Billing check: ✅ last run ok (~21:22 UTC, 20s), next ~22:22 UTC. Dalia check-in: ✅ last run ok at 21:00 IL today (18:00 UTC), next 08:00 IL tomorrow (05:00 UTC). Dalia yoga reminder: ⏰ one-shot scheduled for 08:00 IL tomorrow (05:00 UTC). Heleni best-practices sync: ✅ last run ok at 07:00 UTC today (40s), next 07:00 UTC tomorrow. Cron health check: ✅ last run ok at 09:00 IL today (06:00 UTC, 14s), next 09:00 IL tomorrow."
@@ -8,10 +13,5 @@
     "time": "2026-04-19 21:24 UTC",
     "title": "9:24 PM — 7/7 crons healthy ✅",
     "detail": "Activity refresh: ✅ running now, next ~21:39 UTC. Blinko App Store monitor: 🟡 WAITING_FOR_REVIEW — last run ok (~21:23 UTC, 19s), next ~22:23 UTC. Billing check: ✅ last run ok (~21:05 UTC, 20s), next ~22:00 UTC. Dalia check-in: ✅ last run ok at 21:00 IL today (18:00 UTC), next 08:00 IL tomorrow (05:00 UTC). Dalia yoga reminder: ⏰ one-shot scheduled for 08:00 IL tomorrow (05:00 UTC). Heleni best-practices sync: ✅ last run ok at 07:00 UTC today (40s), next 07:00 UTC tomorrow. Cron health check: ✅ last run ok at 09:00 IL today (06:00 UTC, 14s), next 09:00 IL tomorrow."
-  },
-  {
-    "time": "2026-04-19 21:09 UTC",
-    "title": "9:09 PM — 7/7 crons healthy ✅",
-    "detail": "Activity refresh: ✅ running now, next ~21:24 UTC. Blinko App Store monitor: 🟡 WAITING_FOR_REVIEW — last run ok (~21:13 UTC, 39s), next ~21:43 UTC. Billing check: ✅ last run ok (~21:08 UTC, 20s), next ~22:08 UTC. Dalia check-in: ✅ last run ok at 21:00 IL today (18:00 UTC), next 08:00 IL tomorrow (05:00 UTC). Dalia yoga reminder: ⏰ one-shot scheduled for 08:00 IL tomorrow (05:00 UTC). Heleni best-practices sync: ✅ last run ok at 07:00 UTC today (40s), next 07:00 UTC tomorrow. Cron health check: ✅ last run ok at 09:00 IL today (06:00 UTC, 14s), next 09:00 IL tomorrow."
   }
 ]
